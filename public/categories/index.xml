@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Happy Vallentynes</title>
+        <link>https://www.vallentyne.com/categories/</link>
+        <description>Categories - Category - Happy Vallentynes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 14:16:00 &#43;0000</lastBuildDate><atom:link href="https://www.vallentyne.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Family News</title>
+    <link>https://www.vallentyne.com/categories/family-news/</link>
+    <pubDate>Tue, 07 Jan 2020 14:16:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://www.vallentyne.com/categories/family-news/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
