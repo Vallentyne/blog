@@ -1,4 +1,4 @@
-baseURL = 'https://www.vallentyne.com/'
+baseURL = 'https://test.vallentyne.com/'
 languageCode = 'en-us'
 title = 'Happy Vallentynes'
 
@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "../.."
+
 
 # whether to use robots.txt
 # 是否使用 robots.txt
