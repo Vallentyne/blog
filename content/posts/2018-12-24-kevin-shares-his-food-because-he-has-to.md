@@ -11,7 +11,7 @@ tags:
 - Kevin is a pussy
 ---
 
-[](http://www.vallentyne.com/blog/wp-content/uploads/2018/12/image_5673854449837.jpg)
+![Kevin getting owned](/wp-content/uploads/2018/12/image_5673854449837.jpg)
 
 
 When the cat is way tougher than your dog.
