@@ -15,4 +15,4 @@ Nikki learned this from an eight-toed Tibetan monk last Tuesday. Terrific workou
 
 
 
-[embed]https://youtu.be/W7746dL267Q[/embed]
+![300](https://youtu.be/W7746dL267Q)

@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![](https://www.vallentyne.com/blog/wp-content/uploads/2020/01/20190630_194043377_iOS-564x1024.jpg)
+![](/blog/wp-content/uploads/2020/01/20190630_194043377_iOS-564x1024.jpg)
 
 
 

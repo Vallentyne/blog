@@ -14,7 +14,7 @@ tags:
 
 
 
-![](http://www.vallentyne.com/blog/wp-content/uploads/2019/01/Scared_Dog.jpg)
+![](/blog/wp-content/uploads/2019/01/Scared_Dog.jpg)
 
 
 

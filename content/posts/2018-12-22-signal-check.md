@@ -9,5 +9,4 @@ categories:
 - News
 ---
 
-[![](http://www.vallentyne.com/blog/wp-content/uploads/2018/12/56615175378__9971a528-092e-4143-88d7-4dae52289f45-e1546917636778-768x1024.jpg)
-](http://www.vallentyne.com/blog/wp-content/uploads/2018/12/56615175378__9971a528-092e-4143-88d7-4dae52289f45-e1546917636778.jpg)Blog test.... ðŸ™‚
+[![](/blog/wp-content/uploads/2018/12/56615175378__9971a528-092e-4143-88d7-4dae52289f45-e1546917636778-768x1024.jpg)Blog test.... ðŸ™‚
