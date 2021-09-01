@@ -98,7 +98,7 @@ enableEmoji = true
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "LoveIt"
+        title = "Vallentyne.com"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -138,13 +138,13 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
+          gravatarEmail = "court@vallentyne.com"
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "Happy Vallentynes"
           # subtitle shown in home page
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Dogs, Kids, and a little technology too"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -158,15 +158,15 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
+        GitHub = "https://github.com/Vallentyne"
         Linkedin = ""
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
+        Twitter = "https://twitter.com/_court"
+        Instagram = ""
+        Facebook = ""
+        Telegram = ""
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -219,7 +219,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "xxxx@xxxx.com"
+        Email = "court@vallentyne.com"
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -656,7 +656,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "LoveIt"
+      name = "Happy Vallentynes"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
