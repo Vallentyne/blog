@@ -3,7 +3,6 @@ author: court
 date: 2011-10-03 17:40:33+00:00
 draft: false
 title: Empire Strikes Back Indeed
-type: post
 url: /blog/2011/10/03/empire-strikes-back-indeed/
 categories:
 - Culture

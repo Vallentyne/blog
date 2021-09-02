@@ -3,7 +3,6 @@ author: court
 date: 2009-04-11 18:55:30+00:00
 draft: false
 title: Here Comes the Gravy
-type: post
 url: /blog/2009/04/11/here-comes-the-gravy/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-12-08 12:00:27+00:00
 draft: false
 title: The boys are very different; part 275
-type: post
 url: /blog/2008/12/08/the-boys-are-very-different-part-275/
 categories:
 - Family News

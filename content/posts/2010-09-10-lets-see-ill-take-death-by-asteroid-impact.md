@@ -3,7 +3,6 @@ author: court
 date: 2010-09-10 20:01:39+00:00
 draft: false
 title: Let's see, I'll take death by asteroid impact.
-type: post
 url: /blog/2010/09/10/lets-see-ill-take-death-by-asteroid-impact/
 categories:
 - Family News

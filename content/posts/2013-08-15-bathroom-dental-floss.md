@@ -3,7 +3,6 @@ author: court
 date: 2013-08-15 06:15:26+00:00
 draft: false
 title: Bathroom dental floss
-type: post
 url: /blog/2013/08/15/bathroom-dental-floss/
 categories:
 - Stupidity

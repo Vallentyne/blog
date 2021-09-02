@@ -3,7 +3,6 @@ author: court
 date: 2007-01-05 18:59:56+00:00
 draft: false
 title: Monstrous Marijuana Correction
-type: post
 url: /blog/2007/01/05/monstrous-marijuana-correction/
 categories:
 - News

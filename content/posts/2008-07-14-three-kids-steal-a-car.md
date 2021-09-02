@@ -3,7 +3,6 @@ author: court
 date: 2008-07-14 17:44:30+00:00
 draft: false
 title: Three kids steal a car
-type: post
 url: /blog/2008/07/14/three-kids-steal-a-car/
 categories:
 - News

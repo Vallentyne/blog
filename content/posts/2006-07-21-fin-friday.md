@@ -3,7 +3,6 @@ author: court
 date: 2006-07-21 15:45:47+00:00
 draft: false
 title: F'in Friday
-type: post
 url: /blog/2006/07/21/fin-friday/
 categories:
 - Culture

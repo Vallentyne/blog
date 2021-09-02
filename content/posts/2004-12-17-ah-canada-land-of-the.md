@@ -3,7 +3,6 @@ author: court
 date: 2004-12-17 11:21:51+00:00
 draft: false
 title: Ah, Canada. Land of the
-type: post
 url: /blog/2004/12/17/ah-canada-land-of-the/
 categories:
 - Culture

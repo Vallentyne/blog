@@ -3,7 +3,6 @@ author: court
 date: 2010-06-07 02:40:42+00:00
 draft: false
 title: Swing Child o' Mine
-type: post
 url: /blog/2010/06/06/swing-child-o-mine/
 categories:
 - Culture

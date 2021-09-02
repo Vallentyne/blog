@@ -3,7 +3,6 @@ author: court
 date: 2003-02-26 16:13:44+00:00
 draft: false
 title: Why is The Onion so
-type: post
 url: /blog/2003/02/26/why-is-the-onion-so/
 categories:
 - Family News

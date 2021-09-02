@@ -3,7 +3,6 @@ author: court
 date: 2004-07-28 10:19:00+00:00
 draft: false
 title: Ok enough about my recent
-type: post
 url: /blog/2004/07/28/ok-enough-about-my-recent/
 categories:
 - Stupidity

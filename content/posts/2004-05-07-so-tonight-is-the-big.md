@@ -3,7 +3,6 @@ author: court
 date: 2004-05-07 11:55:06+00:00
 draft: false
 title: So tonight is the big
-type: post
 url: /blog/2004/05/07/so-tonight-is-the-big/
 categories:
 - Family News

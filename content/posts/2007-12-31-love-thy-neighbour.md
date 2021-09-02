@@ -3,7 +3,6 @@ author: court
 date: 2007-12-31 15:10:25+00:00
 draft: false
 title: Love Thy Neighbour?
-type: post
 url: /blog/2007/12/31/love-thy-neighbour/
 categories:
 - Apocalypse Soon

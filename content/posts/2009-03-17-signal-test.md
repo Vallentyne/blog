@@ -3,7 +3,6 @@ author: court
 date: 2009-03-17 12:30:07+00:00
 draft: false
 title: Signal Test
-type: post
 url: /blog/2009/03/17/signal-test/
 categories:
 - Culture

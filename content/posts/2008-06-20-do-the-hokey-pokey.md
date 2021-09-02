@@ -3,7 +3,6 @@ author: court
 date: 2008-06-20 15:12:37+00:00
 draft: false
 title: Do the Hokey Pokey
-type: post
 url: /blog/2008/06/20/do-the-hokey-pokey/
 categories:
 - News

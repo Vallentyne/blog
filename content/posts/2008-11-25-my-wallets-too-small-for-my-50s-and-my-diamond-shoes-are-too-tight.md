@@ -3,7 +3,6 @@ author: court
 date: 2008-11-25 12:00:19+00:00
 draft: false
 title: My wallet's too small for my $50s and my diamond shoes are too tight
-type: post
 url: /blog/2008/11/25/my-wallets-too-small-for-my-50s-and-my-diamond-shoes-are-too-tight/
 categories:
 - News

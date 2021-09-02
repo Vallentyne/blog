@@ -3,7 +3,6 @@ author: court
 date: 2003-01-07 14:51:04+00:00
 draft: false
 title: This might replace the regular
-type: post
 url: /blog/2003/01/07/this-might-replace-the-regular/
 categories:
 - Tech

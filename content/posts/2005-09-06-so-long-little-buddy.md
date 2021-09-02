@@ -3,7 +3,6 @@ author: court
 date: 2005-09-06 21:17:04+00:00
 draft: false
 title: So long, Little Buddy
-type: post
 url: /blog/2005/09/06/so-long-little-buddy/
 categories:
 - Culture

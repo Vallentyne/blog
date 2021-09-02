@@ -3,7 +3,6 @@ author: court
 date: 2004-07-19 12:25:51+00:00
 draft: false
 title: Since I'm more or less
-type: post
 url: /blog/2004/07/19/since-im-more-or-less/
 categories:
 - News

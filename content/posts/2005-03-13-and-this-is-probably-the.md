@@ -3,7 +3,6 @@ author: court
 date: 2005-03-13 21:17:00+00:00
 draft: false
 title: And this is probably the
-type: post
 url: /blog/2005/03/13/and-this-is-probably-the/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-09-27 21:34:43+00:00
 draft: false
 title: The world of toys never
-type: post
 url: /blog/2004/09/27/the-world-of-toys-never/
 categories:
 - Culture

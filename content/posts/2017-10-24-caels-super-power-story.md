@@ -3,7 +3,6 @@ author: court
 date: 2017-10-24 15:22:48+00:00
 draft: false
 title: Cael's Super Power Story
-type: post
 url: /blog/2017/10/24/caels-super-power-story/
 categories:
 - Family News

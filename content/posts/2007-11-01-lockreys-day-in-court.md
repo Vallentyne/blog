@@ -3,7 +3,6 @@ author: court
 date: 2007-11-01 15:57:27+00:00
 draft: false
 title: Lockrey's Day in Court
-type: post
 url: /blog/2007/11/01/lockreys-day-in-court/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-08-21 22:05:17+00:00
 draft: false
 title: Dog Eats Dip, Pays Price Post-Bedtime
-type: post
 url: /blog/2009/08/21/dog-eats-dip-pays-price-post-bedtime/
 categories:
 - Llife with Lloyd

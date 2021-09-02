@@ -3,7 +3,6 @@ author: court
 date: 2012-04-05 18:01:42+00:00
 draft: false
 title: Recursive Nerdery
-type: post
 url: /blog/2012/04/05/recursive-nerdery/
 categories:
 - Apocalypse Soon

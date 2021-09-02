@@ -3,7 +3,6 @@ author: court
 date: 2007-07-09 00:52:07+00:00
 draft: false
 title: East Winds blow, West Winds blow, SMOG!
-type: post
 url: /blog/2007/07/08/east-winds-blow-west-winds-blow-smog/
 categories:
 - Culture

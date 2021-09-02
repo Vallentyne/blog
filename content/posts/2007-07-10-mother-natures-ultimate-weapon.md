@@ -3,7 +3,6 @@ author: court
 date: 2007-07-10 17:23:07+00:00
 draft: false
 title: Mother Nature's Ultimate Weapon
-type: post
 url: /blog/2007/07/10/mother-natures-ultimate-weapon/
 categories:
 - Apocalypse Soon

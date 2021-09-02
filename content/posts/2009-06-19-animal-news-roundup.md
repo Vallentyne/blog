@@ -3,7 +3,6 @@ author: court
 date: 2009-06-19 10:01:52+00:00
 draft: false
 title: Animal News Roundup
-type: post
 url: /blog/2009/06/19/animal-news-roundup/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-06-09 13:12:27+00:00
 draft: false
 title: No satire left in this one
-type: post
 url: /blog/2006/06/09/no-satire-left-in-this-one/
 categories:
 - News

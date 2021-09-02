@@ -3,7 +3,6 @@ author: court
 date: 2003-10-07 10:43:16+00:00
 draft: false
 title: I had a great time
-type: post
 url: /blog/2003/10/07/i-had-a-great-time/
 categories:
 - Family News

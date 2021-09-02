@@ -3,7 +3,6 @@ author: court
 date: 2011-11-03 20:15:28+00:00
 draft: false
 title: Cael's Greatest Hits
-type: post
 url: /blog/2011/11/03/caels-greatest-hits/
 categories:
 - Family News

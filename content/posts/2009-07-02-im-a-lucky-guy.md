@@ -3,7 +3,6 @@ author: court
 date: 2009-07-02 15:23:22+00:00
 draft: false
 title: I'm a lucky guy.
-type: post
 url: /blog/2009/07/02/im-a-lucky-guy/
 categories:
 - Family News

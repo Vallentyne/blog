@@ -3,7 +3,6 @@ author: court
 date: 2009-01-19 18:31:35+00:00
 draft: false
 title: Bus Strike - Day 41
-type: post
 url: /blog/2009/01/19/bus-strike-day-41/
 categories:
 - News

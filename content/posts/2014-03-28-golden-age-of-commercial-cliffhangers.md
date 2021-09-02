@@ -3,7 +3,6 @@ author: court
 date: 2014-03-28 20:26:41+00:00
 draft: false
 title: Golden Age of commercial cliffhangers
-type: post
 url: /blog/2014/03/28/golden-age-of-commercial-cliffhangers/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-10-10 12:00:03+00:00
 draft: false
 title: Amazing Aerial Photography
-type: post
 url: /blog/2008/10/10/amazing-aerial-photography/
 categories:
 - News

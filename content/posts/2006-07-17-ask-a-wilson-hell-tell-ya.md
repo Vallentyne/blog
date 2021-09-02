@@ -3,7 +3,6 @@ author: court
 date: 2006-07-17 16:07:01+00:00
 draft: false
 title: Ask a Wilson, he'll tell ya
-type: post
 url: /blog/2006/07/17/ask-a-wilson-hell-tell-ya/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 16:45:11+00:00
 draft: false
 title: Al here. On the subject
-type: post
 url: /blog/2003/03/07/al-here-on-the-subject/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-09-09 12:54:01+00:00
 draft: false
 title: I'm not one to jump on a bandwagon....
-type: post
 url: /blog/2005/09/09/im-not-one-to-jump-on-a-bandwagon/
 categories:
 - News

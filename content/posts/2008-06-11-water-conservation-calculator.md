@@ -3,7 +3,6 @@ author: court
 date: 2008-06-11 14:00:55+00:00
 draft: false
 title: Water Conservation Calculator
-type: post
 url: /blog/2008/06/11/water-conservation-calculator/
 categories:
 - Apocalypse Soon

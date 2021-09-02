@@ -3,7 +3,6 @@ author: court
 date: 2004-11-09 15:28:17+00:00
 draft: false
 title: Oh man, I need this
-type: post
 url: /blog/2004/11/09/oh-man-i-need-this/
 categories:
 - Tech

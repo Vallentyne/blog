@@ -3,7 +3,6 @@ author: court
 date: 2005-01-17 16:15:10+00:00
 draft: false
 title: I guess he's "lucky". This
-type: post
 url: /blog/2005/01/17/i-guess-hes-lucky-this/
 categories:
 - Stupidity

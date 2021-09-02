@@ -3,7 +3,6 @@ author: court
 date: 2015-01-07 15:07:32+00:00
 draft: false
 title: Happy Eleventh Cael!
-type: post
 url: /blog/2015/01/07/happy-eleventh-cael/
 categories:
 - Family News

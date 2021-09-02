@@ -3,7 +3,6 @@ author: court
 date: 2008-02-26 14:08:50+00:00
 draft: false
 title: Raising Smart Kids
-type: post
 url: /blog/2008/02/26/raising-smart-kids/
 categories:
 - Culture

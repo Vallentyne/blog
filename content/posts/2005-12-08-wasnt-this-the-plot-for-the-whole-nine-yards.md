@@ -3,7 +3,6 @@ author: court
 date: 2005-12-08 09:15:39+00:00
 draft: false
 title: Wasn't this the plot for "The Whole Nine Yards"?
-type: post
 url: /blog/2005/12/08/wasnt-this-the-plot-for-the-whole-nine-yards/
 categories:
 - Stupidity

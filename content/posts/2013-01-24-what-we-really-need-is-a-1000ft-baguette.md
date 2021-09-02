@@ -3,7 +3,6 @@ author: court
 date: 2013-01-24 12:00:04+00:00
 draft: false
 title: What we really need is a 1000ft baguette
-type: post
 url: /blog/2013/01/24/what-we-really-need-is-a-1000ft-baguette/
 categories:
 - News

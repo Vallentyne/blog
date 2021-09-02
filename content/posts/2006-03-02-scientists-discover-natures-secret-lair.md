@@ -3,7 +3,6 @@ author: court
 date: 2006-03-02 14:19:28+00:00
 draft: false
 title: Scientists Discover Nature's Secret Lair
-type: post
 url: /blog/2006/03/02/scientists-discover-natures-secret-lair/
 categories:
 - Apocalypse Soon

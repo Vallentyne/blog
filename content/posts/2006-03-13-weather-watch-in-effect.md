@@ -3,7 +3,6 @@ author: court
 date: 2006-03-13 12:31:48+00:00
 draft: false
 title: Weather Watch in Effect
-type: post
 url: /blog/2006/03/13/weather-watch-in-effect/
 categories:
 - Tech

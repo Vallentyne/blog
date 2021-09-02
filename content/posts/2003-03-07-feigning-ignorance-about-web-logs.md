@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 09:46:08+00:00
 draft: false
 title: Feigning ignorance about Web logs,
-type: post
 url: /blog/2003/03/07/feigning-ignorance-about-web-logs/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-10-02 18:10:40+00:00
 draft: false
 title: Can anybody explain this?
-type: post
 url: /blog/2006/10/02/can-anybody-explain-this/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2003-06-05 13:36:28+00:00
 draft: false
 title: Yeah, where is everybody? I
-type: post
 url: /blog/2003/06/05/yeah-where-is-everybody-i/
 categories:
 - Family News

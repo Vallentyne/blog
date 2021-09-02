@@ -3,7 +3,6 @@ author: court
 date: 2008-04-07 13:56:10+00:00
 draft: false
 title: Dog bites dog, woman bites back
-type: post
 url: /blog/2008/04/07/dog-bites-dog-woman-bites-back/
 categories:
 - News

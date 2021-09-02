@@ -3,7 +3,6 @@ author: court
 date: 2007-01-16 21:33:32+00:00
 draft: false
 title: Happy Belated Birthday to Darlene
-type: post
 url: /blog/2007/01/16/happy-belated-birthday-to-darlene/
 categories:
 - Family News

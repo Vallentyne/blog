@@ -3,7 +3,6 @@ author: court
 date: 2008-12-19 14:35:07+00:00
 draft: false
 title: Party at our place tonight
-type: post
 url: /blog/2008/12/19/party-at-our-place-tonight/
 categories:
 - Family News

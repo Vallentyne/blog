@@ -3,7 +3,6 @@ author: court
 date: 2005-09-12 22:15:22+00:00
 draft: false
 title: Cheap Shots
-type: post
 url: /blog/2005/09/12/cheap-shots/
 categories:
 - Culture

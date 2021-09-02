@@ -3,7 +3,6 @@ author: court
 date: 2016-08-12 17:43:40+00:00
 draft: false
 title: Deck-Sized Cooler
-type: post
 url: /blog/2016/08/12/deck-sized-cooler/
 categories:
 - Family News

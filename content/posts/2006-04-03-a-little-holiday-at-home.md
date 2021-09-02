@@ -3,7 +3,6 @@ author: court
 date: 2006-04-03 09:48:35+00:00
 draft: false
 title: A Little Holiday at Home
-type: post
 url: /blog/2006/04/03/a-little-holiday-at-home/
 categories:
 - Family News

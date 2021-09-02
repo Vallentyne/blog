@@ -3,7 +3,6 @@ author: court
 date: 2005-08-26 12:47:04+00:00
 draft: false
 title: World Perspective
-type: post
 url: /blog/2005/08/26/world-perspective/
 categories:
 - News

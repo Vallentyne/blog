@@ -3,7 +3,6 @@ author: court
 date: 2009-03-19 19:55:37+00:00
 draft: false
 title: Coffee Counter-Intuitive
-type: post
 url: /blog/2009/03/19/coffee-counter-intuitive/
 categories:
 - Culture

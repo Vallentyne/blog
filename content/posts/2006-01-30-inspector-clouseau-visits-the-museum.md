@@ -3,7 +3,6 @@ author: court
 date: 2006-01-30 14:24:39+00:00
 draft: false
 title: Inspector Clouseau visits the Museum
-type: post
 url: /blog/2006/01/30/inspector-clouseau-visits-the-museum/
 categories:
 - Stupidity

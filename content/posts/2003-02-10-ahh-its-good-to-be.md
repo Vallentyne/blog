@@ -3,7 +3,6 @@ author: court
 date: 2003-02-10 15:26:32+00:00
 draft: false
 title: Ahh, it's good to be
-type: post
 url: /blog/2003/02/10/ahh-its-good-to-be/
 categories:
 - Tech

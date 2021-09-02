@@ -3,7 +3,6 @@ author: nikki
 date: 2003-01-21 00:57:37+00:00
 draft: false
 title: Yes, CLEARLY it is I
-type: post
 url: /blog/2003/01/20/yes-clearly-it-is-i/
 categories:
 - Family News

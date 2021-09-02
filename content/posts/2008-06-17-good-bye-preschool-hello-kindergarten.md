@@ -3,7 +3,6 @@ author: nikki
 date: 2008-06-17 21:50:52+00:00
 draft: false
 title: Good-bye Preschool, Hello Kindergarten...
-type: post
 url: /blog/2008/06/17/good-bye-preschool-hello-kindergarten/
 categories:
 - News

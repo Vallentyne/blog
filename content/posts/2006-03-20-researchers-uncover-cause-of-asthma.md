@@ -3,7 +3,6 @@ author: court
 date: 2006-03-20 13:54:43+00:00
 draft: false
 title: Researchers Uncover Cause of Asthma
-type: post
 url: /blog/2006/03/20/researchers-uncover-cause-of-asthma/
 categories:
 - News

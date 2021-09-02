@@ -3,7 +3,6 @@ author: court
 date: 2007-01-10 16:49:08+00:00
 draft: false
 title: Spectator Drugs
-type: post
 url: /blog/2007/01/10/spectator-drugs/
 categories:
 - Culture

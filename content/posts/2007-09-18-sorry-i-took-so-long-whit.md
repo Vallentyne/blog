@@ -3,7 +3,6 @@ author: nikki
 date: 2007-09-18 15:44:51+00:00
 draft: false
 title: Sorry I took so long Whit...
-type: post
 url: /blog/2007/09/18/sorry-i-took-so-long-whit/
 categories:
 - News

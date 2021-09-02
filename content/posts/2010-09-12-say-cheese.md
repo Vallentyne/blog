@@ -3,7 +3,6 @@ author: court
 date: 2010-09-12 16:18:26+00:00
 draft: false
 title: Say Cheese!
-type: post
 url: /blog/2010/09/12/say-cheese/
 categories:
 - Llife with Lloyd

@@ -3,7 +3,6 @@ author: court
 date: 2006-08-17 09:28:06+00:00
 draft: false
 title: Workout Mistakes
-type: post
 url: /blog/2006/08/17/workout-mistakes/
 categories:
 - Family News

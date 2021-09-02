@@ -3,7 +3,6 @@ author: court
 date: 2010-08-26 19:18:39+00:00
 draft: false
 title: Dogs at Camp Rocks!*
-type: post
 url: /blog/2010/08/26/dogs-at-camp-rocks/
 categories:
 - Llife with Lloyd

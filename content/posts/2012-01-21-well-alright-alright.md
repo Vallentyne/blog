@@ -3,7 +3,6 @@ author: court
 date: 2012-01-21 22:11:51+00:00
 draft: false
 title: Well alright alright...
-type: post
 url: /blog/2012/01/21/well-alright-alright/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2006-01-01 14:17:32+00:00
 draft: false
 title: Yes, I'm a geek, get over it.
-type: post
 url: /blog/2006/01/01/yes-im-a-geek-get-over-it/
 categories:
 - Tech

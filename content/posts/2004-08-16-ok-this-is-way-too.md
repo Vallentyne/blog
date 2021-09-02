@@ -3,7 +3,6 @@ author: court
 date: 2004-08-16 12:44:04+00:00
 draft: false
 title: Ok, this is way too
-type: post
 url: /blog/2004/08/16/ok-this-is-way-too/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2012-08-02 17:22:11+00:00
 draft: false
 title: Enter ye the trench of puns, and abandon all hope
-type: post
 url: /blog/2012/08/02/enter-ye-the-trench-of-puns-and-abandon-all-hope/
 categories:
 - Home Improvements

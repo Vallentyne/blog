@@ -3,7 +3,6 @@ author: court
 date: 2005-05-25 12:38:26+00:00
 draft: false
 title: Romance Book Covers
-type: post
 url: /blog/2005/05/25/romance-book-covers/
 categories:
 - Culture

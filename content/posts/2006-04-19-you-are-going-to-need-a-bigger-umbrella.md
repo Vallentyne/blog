@@ -3,7 +3,6 @@ author: court
 date: 2006-04-19 13:17:57+00:00
 draft: false
 title: You are going to need a bigger umbrella
-type: post
 url: /blog/2006/04/19/you-are-going-to-need-a-bigger-umbrella/
 categories:
 - Apocalypse Soon

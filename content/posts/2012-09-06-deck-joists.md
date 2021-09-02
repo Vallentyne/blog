@@ -3,7 +3,6 @@ author: court
 date: 2012-09-06 19:42:51+00:00
 draft: false
 title: Deck Joists
-type: post
 url: /blog/2012/09/06/deck-joists/
 categories:
 - Home Improvements

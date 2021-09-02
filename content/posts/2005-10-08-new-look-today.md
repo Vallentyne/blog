@@ -3,7 +3,6 @@ author: court
 date: 2005-10-08 23:06:21+00:00
 draft: false
 title: New look today
-type: post
 url: /blog/2005/10/08/new-look-today/
 categories:
 - Tech

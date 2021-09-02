@@ -3,7 +3,6 @@ author: court
 date: 2009-07-10 10:00:55+00:00
 draft: false
 title: Hide and Seek
-type: post
 url: /blog/2009/07/10/hide-and-seek/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2005-05-30 21:32:33+00:00
 draft: false
 title: Ice Scream
-type: post
 url: /blog/2005/05/30/ice-scream/
 categories:
 - Stupidity

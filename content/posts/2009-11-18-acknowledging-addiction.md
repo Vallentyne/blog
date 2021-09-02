@@ -3,7 +3,6 @@ author: court
 date: 2009-11-18 15:25:48+00:00
 draft: false
 title: Acknowledging Addiction
-type: post
 url: /blog/2009/11/18/acknowledging-addiction/
 categories:
 - Family News

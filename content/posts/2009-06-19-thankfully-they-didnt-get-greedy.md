@@ -3,7 +3,6 @@ author: court
 date: 2009-06-19 13:01:29+00:00
 draft: false
 title: Thankfully, they didn't get greedy
-type: post
 url: /blog/2009/06/19/thankfully-they-didnt-get-greedy/
 categories:
 - Stupidity

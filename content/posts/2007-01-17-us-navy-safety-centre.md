@@ -3,7 +3,6 @@ author: court
 date: 2007-01-17 18:13:04+00:00
 draft: false
 title: US Navy Safety Centre
-type: post
 url: /blog/2007/01/17/us-navy-safety-centre/
 categories:
 - Stupidity

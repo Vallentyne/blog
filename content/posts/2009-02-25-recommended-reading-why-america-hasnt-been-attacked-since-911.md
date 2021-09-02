@@ -3,7 +3,6 @@ author: court
 date: 2009-02-25 22:07:10+00:00
 draft: false
 title: Recommended Reading - Why America Hasn't Been Attacked Since 9/11
-type: post
 url: /blog/2009/02/25/recommended-reading-why-america-hasnt-been-attacked-since-911/
 categories:
 - Apocalypse Soon

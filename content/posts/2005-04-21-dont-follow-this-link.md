@@ -3,7 +3,6 @@ author: court
 date: 2005-04-21 10:04:44+00:00
 draft: false
 title: Don't follow this link
-type: post
 url: /blog/2005/04/21/dont-follow-this-link/
 categories:
 - Culture

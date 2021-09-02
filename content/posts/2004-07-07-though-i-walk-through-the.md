@@ -3,7 +3,6 @@ author: court
 date: 2004-07-07 14:01:42+00:00
 draft: false
 title: '"Though I walk through the'
-type: post
 url: /blog/2004/07/07/though-i-walk-through-the/
 categories:
 - Family News

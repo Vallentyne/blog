@@ -3,7 +3,6 @@ author: court
 date: 2004-09-30 10:31:46+00:00
 draft: false
 title: Talk about strange ways of
-type: post
 url: /blog/2004/09/30/talk-about-strange-ways-of/
 categories:
 - News

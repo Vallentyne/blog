@@ -3,7 +3,6 @@ author: court
 date: 2009-03-13 04:23:58+00:00
 draft: false
 title: Dwarfed Punk
-type: post
 url: /blog/2009/03/13/dwarfed-punk/
 categories:
 - Culture

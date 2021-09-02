@@ -3,7 +3,6 @@ author: court
 date: 2004-09-23 15:46:24+00:00
 draft: false
 title: Garage Sale alert. Yet Another
-type: post
 url: /blog/2004/09/23/garage-sale-alert-yet-another/
 categories:
 - Family News

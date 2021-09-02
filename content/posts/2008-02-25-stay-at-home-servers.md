@@ -3,7 +3,6 @@ author: court
 date: 2008-02-25 14:44:12+00:00
 draft: false
 title: Stay at Home Servers
-type: post
 url: /blog/2008/02/25/stay-at-home-servers/
 categories:
 - News

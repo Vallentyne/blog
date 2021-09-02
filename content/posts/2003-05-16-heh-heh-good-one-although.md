@@ -3,7 +3,6 @@ author: court
 date: 2003-05-16 15:37:59+00:00
 draft: false
 title: Heh heh, good one, although
-type: post
 url: /blog/2003/05/16/heh-heh-good-one-although/
 categories:
 - Family News

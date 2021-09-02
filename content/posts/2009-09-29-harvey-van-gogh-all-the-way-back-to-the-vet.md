@@ -3,7 +3,6 @@ author: court
 date: 2009-09-29 14:37:36+00:00
 draft: false
 title: Harvey Van Gogh all the way back to the vet
-type: post
 url: /blog/2009/09/29/harvey-van-gogh-all-the-way-back-to-the-vet/
 categories:
 - Family News

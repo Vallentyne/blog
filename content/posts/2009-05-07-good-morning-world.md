@@ -3,7 +3,6 @@ author: nikki
 date: 2009-05-07 14:32:43+00:00
 draft: false
 title: Good Morning World!
-type: post
 url: /blog/2009/05/07/good-morning-world/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-01-30 19:23:44+00:00
 draft: false
 title: Celebrity Blogs
-type: post
 url: /blog/2006/01/30/celebrity-blogs/
 categories:
 - Tech

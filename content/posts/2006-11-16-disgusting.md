@@ -3,7 +3,6 @@ author: court
 date: 2006-11-16 17:27:42+00:00
 draft: false
 title: Disgusting
-type: post
 url: /blog/2006/11/16/disgusting/
 categories:
 - News

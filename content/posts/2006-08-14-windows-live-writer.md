@@ -3,7 +3,6 @@ author: court
 date: 2006-08-14 11:30:57+00:00
 draft: false
 title: Windows Live Writer
-type: post
 url: /blog/2006/08/14/windows-live-writer/
 categories:
 - Tech

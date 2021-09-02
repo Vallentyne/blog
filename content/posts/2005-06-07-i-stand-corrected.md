@@ -3,7 +3,6 @@ author: court
 date: 2005-06-07 09:53:01+00:00
 draft: false
 title: I stand corrected.
-type: post
 url: /blog/2005/06/07/i-stand-corrected/
 categories:
 - Family News

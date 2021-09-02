@@ -3,7 +3,6 @@ author: court
 date: 2015-07-27 14:38:12+00:00
 draft: false
 title: Mass Shooting Tracker
-type: post
 url: /blog/2015/07/27/mass-shooting-tracker/
 categories:
 - Apocalypse Soon

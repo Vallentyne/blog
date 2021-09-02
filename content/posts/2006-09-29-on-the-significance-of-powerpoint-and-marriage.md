@@ -3,7 +3,6 @@ author: court
 date: 2006-09-29 17:11:27+00:00
 draft: false
 title: On the significance of PowerPoint and marriage
-type: post
 url: /blog/2006/09/29/on-the-significance-of-powerpoint-and-marriage/
 categories:
 - Family News

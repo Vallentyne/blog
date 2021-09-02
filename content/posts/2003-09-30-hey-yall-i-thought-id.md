@@ -3,7 +3,6 @@ author: court
 date: 2003-09-30 13:37:49+00:00
 draft: false
 title: Hey y'all. I thought I'd
-type: post
 url: /blog/2003/09/30/hey-yall-i-thought-id/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2007-01-15 18:23:58+00:00
 draft: false
 title: I'm gonna rent me some Willy
-type: post
 url: /blog/2007/01/15/im-gonna-rent-me-some-willy/
 categories:
 - Culture

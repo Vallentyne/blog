@@ -3,7 +3,6 @@ author: court
 date: 2008-03-26 19:53:23+00:00
 draft: false
 title: Children for Sale
-type: post
 url: /blog/2008/03/26/children-for-sale/
 categories:
 - Family News

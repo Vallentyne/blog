@@ -3,7 +3,6 @@ author: court
 date: 2009-05-26 15:43:42+00:00
 draft: false
 title: Mr. Bud Light Head Stages Daring Daylight Robbery
-type: post
 url: /blog/2009/05/26/mr-bud-light-head-stages-daring-daylight-robbery/
 categories:
 - News

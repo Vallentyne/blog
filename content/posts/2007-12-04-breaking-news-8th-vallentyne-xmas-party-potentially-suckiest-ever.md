@@ -3,7 +3,6 @@ author: court
 date: 2007-12-04 18:22:49+00:00
 draft: false
 title: 'Breaking News: 8th Vallentyne Xmas Party (potentially) Suckiest Ever'
-type: post
 url: /blog/2007/12/04/breaking-news-8th-vallentyne-xmas-party-potentially-suckiest-ever/
 categories:
 - Family News

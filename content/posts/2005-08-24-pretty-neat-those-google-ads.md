@@ -3,7 +3,6 @@ author: court
 date: 2005-08-24 23:08:50+00:00
 draft: false
 title: Pretty neat, those Google ads
-type: post
 url: /blog/2005/08/24/pretty-neat-those-google-ads/
 categories:
 - Tech

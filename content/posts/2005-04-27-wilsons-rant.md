@@ -3,7 +3,6 @@ author: court
 date: 2005-04-27 11:00:08+00:00
 draft: false
 title: Wilson's Rant
-type: post
 url: /blog/2005/04/27/wilsons-rant/
 categories:
 - Culture

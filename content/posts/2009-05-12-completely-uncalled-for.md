@@ -3,7 +3,6 @@ author: nikki
 date: 2009-05-12 16:10:58+00:00
 draft: false
 title: Completely Uncalled For....
-type: post
 url: /blog/2009/05/12/completely-uncalled-for/
 categories:
 - News

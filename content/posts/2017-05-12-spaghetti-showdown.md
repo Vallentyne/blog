@@ -3,7 +3,6 @@ author: court
 date: 2017-05-12 18:08:53+00:00
 draft: false
 title: Spaghetti Showdown
-type: post
 url: /blog/2017/05/12/spaghetti-showdown/
 categories:
 - Family News

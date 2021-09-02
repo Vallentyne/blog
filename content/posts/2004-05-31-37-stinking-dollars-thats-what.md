@@ -3,7 +3,6 @@ author: court
 date: 2004-05-31 12:42:22+00:00
 draft: false
 title: 37 stinking dollars. That's what
-type: post
 url: /blog/2004/05/31/37-stinking-dollars-thats-what/
 categories:
 - Family News

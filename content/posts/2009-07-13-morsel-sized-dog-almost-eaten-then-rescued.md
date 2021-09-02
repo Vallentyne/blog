@@ -3,7 +3,6 @@ author: court
 date: 2009-07-13 19:42:12+00:00
 draft: false
 title: Morsel-sized dog almost eaten, then rescued
-type: post
 url: /blog/2009/07/13/morsel-sized-dog-almost-eaten-then-rescued/
 categories:
 - News

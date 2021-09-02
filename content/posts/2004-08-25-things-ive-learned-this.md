@@ -3,7 +3,6 @@ author: nikki
 date: 2004-08-25 09:42:35+00:00
 draft: false
 title: Things I've learned this
-type: post
 url: /blog/2004/08/25/things-ive-learned-this/
 categories:
 - Family News

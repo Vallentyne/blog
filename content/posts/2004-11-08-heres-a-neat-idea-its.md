@@ -3,7 +3,6 @@ author: court
 date: 2004-11-08 15:48:03+00:00
 draft: false
 title: Here's a neat idea. It's
-type: post
 url: /blog/2004/11/08/heres-a-neat-idea-its/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-03-12 12:32:29+00:00
 draft: false
 title: Just a quick note today.
-type: post
 url: /blog/2004/03/12/just-a-quick-note-today/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-04-23 20:19:49+00:00
 draft: false
 title: My Body is Possessed
-type: post
 url: /blog/2008/04/23/my-body-is-possessed/
 categories:
 - Family News

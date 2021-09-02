@@ -3,7 +3,6 @@ author: court
 date: 2012-02-21 20:47:04+00:00
 draft: false
 title: Saint Bernards in the mist
-type: post
 url: /blog/2012/02/21/saint-bernards-in-the-mist/
 categories:
 - Llife with Lloyd

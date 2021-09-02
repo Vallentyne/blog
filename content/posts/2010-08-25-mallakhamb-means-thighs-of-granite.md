@@ -3,7 +3,6 @@ author: court
 date: 2010-08-25 17:39:13+00:00
 draft: false
 title: Mallakhamb means Thighs of Granite
-type: post
 url: /blog/2010/08/25/mallakhamb-means-thighs-of-granite/
 categories:
 - Culture

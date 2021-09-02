@@ -3,7 +3,6 @@ author: court
 date: 2006-03-29 10:28:10+00:00
 draft: false
 title: Mining accident?  Yes, of course that's what it was.
-type: post
 url: /blog/2006/03/29/mining-accident-yes-of-course-thats-what-it-was/
 categories:
 - News

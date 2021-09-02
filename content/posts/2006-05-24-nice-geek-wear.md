@@ -3,7 +3,6 @@ author: court
 date: 2006-05-24 16:32:52+00:00
 draft: false
 title: Nice Geek Wear
-type: post
 url: /blog/2006/05/24/nice-geek-wear/
 categories:
 - Tech

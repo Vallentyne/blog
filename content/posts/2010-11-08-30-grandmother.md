@@ -3,7 +3,6 @@ author: court
 date: 2010-11-08 18:09:47+00:00
 draft: false
 title: 30 Grand(mother)
-type: post
 url: /blog/2010/11/08/30-grandmother/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2010-02-17 00:00:50+00:00
 draft: false
 title: Westminster Dog Show
-type: post
 url: /blog/2010/02/16/westminster-dog-show/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-11-12 09:59:26+00:00
 draft: false
 title: The Storm link is up,
-type: post
 url: /blog/2004/11/12/the-storm-link-is-up/
 categories:
 - Tech

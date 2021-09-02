@@ -3,7 +3,6 @@ author: court
 date: 2005-04-26 12:28:30+00:00
 draft: false
 title: Dinosaur Phone Line is Alive
-type: post
 url: /blog/2005/04/26/dinosaur-phone-line-is-alive/
 categories:
 - Tech

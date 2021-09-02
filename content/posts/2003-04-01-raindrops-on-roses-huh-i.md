@@ -3,7 +3,6 @@ author: court
 date: 2003-04-01 13:43:43+00:00
 draft: false
 title: Raindrops on roses, huh? I
-type: post
 url: /blog/2003/04/01/raindrops-on-roses-huh-i/
 categories:
 - Family News

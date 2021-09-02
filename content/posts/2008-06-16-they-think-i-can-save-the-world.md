@@ -3,7 +3,6 @@ author: nikki
 date: 2008-06-16 14:12:01+00:00
 draft: false
 title: They think I can save THE WORLD!!!
-type: post
 url: /blog/2008/06/16/they-think-i-can-save-the-world/
 categories:
 - Family News

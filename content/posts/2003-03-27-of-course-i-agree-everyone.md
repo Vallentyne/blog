@@ -3,7 +3,6 @@ author: court
 date: 2003-03-27 10:46:01+00:00
 draft: false
 title: Of course I agree. Everyone
-type: post
 url: /blog/2003/03/27/of-course-i-agree-everyone/
 categories:
 - Family News

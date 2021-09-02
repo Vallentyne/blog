@@ -3,7 +3,6 @@ author: court
 date: 2006-07-12 12:55:36+00:00
 draft: false
 title: Internet Tycoons
-type: post
 url: /blog/2006/07/12/internet-tycoons/
 categories:
 - News

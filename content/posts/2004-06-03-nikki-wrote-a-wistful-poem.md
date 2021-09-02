@@ -3,7 +3,6 @@ author: court
 date: 2004-06-03 13:13:41+00:00
 draft: false
 title: Nikki wrote a wistful poem
-type: post
 url: /blog/2004/06/03/nikki-wrote-a-wistful-poem/
 categories:
 - Family News

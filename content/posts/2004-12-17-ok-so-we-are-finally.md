@@ -3,7 +3,6 @@ author: court
 date: 2004-12-17 13:18:50+00:00
 draft: false
 title: Ok, so we are finally
-type: post
 url: /blog/2004/12/17/ok-so-we-are-finally/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2011-07-12 19:28:06+00:00
 draft: false
 title: Camp Smitty Departure
-type: post
 url: /blog/2011/07/12/camp-smitty-departure/
 categories:
 - Family News

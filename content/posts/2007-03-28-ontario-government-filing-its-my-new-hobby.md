@@ -3,7 +3,6 @@ author: nikki
 date: 2007-03-28 19:16:00+00:00
 draft: false
 title: Ontario Government Filing... It's my new hobby.
-type: post
 url: /blog/2007/03/28/ontario-government-filing-its-my-new-hobby/
 categories:
 - Family News

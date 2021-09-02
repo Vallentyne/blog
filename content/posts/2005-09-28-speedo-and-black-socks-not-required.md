@@ -3,7 +3,6 @@ author: court
 date: 2005-09-28 12:30:17+00:00
 draft: false
 title: Speedo and black socks not required
-type: post
 url: /blog/2005/09/28/speedo-and-black-socks-not-required/
 categories:
 - Tech

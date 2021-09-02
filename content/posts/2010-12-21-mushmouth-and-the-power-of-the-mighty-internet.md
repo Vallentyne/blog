@@ -3,7 +3,6 @@ author: court
 date: 2010-12-21 20:52:09+00:00
 draft: false
 title: Mushmouth, and the power of the mighty Internet
-type: post
 url: /blog/2010/12/21/mushmouth-and-the-power-of-the-mighty-internet/
 categories:
 - Stupidity

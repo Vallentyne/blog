@@ -3,7 +3,6 @@ author: court
 date: 2003-02-28 11:39:44+00:00
 draft: false
 title: So. Here I am. T-3
-type: post
 url: /blog/2003/02/28/so-here-i-am-t-3/
 categories:
 - Family News

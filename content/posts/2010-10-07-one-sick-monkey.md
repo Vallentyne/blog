@@ -3,7 +3,6 @@ author: court
 date: 2010-10-07 17:07:22+00:00
 draft: false
 title: One Sick Monkey
-type: post
 url: /blog/2010/10/07/one-sick-monkey/
 categories:
 - Stupidity

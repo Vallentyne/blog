@@ -3,7 +3,6 @@ author: court
 date: 2008-11-27 16:36:46+00:00
 draft: false
 title: Good Morning
-type: post
 url: /blog/2008/11/27/good-morning/
 categories:
 - Stupidity

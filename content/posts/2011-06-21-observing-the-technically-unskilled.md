@@ -3,7 +3,6 @@ author: court
 date: 2011-06-21 19:47:19+00:00
 draft: false
 title: Observing The Technically Unskilled
-type: post
 url: /blog/2011/06/21/observing-the-technically-unskilled/
 categories:
 - Stupidity

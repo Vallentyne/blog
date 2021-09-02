@@ -3,7 +3,6 @@ author: court
 date: 2005-12-12 14:02:41+00:00
 draft: false
 title: Prize-winning nature photography
-type: post
 url: /blog/2005/12/12/prize-winning-nature-photography/
 categories:
 - News

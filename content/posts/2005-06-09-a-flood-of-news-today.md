@@ -3,7 +3,6 @@ author: court
 date: 2005-06-09 15:22:28+00:00
 draft: false
 title: A flood of news today
-type: post
 url: /blog/2005/06/09/a-flood-of-news-today/
 categories:
 - News

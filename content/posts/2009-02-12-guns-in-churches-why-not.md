@@ -3,7 +3,6 @@ author: court
 date: 2009-02-12 15:42:58+00:00
 draft: false
 title: Guns in Churches, why not?
-type: post
 url: /blog/2009/02/12/guns-in-churches-why-not/
 categories:
 - Apocalypse Soon

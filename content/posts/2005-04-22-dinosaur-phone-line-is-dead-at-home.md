@@ -3,7 +3,6 @@ author: court
 date: 2005-04-22 14:50:57+00:00
 draft: false
 title: Dinosaur Phone Line is Dead at home
-type: post
 url: /blog/2005/04/22/dinosaur-phone-line-is-dead-at-home/
 categories:
 - Family News

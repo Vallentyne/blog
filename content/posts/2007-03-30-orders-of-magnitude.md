@@ -3,7 +3,6 @@ author: court
 date: 2007-03-30 17:38:38+00:00
 draft: false
 title: Orders of Magnitude
-type: post
 url: /blog/2007/03/30/orders-of-magnitude/
 categories:
 - Tech

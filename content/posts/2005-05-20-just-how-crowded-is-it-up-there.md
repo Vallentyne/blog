@@ -3,7 +3,6 @@ author: court
 date: 2005-05-20 14:01:50+00:00
 draft: false
 title: Just how crowded is it up there?
-type: post
 url: /blog/2005/05/20/just-how-crowded-is-it-up-there/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2005-06-10 11:10:48+00:00
 draft: false
 title: Follow-up to yesterday
-type: post
 url: /blog/2005/06/10/follow-up-to-yesterday/
 categories:
 - News

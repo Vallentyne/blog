@@ -3,7 +3,6 @@ author: court
 date: 2012-04-09 19:06:46+00:00
 draft: false
 title: ZeFrank is back!
-type: post
 url: /blog/2012/04/09/zefrank-is-back/
 categories:
 - Culture

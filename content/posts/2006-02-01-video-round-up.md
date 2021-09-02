@@ -3,7 +3,6 @@ author: court
 date: 2006-02-01 10:42:34+00:00
 draft: false
 title: Video Round Up
-type: post
 url: /blog/2006/02/01/video-round-up/
 categories:
 - Stupidity

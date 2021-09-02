@@ -3,7 +3,6 @@ author: court
 date: 2006-11-07 16:37:40+00:00
 draft: false
 title: Good gravy, you shot it with Cajun?
-type: post
 url: /blog/2006/11/07/good-gravy-you-shot-it-with-cajun/
 categories:
 - Stupidity

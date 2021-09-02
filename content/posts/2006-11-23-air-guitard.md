@@ -3,7 +3,6 @@ author: court
 date: 2006-11-23 15:05:43+00:00
 draft: false
 title: Air Guitard
-type: post
 url: /blog/2006/11/23/air-guitard/
 categories:
 - Stupidity

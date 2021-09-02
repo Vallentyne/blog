@@ -3,7 +3,6 @@ author: court
 date: 2009-09-20 22:09:07+00:00
 draft: false
 title: First Run with the new iPhone armband...
-type: post
 url: /blog/2009/09/20/first-run-with-the-new-iphone-armband/
 categories:
 - Running

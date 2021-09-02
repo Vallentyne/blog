@@ -3,7 +3,6 @@ author: court
 date: 2005-09-19 13:25:33+00:00
 draft: false
 title: Ohm my, this sparked my interest
-type: post
 url: /blog/2005/09/19/ohm-my-this-sparked-my-interest/
 categories:
 - Stupidity

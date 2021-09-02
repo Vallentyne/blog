@@ -3,7 +3,6 @@ author: court
 date: 2008-02-05 14:13:09+00:00
 draft: false
 title: Planes, Brains? and Automobiles
-type: post
 url: /blog/2008/02/05/planes-brains-and-automobiles/
 categories:
 - News

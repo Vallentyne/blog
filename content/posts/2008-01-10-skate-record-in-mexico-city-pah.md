@@ -3,7 +3,6 @@ author: court
 date: 2008-01-10 14:54:47+00:00
 draft: false
 title: Skate Record in Mexico City?  Pah!
-type: post
 url: /blog/2008/01/10/skate-record-in-mexico-city-pah/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2014-05-09 19:49:23+00:00
 draft: false
 title: How to win an argument
-type: post
 url: /blog/2014/05/09/how-to-win-an-argument/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-11-20 14:55:19+00:00
 draft: false
 title: A website to smash all of your dreams of stardom
-type: post
 url: /blog/2006/11/20/a-website-to-smash-all-of-your-dreams-of-stardom/
 categories:
 - Culture

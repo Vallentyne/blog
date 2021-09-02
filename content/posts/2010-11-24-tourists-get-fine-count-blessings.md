@@ -3,7 +3,6 @@ author: court
 date: 2010-11-24 18:16:24+00:00
 draft: false
 title: Tourists Get Fine, Count Blessings
-type: post
 url: /blog/2010/11/24/tourists-get-fine-count-blessings/
 categories:
 - News

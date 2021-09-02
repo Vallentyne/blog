@@ -3,7 +3,6 @@ author: court
 date: 2004-11-24 13:34:37+00:00
 draft: false
 title: TV really sucks. I mean
-type: post
 url: /blog/2004/11/24/tv-really-sucks-i-mean/
 categories:
 - Culture

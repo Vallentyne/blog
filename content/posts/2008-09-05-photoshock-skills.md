@@ -3,7 +3,6 @@ author: court
 date: 2008-09-05 19:07:29+00:00
 draft: false
 title: Photoshock Skills
-type: post
 url: /blog/2008/09/05/photoshock-skills/
 categories:
 - Tech

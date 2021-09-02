@@ -3,7 +3,6 @@ author: court
 date: 2008-05-21 17:28:03+00:00
 draft: false
 title: Cover Songs
-type: post
 url: /blog/2008/05/21/cover-songs/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-05-01 11:00:38+00:00
 draft: false
 title: Shameless Onion Content
-type: post
 url: /blog/2009/05/01/shameless-onion-content/
 categories:
 - News

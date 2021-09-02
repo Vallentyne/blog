@@ -3,7 +3,6 @@ author: court
 date: 2003-10-06 14:12:47+00:00
 draft: false
 title: Hyuk hyuk. That's funny stuff.
-type: post
 url: /blog/2003/10/06/hyuk-hyuk-thats-funny-stuff/
 categories:
 - Family News

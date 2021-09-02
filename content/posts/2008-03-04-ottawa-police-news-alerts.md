@@ -3,7 +3,6 @@ author: court
 date: 2008-03-04 14:07:25+00:00
 draft: false
 title: Ottawa Police News Alerts
-type: post
 url: /blog/2008/03/04/ottawa-police-news-alerts/
 categories:
 - News

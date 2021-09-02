@@ -3,7 +3,6 @@ author: court
 date: 2009-08-14 16:20:33+00:00
 draft: false
 title: Obligatory Cute Animal Pictures
-type: post
 url: /blog/2009/08/14/obligatory-cute-animal-pictures/
 categories:
 - News

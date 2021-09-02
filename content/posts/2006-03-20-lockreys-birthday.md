@@ -3,7 +3,6 @@ author: court
 date: 2006-03-20 21:55:58+00:00
 draft: false
 title: Lockrey's Birthday
-type: post
 url: /blog/2006/03/20/lockreys-birthday/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-01-23 20:59:22+00:00
 draft: false
 title: Fancy Pants Weekend
-type: post
 url: /blog/2007/01/23/fancy-pants-weekend/
 categories:
 - Culture

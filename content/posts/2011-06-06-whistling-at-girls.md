@@ -3,7 +3,6 @@ author: court
 date: 2011-06-06 21:08:44+00:00
 draft: false
 title: Whistling at girls
-type: post
 url: /blog/2011/06/06/whistling-at-girls/
 categories:
 - Running

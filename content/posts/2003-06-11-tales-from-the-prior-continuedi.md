@@ -3,7 +3,6 @@ author: court
 date: 2003-06-11 09:27:47+00:00
 draft: false
 title: Tales from the Prior, continued....I
-type: post
 url: /blog/2003/06/11/tales-from-the-prior-continuedi/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-03-14 12:20:15+00:00
 draft: false
 title: 'Kite Lovers to Police: Go Fly Something'
-type: post
 url: /blog/2006/03/14/kite-lovers-to-police-go-fly-something/
 categories:
 - News

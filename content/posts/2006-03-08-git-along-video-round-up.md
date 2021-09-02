@@ -3,7 +3,6 @@ author: court
 date: 2006-03-08 09:40:14+00:00
 draft: false
 title: 'Git Along: Video Round Up'
-type: post
 url: /blog/2006/03/08/git-along-video-round-up/
 categories:
 - Culture

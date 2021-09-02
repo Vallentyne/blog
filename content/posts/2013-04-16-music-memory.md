@@ -3,7 +3,6 @@ author: court
 date: 2013-04-16 12:45:39+00:00
 draft: false
 title: Music Memory
-type: post
 url: /blog/2013/04/16/music-memory/
 categories:
 - Culture

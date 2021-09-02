@@ -3,7 +3,6 @@ author: court
 date: 2008-09-12 16:35:12+00:00
 draft: false
 title: Cael's First Day of school
-type: post
 url: /blog/2008/09/12/caels-first-day-of-school/
 categories:
 - Family News

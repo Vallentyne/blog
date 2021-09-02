@@ -3,7 +3,6 @@ author: court
 date: 2004-12-15 10:59:17+00:00
 draft: false
 title: T-3 to the Christmas party
-type: post
 url: /blog/2004/12/15/t-3-to-the-christmas-party/
 categories:
 - Family News

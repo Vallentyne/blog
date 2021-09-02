@@ -3,7 +3,6 @@ author: court
 date: 2003-03-11 11:56:54+00:00
 draft: false
 title: An interesting article, The Tyranny
-type: post
 url: /blog/2003/03/11/an-interesting-article-the-tyranny/
 categories:
 - Family News

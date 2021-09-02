@@ -3,7 +3,6 @@ author: court
 date: 2009-10-08 12:51:35+00:00
 draft: false
 title: It's VallenQuiz Time!
-type: post
 url: /blog/2009/10/08/its-vallenquiz-time/
 categories:
 - VallenQuiz

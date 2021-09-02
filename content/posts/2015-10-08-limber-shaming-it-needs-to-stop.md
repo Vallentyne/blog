@@ -3,7 +3,6 @@ author: court
 date: 2015-10-08 12:46:30+00:00
 draft: false
 title: Limber Shaming - It needs to stop
-type: post
 url: /blog/2015/10/08/limber-shaming-it-needs-to-stop/
 categories:
 - Family News

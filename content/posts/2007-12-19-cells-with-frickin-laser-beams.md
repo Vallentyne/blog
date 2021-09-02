@@ -3,7 +3,6 @@ author: court
 date: 2007-12-19 13:02:11+00:00
 draft: false
 title: Cells with frickin LASER BEAMS
-type: post
 url: /blog/2007/12/19/cells-with-frickin-laser-beams/
 categories:
 - Apocalypse Soon

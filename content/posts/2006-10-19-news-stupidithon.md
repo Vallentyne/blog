@@ -3,7 +3,6 @@ author: court
 date: 2006-10-19 16:47:25+00:00
 draft: false
 title: News Stupidithon
-type: post
 url: /blog/2006/10/19/news-stupidithon/
 categories:
 - Apocalypse Soon

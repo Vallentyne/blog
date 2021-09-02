@@ -3,7 +3,6 @@ author: court
 date: 2011-11-28 19:30:26+00:00
 draft: false
 title: Dog Shaking
-type: post
 url: /blog/2011/11/28/dog-shaking/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-07-17 02:19:28+00:00
 draft: false
 title: The little melting music people
-type: post
 url: /blog/2008/07/16/the-little-melting-music-people/
 categories:
 - Video Diversions

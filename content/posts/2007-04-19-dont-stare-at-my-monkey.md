@@ -3,7 +3,6 @@ author: court
 date: 2007-04-19 14:43:57+00:00
 draft: false
 title: Don't stare at my monkey
-type: post
 url: /blog/2007/04/19/dont-stare-at-my-monkey/
 categories:
 - Culture

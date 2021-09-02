@@ -3,7 +3,6 @@ author: court
 date: 2003-09-17 14:04:54+00:00
 draft: false
 title: Ah. Wednesday. On another technical
-type: post
 url: /blog/2003/09/17/ah-wednesday-on-another-technical/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-08-03 11:24:30+00:00
 draft: false
 title: So, a long weekend under
-type: post
 url: /blog/2004/08/03/so-a-long-weekend-under/
 categories:
 - Family News

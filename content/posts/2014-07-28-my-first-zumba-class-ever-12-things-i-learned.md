@@ -3,7 +3,6 @@ author: nikki
 date: 2014-07-28 16:24:31+00:00
 draft: false
 title: My First Zumba Class, ever.  12 Things I learned....
-type: post
 url: /blog/2014/07/28/my-first-zumba-class-ever-12-things-i-learned/
 categories:
 - News

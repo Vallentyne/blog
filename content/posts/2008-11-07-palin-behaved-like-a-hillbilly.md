@@ -3,7 +3,6 @@ author: court
 date: 2008-11-07 12:00:27+00:00
 draft: false
 title: Palin behaved like a hillbilly?  You're kidding!
-type: post
 url: /blog/2008/11/07/palin-behaved-like-a-hillbilly/
 categories:
 - News

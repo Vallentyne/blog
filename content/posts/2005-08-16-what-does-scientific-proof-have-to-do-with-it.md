@@ -3,7 +3,6 @@ author: court
 date: 2005-08-16 17:00:37+00:00
 draft: false
 title: What does scientific proof have to do with it?
-type: post
 url: /blog/2005/08/16/what-does-scientific-proof-have-to-do-with-it/
 categories:
 - Stupidity

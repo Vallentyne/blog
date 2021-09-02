@@ -3,7 +3,6 @@ author: court
 date: 2006-10-18 13:43:18+00:00
 draft: false
 title: Andrew Vincent and the Pirates
-type: post
 url: /blog/2006/10/18/andrew-vincent-and-the-pirates/
 categories:
 - Culture

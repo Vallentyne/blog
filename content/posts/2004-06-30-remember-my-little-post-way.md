@@ -3,7 +3,6 @@ author: court
 date: 2004-06-30 09:09:59+00:00
 draft: false
 title: Remember my little post way
-type: post
 url: /blog/2004/06/30/remember-my-little-post-way/
 categories:
 - Tech

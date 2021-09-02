@@ -3,7 +3,6 @@ author: court
 date: 2003-09-29 10:28:19+00:00
 draft: false
 title: Ahh, the post garage sale
-type: post
 url: /blog/2003/09/29/ahh-the-post-garage-sale/
 categories:
 - Family News

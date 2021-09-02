@@ -3,7 +3,6 @@ author: court
 date: 2008-11-28 12:00:48+00:00
 draft: false
 title: Shifty Gay Penguins
-type: post
 url: /blog/2008/11/28/shifty-gay-penguins/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2007-10-15 19:56:47+00:00
 draft: false
 title: Elephants First Strike
-type: post
 url: /blog/2007/10/15/elephants-first-strike/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2004-04-22 07:58:25+00:00
 draft: false
 title: Welcome to the world of
-type: post
 url: /blog/2004/04/22/welcome-to-the-world-of/
 categories:
 - Tech

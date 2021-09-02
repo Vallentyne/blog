@@ -3,7 +3,6 @@ author: court
 date: 2009-09-10 00:26:39+00:00
 draft: false
 title: Crush Luther
-type: post
 url: /blog/2009/09/09/crush-luther/
 categories:
 - Culture

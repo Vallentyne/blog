@@ -3,7 +3,6 @@ author: court
 date: 2005-03-10 14:29:00+00:00
 draft: false
 title: Further updates on Harvey unfortunately
-type: post
 url: /blog/2005/03/10/further-updates-on-harvey-unfortunately/
 categories:
 - Family News

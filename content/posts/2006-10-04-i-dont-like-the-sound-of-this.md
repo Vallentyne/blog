@@ -3,7 +3,6 @@ author: court
 date: 2006-10-04 00:58:26+00:00
 draft: false
 title: I don't like the sound of this.
-type: post
 url: /blog/2006/10/03/i-dont-like-the-sound-of-this/
 categories:
 - Culture

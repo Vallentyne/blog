@@ -3,7 +3,6 @@ author: court
 date: 2006-11-28 17:26:37+00:00
 draft: false
 title: Senseless Violence?  We've got it.
-type: post
 url: /blog/2006/11/28/senseless-violence-weve-got-it/
 categories:
 - News

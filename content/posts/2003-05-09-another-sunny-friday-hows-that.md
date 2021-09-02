@@ -3,7 +3,6 @@ author: court
 date: 2003-05-09 10:59:25+00:00
 draft: false
 title: Another sunny Friday. How's that
-type: post
 url: /blog/2003/05/09/another-sunny-friday-hows-that/
 categories:
 - Culture

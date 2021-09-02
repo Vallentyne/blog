@@ -3,7 +3,6 @@ author: court
 date: 2006-11-20 20:28:48+00:00
 draft: false
 title: Junior Hoodlum Tattoo Kit
-type: post
 url: /blog/2006/11/20/junior-hoodlum-tattoo-kit/
 categories:
 - Culture

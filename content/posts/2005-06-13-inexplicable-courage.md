@@ -3,7 +3,6 @@ author: court
 date: 2005-06-13 16:34:02+00:00
 draft: false
 title: Inexplicable Courage
-type: post
 url: /blog/2005/06/13/inexplicable-courage/
 categories:
 - Culture

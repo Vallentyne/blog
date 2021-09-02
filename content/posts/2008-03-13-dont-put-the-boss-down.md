@@ -3,7 +3,6 @@ author: court
 date: 2008-03-13 14:25:32+00:00
 draft: false
 title: Don't put the Boss down
-type: post
 url: /blog/2008/03/13/dont-put-the-boss-down/
 categories:
 - News

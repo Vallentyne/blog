@@ -3,7 +3,6 @@ author: court
 date: 2011-05-19 17:11:21+00:00
 draft: false
 title: Mentos and Diet Coke, again
-type: post
 url: /blog/2011/05/19/mentos-and-diet-coke-again/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2007-07-13 15:04:52+00:00
 draft: false
 title: Photoshop Masters
-type: post
 url: /blog/2007/07/13/photoshop-masters/
 categories:
 - Tech

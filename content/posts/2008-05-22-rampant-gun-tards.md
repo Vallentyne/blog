@@ -3,7 +3,6 @@ author: court
 date: 2008-05-22 20:10:08+00:00
 draft: false
 title: Rampant Gun-tards
-type: post
 url: /blog/2008/05/22/rampant-gun-tards/
 categories:
 - Apocalypse Soon

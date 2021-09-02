@@ -3,7 +3,6 @@ author: court
 date: 2010-08-06 19:56:46+00:00
 draft: false
 title: MacBook Pro FTW
-type: post
 url: /blog/2010/08/06/macbook-pro-ftw/
 categories:
 - Tech

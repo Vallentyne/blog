@@ -3,7 +3,6 @@ author: court
 date: 2010-06-02 17:38:06+00:00
 draft: false
 title: Tales from the Salt Lick
-type: post
 url: /blog/2010/06/02/tales-from-the-salt-lick/
 categories:
 - Scientifica

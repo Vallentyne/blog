@@ -3,7 +3,6 @@ author: court
 date: 2006-08-30 17:16:31+00:00
 draft: false
 title: Guitar Roundup
-type: post
 url: /blog/2006/08/30/guitar-roundup/
 categories:
 - Video Diversions

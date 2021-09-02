@@ -3,7 +3,6 @@ author: court
 date: 2004-12-16 13:56:27+00:00
 draft: false
 title: Here's an article about the
-type: post
 url: /blog/2004/12/16/heres-an-article-about-the/
 categories:
 - Tech

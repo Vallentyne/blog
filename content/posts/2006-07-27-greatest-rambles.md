@@ -3,7 +3,6 @@ author: court
 date: 2006-07-27 21:29:39+00:00
 draft: false
 title: Greatest Rambles
-type: post
 url: /blog/2006/07/27/greatest-rambles/
 categories:
 - News

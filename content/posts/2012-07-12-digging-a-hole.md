@@ -3,7 +3,6 @@ author: court
 date: 2012-07-12 19:02:46+00:00
 draft: false
 title: Digging a hole
-type: post
 url: /blog/2012/07/12/digging-a-hole/
 categories:
 - Home Improvements

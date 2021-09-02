@@ -3,7 +3,6 @@ author: court
 date: 2004-03-29 13:02:39+00:00
 draft: false
 title: It's springtime in Ottawa with
-type: post
 url: /blog/2004/03/29/its-springtime-in-ottawa-with/
 categories:
 - Family News

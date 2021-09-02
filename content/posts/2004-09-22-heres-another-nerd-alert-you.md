@@ -3,7 +3,6 @@ author: court
 date: 2004-09-22 10:51:34+00:00
 draft: false
 title: Here's another nerd alert. You
-type: post
 url: /blog/2004/09/22/heres-another-nerd-alert-you/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2009-02-10 18:59:59+00:00
 draft: false
 title: Financial Restraint
-type: post
 url: /blog/2009/02/10/financial-restraint/
 categories:
 - News

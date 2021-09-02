@@ -3,7 +3,6 @@ author: court
 date: 2009-07-14 23:23:42+00:00
 draft: false
 title: Foreplay/Long Time
-type: post
 url: /blog/2009/07/14/foreplaylong-time/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-09 18:56:55+00:00
 draft: false
 title: Naked Dental Appointment
-type: post
 url: /blog/2009/07/09/naked-dental-appointment/
 categories:
 - News

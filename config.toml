@@ -1,7 +1,4 @@
-baseURL = 'https://test.vallentyne.com/'
-languageCode = 'en-us'
-title = 'Happy Vallentynes'
-
+baseURL = "https://example.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -10,7 +7,11 @@ defaultContentLanguage = "en"
 theme = "LoveIt"
 # themes directory
 # 主题目录
+themesDir = "themes"
 
+# website title
+# 网站标题
+title = "LoveIt"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -98,7 +99,7 @@ enableEmoji = true
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "Vallentyne.com"
+        title = "LoveIt"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -138,13 +139,13 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           # Gravatar Email for preferred avatar in home page
-          gravatarEmail = "court@vallentyne.com"
+          gravatarEmail = ""
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "Happy Vallentynes"
+          title = ""
           # subtitle shown in home page
-          subtitle = "Dogs, Kids, and a little technology too"
+          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -158,15 +159,15 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "Vallentyne"
+        GitHub = "xxxx"
         Linkedin = ""
-        Twitter = "_court"
-        Instagram = ""
-        Facebook = ""
-        Telegram = ""
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = ""
+        Youtubelegacy = "xxxx"
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -219,9 +220,11 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "court@vallentyne.com"
+        Email = "xxxx@xxxx.com"
         RSS = true
-
+        [languages.en.params.social.Mastodon]
+          id = "@xxxx"
+          prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
     weight = 2
@@ -654,7 +657,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "Happy Vallentynes"
+      name = "LoveIt"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"

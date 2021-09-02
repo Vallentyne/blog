@@ -3,7 +3,6 @@ author: court
 date: 2005-10-27 20:24:29+00:00
 draft: false
 title: US Air Guitar Championships
-type: post
 url: /blog/2005/10/27/us-air-guitar-championships/
 categories:
 - Stupidity

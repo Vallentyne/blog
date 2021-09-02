@@ -3,7 +3,6 @@ author: court
 date: 2011-06-10 02:21:27+00:00
 draft: false
 title: All The Action You Require In a Movie
-type: post
 url: /blog/2011/06/09/all-the-action-you-require-in-a-movie/
 categories:
 - Culture

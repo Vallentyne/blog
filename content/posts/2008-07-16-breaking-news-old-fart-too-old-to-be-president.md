@@ -3,7 +3,6 @@ author: court
 date: 2008-07-16 19:09:43+00:00
 draft: false
 title: 'Breaking News: Old Fart too old to be President'
-type: post
 url: /blog/2008/07/16/breaking-news-old-fart-too-old-to-be-president/
 categories:
 - Apocalypse Soon

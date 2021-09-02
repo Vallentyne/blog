@@ -3,7 +3,6 @@ author: court
 date: 2008-01-29 13:24:22+00:00
 draft: false
 title: Winnipeg has the longest rink?
-type: post
 url: /blog/2008/01/29/winnipeg-has-the-longest-rink/
 categories:
 - News

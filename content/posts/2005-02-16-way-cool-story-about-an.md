@@ -3,7 +3,6 @@ author: court
 date: 2005-02-16 22:17:00+00:00
 draft: false
 title: Way cool story about an
-type: post
 url: /blog/2005/02/16/way-cool-story-about-an/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-09-14 19:28:50+00:00
 draft: false
 title: Quinn's First Day of School
-type: post
 url: /blog/2006/09/14/quinns-first-day-of-school/
 categories:
 - Family News

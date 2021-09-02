@@ -3,7 +3,6 @@ author: court
 date: 2005-02-26 16:30:00+00:00
 draft: false
 title: Here's a couple of stories
-type: post
 url: /blog/2005/02/26/heres-a-couple-of-stories/
 categories:
 - Apocalypse Soon

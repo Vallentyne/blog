@@ -3,7 +3,6 @@ author: court
 date: 2016-02-12 03:43:39+00:00
 draft: false
 title: The Running Dead?
-type: post
 url: /blog/2016/02/11/the-running-dead/
 categories:
 - News

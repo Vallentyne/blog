@@ -3,7 +3,6 @@ author: court
 date: 2016-11-30 20:33:36+00:00
 draft: false
 title: You can "Dresser" up, but you can't take her out
-type: post
 url: /blog/2016/11/30/you-can-dresser-up-but-you-cant-take-her-out/
 categories:
 - Family News

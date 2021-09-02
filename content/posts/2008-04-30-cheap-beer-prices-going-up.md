@@ -3,7 +3,6 @@ author: court
 date: 2008-04-30 15:24:11+00:00
 draft: false
 title: '"Cheap" beer prices going up'
-type: post
 url: /blog/2008/04/30/cheap-beer-prices-going-up/
 categories:
 - Apocalypse Soon

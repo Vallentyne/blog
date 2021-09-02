@@ -3,7 +3,6 @@ author: court
 date: 2012-01-27 20:43:27+00:00
 draft: false
 title: Moron's Harrowing Ordeal
-type: post
 url: /blog/2012/01/27/morons-harrowing-ordeal/
 categories:
 - Stupidity

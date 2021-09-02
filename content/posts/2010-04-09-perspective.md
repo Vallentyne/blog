@@ -3,7 +3,6 @@ author: court
 date: 2010-04-09 04:43:09+00:00
 draft: false
 title: Perspective
-type: post
 url: /blog/2010/04/09/perspective/
 categories:
 - Llife with Lloyd

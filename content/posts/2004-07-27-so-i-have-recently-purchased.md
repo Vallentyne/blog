@@ -3,7 +3,6 @@ author: court
 date: 2004-07-27 11:53:09+00:00
 draft: false
 title: So, I have recently purchased
-type: post
 url: /blog/2004/07/27/so-i-have-recently-purchased/
 categories:
 - Family News

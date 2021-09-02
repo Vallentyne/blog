@@ -3,7 +3,6 @@ author: court
 date: 2010-02-18 20:17:33+00:00
 draft: false
 title: My Lucky Secret Weapon
-type: post
 url: /blog/2010/02/18/my-lucky-secret-weapon/
 categories:
 - Family News

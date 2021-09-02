@@ -3,7 +3,6 @@ author: court
 date: 2005-05-11 12:38:49+00:00
 draft: false
 title: Thank goodness for rednecks
-type: post
 url: /blog/2005/05/11/thank-goodness-for-rednecks/
 categories:
 - Stupidity

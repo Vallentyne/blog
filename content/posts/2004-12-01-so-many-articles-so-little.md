@@ -3,7 +3,6 @@ author: court
 date: 2004-12-01 13:28:21+00:00
 draft: false
 title: So many articles, so little
-type: post
 url: /blog/2004/12/01/so-many-articles-so-little/
 categories:
 - Culture

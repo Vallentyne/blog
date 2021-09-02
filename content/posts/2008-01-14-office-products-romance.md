@@ -3,7 +3,6 @@ author: court
 date: 2008-01-14 17:58:27+00:00
 draft: false
 title: Office (Products) Romance
-type: post
 url: /blog/2008/01/14/office-products-romance/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2003-04-11 11:53:58+00:00
 draft: false
 title: Ah, yes let's approach that
-type: post
 url: /blog/2003/04/11/ah-yes-lets-approach-that/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-03-29 09:14:32+00:00
 draft: false
 title: I can't even put on a sock this fast
-type: post
 url: /blog/2006/03/29/i-cant-even-put-on-a-sock-this-fast/
 categories:
 - Culture

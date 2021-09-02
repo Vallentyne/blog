@@ -3,7 +3,6 @@ author: court
 date: 2007-12-28 15:21:16+00:00
 draft: false
 title: Sleep is a sickness
-type: post
 url: /blog/2007/12/28/sleep-is-a-sickness/
 categories:
 - Stupidity

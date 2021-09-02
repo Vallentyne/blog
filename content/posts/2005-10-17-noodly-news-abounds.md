@@ -3,7 +3,6 @@ author: court
 date: 2005-10-17 12:14:55+00:00
 draft: false
 title: Noodly News Abounds
-type: post
 url: /blog/2005/10/17/noodly-news-abounds/
 categories:
 - News

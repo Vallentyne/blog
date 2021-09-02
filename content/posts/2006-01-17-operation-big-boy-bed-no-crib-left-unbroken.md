@@ -3,7 +3,6 @@ author: court
 date: 2006-01-17 13:39:28+00:00
 draft: false
 title: Operation Big Boy Bed - No Crib Left Unbroken
-type: post
 url: /blog/2006/01/17/operation-big-boy-bed-no-crib-left-unbroken/
 categories:
 - Family News

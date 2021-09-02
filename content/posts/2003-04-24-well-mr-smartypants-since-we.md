@@ -3,7 +3,6 @@ author: court
 date: 2003-04-24 09:34:40+00:00
 draft: false
 title: Well, mr. smartypants, since we
-type: post
 url: /blog/2003/04/24/well-mr-smartypants-since-we/
 categories:
 - Family News

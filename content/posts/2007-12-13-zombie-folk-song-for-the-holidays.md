@@ -3,7 +3,6 @@ author: court
 date: 2007-12-13 01:39:47+00:00
 draft: false
 title: Zombie folk song for the holidays
-type: post
 url: /blog/2007/12/12/zombie-folk-song-for-the-holidays/
 categories:
 - Culture

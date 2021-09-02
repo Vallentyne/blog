@@ -3,7 +3,6 @@ author: court
 date: 2009-01-23 18:12:58+00:00
 draft: false
 title: Yes, it's exactly like Milli Vanilli
-type: post
 url: /blog/2009/01/23/yes-its-exactly-like-milli-vanilli/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-08-13 19:19:39+00:00
 draft: false
 title: Where is Bob?
-type: post
 url: /blog/2008/08/13/where-is-bob/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-04-27 12:37:28+00:00
 draft: false
 title: Guest Blogger/Hippie
-type: post
 url: /blog/2005/04/27/guest-bloggerhippie/
 categories:
 - News

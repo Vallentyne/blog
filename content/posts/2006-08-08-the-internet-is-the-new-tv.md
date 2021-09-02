@@ -3,7 +3,6 @@ author: court
 date: 2006-08-08 14:19:10+00:00
 draft: false
 title: The Internet is the new TV
-type: post
 url: /blog/2006/08/08/the-internet-is-the-new-tv/
 categories:
 - Stupidity

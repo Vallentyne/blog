@@ -3,7 +3,6 @@ author: court
 date: 2014-05-28 22:47:12+00:00
 draft: false
 title: Football family
-type: post
 url: /blog/2014/05/28/football-family/
 categories:
 - News

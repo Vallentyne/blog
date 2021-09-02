@@ -3,7 +3,6 @@ author: court
 date: 2004-12-08 01:05:09+00:00
 draft: false
 title: Got some more pictures up
-type: post
 url: /blog/2004/12/08/got-some-more-pictures-up/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-12-29 13:37:19+00:00
 draft: false
 title: Well, back to the Mundane
-type: post
 url: /blog/2004/12/29/well-back-to-the-mundane/
 categories:
 - Family News

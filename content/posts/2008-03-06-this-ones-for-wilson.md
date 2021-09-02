@@ -3,7 +3,6 @@ author: court
 date: 2008-03-06 17:46:04+00:00
 draft: false
 title: This one's for Wilson
-type: post
 url: /blog/2008/03/06/this-ones-for-wilson/
 categories:
 - Stupidity

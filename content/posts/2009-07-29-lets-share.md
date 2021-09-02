@@ -3,7 +3,6 @@ author: court
 date: 2009-07-29 15:30:55+00:00
 draft: false
 title: Let's Share
-type: post
 url: /blog/2009/07/29/lets-share/
 categories:
 - Family News

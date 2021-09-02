@@ -3,7 +3,6 @@ author: court
 date: 2005-08-12 15:59:41+00:00
 draft: false
 title: Grocery lists
-type: post
 url: /blog/2005/08/12/grocery-lists/
 categories:
 - Culture

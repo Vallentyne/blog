@@ -3,7 +3,6 @@ author: court
 date: 2010-07-30 18:24:21+00:00
 draft: false
 title: Theme Change Friday
-type: post
 url: /blog/2010/07/30/theme-change-friday/
 categories:
 - Tech

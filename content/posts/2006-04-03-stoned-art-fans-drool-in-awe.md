@@ -3,7 +3,6 @@ author: court
 date: 2006-04-03 15:20:24+00:00
 draft: false
 title: Stoned Art Fans, Drool in Awe!
-type: post
 url: /blog/2006/04/03/stoned-art-fans-drool-in-awe/
 categories:
 - Culture

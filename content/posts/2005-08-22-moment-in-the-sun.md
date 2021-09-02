@@ -3,7 +3,6 @@ author: court
 date: 2005-08-22 13:01:25+00:00
 draft: false
 title: Moment in the sun?
-type: post
 url: /blog/2005/08/22/moment-in-the-sun/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2008-11-26 12:00:59+00:00
 draft: false
 title: Competitive 6 year olds
-type: post
 url: /blog/2008/11/26/competitive-6-year-olds/
 categories:
 - Family News

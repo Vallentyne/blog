@@ -3,7 +3,6 @@ author: court
 date: 2005-08-17 21:33:28+00:00
 draft: false
 title: Now we're talking
-type: post
 url: /blog/2005/08/17/now-were-talking/
 categories:
 - Stupidity

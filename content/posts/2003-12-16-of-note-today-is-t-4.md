@@ -3,7 +3,6 @@ author: court
 date: 2003-12-16 12:52:56+00:00
 draft: false
 title: 'Of note: today is T-4'
-type: post
 url: /blog/2003/12/16/of-note-today-is-t-4/
 categories:
 - Family News

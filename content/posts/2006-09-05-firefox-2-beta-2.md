@@ -3,7 +3,6 @@ author: court
 date: 2006-09-05 19:55:31+00:00
 draft: false
 title: Firefox 2 Beta 2
-type: post
 url: /blog/2006/09/05/firefox-2-beta-2/
 categories:
 - Tech

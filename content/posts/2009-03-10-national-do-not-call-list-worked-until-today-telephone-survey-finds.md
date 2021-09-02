@@ -3,7 +3,6 @@ author: court
 date: 2009-03-10 11:28:29+00:00
 draft: false
 title: National Do Not Call List "Worked Until Today", telephone survey finds
-type: post
 url: /blog/2009/03/10/national-do-not-call-list-worked-until-today-telephone-survey-finds/
 categories:
 - News

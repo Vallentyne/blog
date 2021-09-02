@@ -3,7 +3,6 @@ author: court
 date: 2003-06-05 16:02:13+00:00
 draft: false
 title: For sure. My point in
-type: post
 url: /blog/2003/06/05/for-sure-my-point-in/
 categories:
 - Family News

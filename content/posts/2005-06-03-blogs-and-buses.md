@@ -3,7 +3,6 @@ author: court
 date: 2005-06-03 09:26:55+00:00
 draft: false
 title: Blogs and Buses
-type: post
 url: /blog/2005/06/03/blogs-and-buses/
 categories:
 - Apocalypse Soon

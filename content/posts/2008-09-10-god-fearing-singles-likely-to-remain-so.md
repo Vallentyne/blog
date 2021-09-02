@@ -3,7 +3,6 @@ author: court
 date: 2008-09-10 19:10:17+00:00
 draft: false
 title: God Fearing Singles likely to remain so
-type: post
 url: /blog/2008/09/10/god-fearing-singles-likely-to-remain-so/
 categories:
 - Culture

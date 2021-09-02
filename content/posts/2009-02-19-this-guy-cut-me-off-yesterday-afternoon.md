@@ -3,7 +3,6 @@ author: court
 date: 2009-02-19 14:29:07+00:00
 draft: false
 title: This guy cut me off yesterday afternoon
-type: post
 url: /blog/2009/02/19/this-guy-cut-me-off-yesterday-afternoon/
 categories:
 - Stupidity

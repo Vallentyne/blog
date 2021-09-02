@@ -3,7 +3,6 @@ author: court
 date: 2004-07-15 14:16:05+00:00
 draft: false
 title: You may have noticed that
-type: post
 url: /blog/2004/07/15/you-may-have-noticed-that/
 categories:
 - Tech

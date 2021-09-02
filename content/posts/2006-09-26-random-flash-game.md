@@ -3,7 +3,6 @@ author: court
 date: 2006-09-26 19:04:29+00:00
 draft: false
 title: Random Flash Game
-type: post
 url: /blog/2006/09/26/random-flash-game/
 categories:
 - Culture

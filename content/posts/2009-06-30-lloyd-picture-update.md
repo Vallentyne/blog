@@ -3,7 +3,6 @@ author: court
 date: 2009-06-30 10:00:12+00:00
 draft: false
 title: Lloyd Picture Update
-type: post
 url: /blog/2009/06/30/lloyd-picture-update/
 categories:
 - Llife with Lloyd

@@ -3,7 +3,6 @@ author: court
 date: 2010-12-23 22:07:22+00:00
 draft: false
 title: Xmasleaks
-type: post
 url: /blog/2010/12/23/xmasleaks/
 categories:
 - Family News

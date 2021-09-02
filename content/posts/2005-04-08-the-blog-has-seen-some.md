@@ -3,7 +3,6 @@ author: court
 date: 2005-04-08 11:20:00+00:00
 draft: false
 title: The blog has seen some
-type: post
 url: /blog/2005/04/08/the-blog-has-seen-some/
 categories:
 - Family News

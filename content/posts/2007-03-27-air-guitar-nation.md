@@ -3,7 +3,6 @@ author: court
 date: 2007-03-27 19:26:28+00:00
 draft: false
 title: Air Guitar Nation
-type: post
 url: /blog/2007/03/27/air-guitar-nation/
 categories:
 - Culture

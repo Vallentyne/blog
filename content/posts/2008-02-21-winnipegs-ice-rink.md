@@ -3,7 +3,6 @@ author: court
 date: 2008-02-21 14:25:12+00:00
 draft: false
 title: Winnipeg's Ice "Rink"
-type: post
 url: /blog/2008/02/21/winnipegs-ice-rink/
 categories:
 - News

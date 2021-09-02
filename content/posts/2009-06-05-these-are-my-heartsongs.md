@@ -3,7 +3,6 @@ author: court
 date: 2009-06-05 17:16:34+00:00
 draft: false
 title: These Are My Heartsongs
-type: post
 url: /blog/2009/06/05/these-are-my-heartsongs/
 categories:
 - Culture

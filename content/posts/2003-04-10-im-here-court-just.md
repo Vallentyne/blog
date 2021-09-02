@@ -3,7 +3,6 @@ author: court
 date: 2003-04-10 14:26:30+00:00
 draft: false
 title: I'm here Court - just
-type: post
 url: /blog/2003/04/10/im-here-court-just/
 categories:
 - Family News

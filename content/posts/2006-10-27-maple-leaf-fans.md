@@ -3,7 +3,6 @@ author: court
 date: 2006-10-27 16:07:15+00:00
 draft: false
 title: Maple Leaf Fans
-type: post
 url: /blog/2006/10/27/maple-leaf-fans/
 categories:
 - Culture

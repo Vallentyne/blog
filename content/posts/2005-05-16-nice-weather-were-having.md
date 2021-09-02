@@ -3,7 +3,6 @@ author: court
 date: 2005-05-16 12:21:25+00:00
 draft: false
 title: Nice Weather We're Having
-type: post
 url: /blog/2005/05/16/nice-weather-were-having/
 categories:
 - News

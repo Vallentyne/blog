@@ -3,7 +3,6 @@ author: court
 date: 2012-11-19 17:32:26+00:00
 draft: false
 title: In which I discover Iâ€™m just a young Grandpa
-type: post
 url: /blog/2012/11/19/in-which-i-discover-im-just-a-young-grandpa/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-10-12 13:15:11+00:00
 draft: false
 title: It could have been me....
-type: post
 url: /blog/2005/10/12/it-could-have-been-me/
 categories:
 - Family News

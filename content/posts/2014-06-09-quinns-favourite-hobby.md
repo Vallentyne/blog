@@ -3,7 +3,6 @@ author: court
 date: 2014-06-09 14:49:06+00:00
 draft: false
 title: Quinn's Favourite Hobby
-type: post
 url: /blog/2014/06/09/quinns-favourite-hobby/
 categories:
 - Family News

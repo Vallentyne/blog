@@ -3,7 +3,6 @@ author: court
 date: 2006-05-30 10:03:15+00:00
 draft: false
 title: Aeroplanes
-type: post
 url: /blog/2006/05/30/aeroplanes/
 categories:
 - Tech

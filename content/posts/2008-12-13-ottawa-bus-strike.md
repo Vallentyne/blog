@@ -3,7 +3,6 @@ author: court
 date: 2008-12-13 17:42:45+00:00
 draft: false
 title: Ottawa Bus Strike
-type: post
 url: /blog/2008/12/13/ottawa-bus-strike/
 categories:
 - News

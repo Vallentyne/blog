@@ -3,7 +3,6 @@ author: court
 date: 2009-04-07 11:38:45+00:00
 draft: false
 title: Wainbow Bwead
-type: post
 url: /blog/2009/04/07/wainbow-bwead/
 categories:
 - Video Diversions

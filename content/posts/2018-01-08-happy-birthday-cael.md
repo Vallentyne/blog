@@ -3,7 +3,6 @@ author: court
 date: 2018-01-08 01:15:10+00:00
 draft: false
 title: Happy Birthday Cael
-type: post
 url: /blog/2018/01/07/happy-birthday-cael/
 categories:
 - News

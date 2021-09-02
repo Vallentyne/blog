@@ -3,7 +3,6 @@ author: court
 date: 2010-07-09 16:44:10+00:00
 draft: false
 title: The Tale of Lloyd and The Invisible Fence
-type: post
 url: /blog/2010/07/09/the-tale-of-lloyd-and-the-invisible-fence/
 categories:
 - Family News

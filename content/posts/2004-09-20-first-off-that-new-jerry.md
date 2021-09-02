@@ -3,7 +3,6 @@ author: court
 date: 2004-09-20 09:42:31+00:00
 draft: false
 title: First off, that "new" Jerry
-type: post
 url: /blog/2004/09/20/first-off-that-new-jerry/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2013-01-11 17:48:28+00:00
 draft: false
 title: Synchronicity
-type: post
 url: /blog/2013/01/11/synchronicity/
 categories:
 - Culture

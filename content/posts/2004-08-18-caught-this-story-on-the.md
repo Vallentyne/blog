@@ -3,7 +3,6 @@ author: court
 date: 2004-08-18 12:16:18+00:00
 draft: false
 title: Caught this story on the
-type: post
 url: /blog/2004/08/18/caught-this-story-on-the/
 categories:
 - News

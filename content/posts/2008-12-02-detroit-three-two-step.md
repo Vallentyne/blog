@@ -3,7 +3,6 @@ author: court
 date: 2008-12-02 16:02:00+00:00
 draft: false
 title: Detroit Three two-step
-type: post
 url: /blog/2008/12/02/detroit-three-two-step/
 categories:
 - Apocalypse Soon

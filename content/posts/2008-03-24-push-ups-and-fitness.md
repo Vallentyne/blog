@@ -3,7 +3,6 @@ author: court
 date: 2008-03-24 18:17:31+00:00
 draft: false
 title: Push-ups and fitness
-type: post
 url: /blog/2008/03/24/push-ups-and-fitness/
 categories:
 - News

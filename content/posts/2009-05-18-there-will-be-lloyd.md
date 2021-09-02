@@ -3,7 +3,6 @@ author: court
 date: 2009-05-18 22:12:25+00:00
 draft: false
 title: There Will be Lloyd
-type: post
 url: /blog/2009/05/18/there-will-be-lloyd/
 categories:
 - Family News

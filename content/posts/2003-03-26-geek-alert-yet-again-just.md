@@ -3,7 +3,6 @@ author: court
 date: 2003-03-26 15:47:42+00:00
 draft: false
 title: Geek alert yet again. Just
-type: post
 url: /blog/2003/03/26/geek-alert-yet-again-just/
 categories:
 - Culture

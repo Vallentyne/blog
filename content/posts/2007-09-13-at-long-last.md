@@ -3,7 +3,6 @@ author: nikki
 date: 2007-09-13 15:05:10+00:00
 draft: false
 title: At long last...
-type: post
 url: /blog/2007/09/13/at-long-last/
 categories:
 - Family News

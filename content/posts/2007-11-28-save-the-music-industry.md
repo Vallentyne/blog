@@ -3,7 +3,6 @@ author: court
 date: 2007-11-28 17:21:26+00:00
 draft: false
 title: Save the Music Industry
-type: post
 url: /blog/2007/11/28/save-the-music-industry/
 categories:
 - Culture

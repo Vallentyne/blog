@@ -3,7 +3,6 @@ author: court
 date: 2010-07-06 17:02:36+00:00
 draft: false
 title: New Old Spice?  Yes Please.
-type: post
 url: /blog/2010/07/06/new-old-spice-yes-please/
 categories:
 - Culture

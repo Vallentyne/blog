@@ -3,7 +3,6 @@ author: court
 date: 2004-08-10 08:48:12+00:00
 draft: false
 title: Here's an interesting piece on
-type: post
 url: /blog/2004/08/10/heres-an-interesting-piece-on/
 categories:
 - News

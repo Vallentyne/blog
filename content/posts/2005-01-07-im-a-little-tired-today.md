@@ -3,7 +3,6 @@ author: court
 date: 2005-01-07 11:05:30+00:00
 draft: false
 title: I'm a little tired today,
-type: post
 url: /blog/2005/01/07/im-a-little-tired-today/
 categories:
 - Family News

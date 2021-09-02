@@ -3,7 +3,6 @@ author: court
 date: 2010-07-05 02:07:26+00:00
 draft: false
 title: A Day at the Brisson's Pool
-type: post
 url: /blog/2010/07/04/a-day-at-the-brissons-pool/
 categories:
 - Family News

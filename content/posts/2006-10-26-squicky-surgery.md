@@ -3,7 +3,6 @@ author: court
 date: 2006-10-26 19:19:11+00:00
 draft: false
 title: 'Squicky Surgery '
-type: post
 url: /blog/2006/10/26/squicky-surgery/
 categories:
 - Culture

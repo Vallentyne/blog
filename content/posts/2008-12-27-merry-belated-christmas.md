@@ -3,7 +3,6 @@ author: court
 date: 2008-12-27 19:23:37+00:00
 draft: false
 title: Merry Belated Christmas
-type: post
 url: /blog/2008/12/27/merry-belated-christmas/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-10 13:57:54+00:00
 draft: false
 title: Messing with a new look
-type: post
 url: /blog/2009/07/10/messing-with-a-new-look/
 categories:
 - Tech

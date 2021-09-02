@@ -3,7 +3,6 @@ author: court
 date: 2005-01-07 10:48:53+00:00
 draft: false
 title: The rink is really really
-type: post
 url: /blog/2005/01/07/the-rink-is-really-really/
 categories:
 - Family News

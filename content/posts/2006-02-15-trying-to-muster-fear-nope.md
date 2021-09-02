@@ -3,7 +3,6 @@ author: court
 date: 2006-02-15 15:05:34+00:00
 draft: false
 title: Trying to muster fear.... nope.
-type: post
 url: /blog/2006/02/15/trying-to-muster-fear-nope/
 categories:
 - Tech

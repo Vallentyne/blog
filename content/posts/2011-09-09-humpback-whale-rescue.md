@@ -3,7 +3,6 @@ author: court
 date: 2011-09-09 19:12:50+00:00
 draft: false
 title: Humpback Whale Rescue
-type: post
 url: /blog/2011/09/09/humpback-whale-rescue/
 categories:
 - Shout Outs

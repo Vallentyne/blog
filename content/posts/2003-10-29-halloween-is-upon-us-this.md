@@ -3,7 +3,6 @@ author: court
 date: 2003-10-29 12:53:41+00:00
 draft: false
 title: Halloween is upon us. This
-type: post
 url: /blog/2003/10/29/halloween-is-upon-us-this/
 categories:
 - Family News

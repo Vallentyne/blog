@@ -3,7 +3,6 @@ author: court
 date: 2017-10-16 20:52:55+00:00
 draft: false
 title: New look, hitting refresh
-type: post
 url: /blog/2017/10/16/new-look-hitting-refresh/
 categories:
 - News

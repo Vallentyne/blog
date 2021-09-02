@@ -3,7 +3,6 @@ author: court
 date: 2008-02-08 18:13:23+00:00
 draft: false
 title: Children in Tight Spots
-type: post
 url: /blog/2008/02/08/children-in-tight-spots/
 categories:
 - Family News

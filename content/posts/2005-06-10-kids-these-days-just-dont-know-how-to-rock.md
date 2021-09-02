@@ -3,7 +3,6 @@ author: court
 date: 2005-06-10 15:18:38+00:00
 draft: false
 title: Kids these days just don't know how to rock
-type: post
 url: /blog/2005/06/10/kids-these-days-just-dont-know-how-to-rock/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2009-05-25 12:03:47+00:00
 draft: false
 title: Kibble Coma
-type: post
 url: /blog/2009/05/25/kibble-coma/
 categories:
 - Llife with Lloyd

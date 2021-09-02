@@ -3,7 +3,6 @@ author: court
 date: 2004-03-20 22:07:56+00:00
 draft: false
 title: Hey there everyone, Today marks
-type: post
 url: /blog/2004/03/20/hey-there-everyone-today-marks/
 categories:
 - Family News

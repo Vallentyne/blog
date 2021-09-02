@@ -3,7 +3,6 @@ author: court
 date: 2005-03-13 20:30:00+00:00
 draft: false
 title: I have been known to
-type: post
 url: /blog/2005/03/13/i-have-been-known-to/
 categories:
 - News

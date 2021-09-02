@@ -3,7 +3,6 @@ author: court
 date: 2003-03-18 12:25:17+00:00
 draft: false
 title: Hey. Kent got a little
-type: post
 url: /blog/2003/03/18/hey-kent-got-a-little/
 categories:
 - Family News

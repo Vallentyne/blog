@@ -3,7 +3,6 @@ author: court
 date: 2004-08-05 12:08:14+00:00
 draft: false
 title: Well, yesterday wasn't so
-type: post
 url: /blog/2004/08/05/well-yesterday-wasnt-so/
 categories:
 - Family News

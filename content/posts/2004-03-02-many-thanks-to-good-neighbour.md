@@ -3,7 +3,6 @@ author: court
 date: 2004-03-02 13:09:21+00:00
 draft: false
 title: Many thanks to good neighbour
-type: post
 url: /blog/2004/03/02/many-thanks-to-good-neighbour/
 categories:
 - Family News

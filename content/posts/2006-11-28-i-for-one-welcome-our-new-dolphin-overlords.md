@@ -3,7 +3,6 @@ author: court
 date: 2006-11-28 18:04:39+00:00
 draft: false
 title: I, for one, welcome our new dolphin overlords
-type: post
 url: /blog/2006/11/28/i-for-one-welcome-our-new-dolphin-overlords/
 categories:
 - Apocalypse Soon

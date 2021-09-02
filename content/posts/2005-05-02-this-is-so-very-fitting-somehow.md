@@ -3,7 +3,6 @@ author: court
 date: 2005-05-02 22:40:00+00:00
 draft: false
 title: This is so very fitting somehow
-type: post
 url: /blog/2005/05/02/this-is-so-very-fitting-somehow/
 categories:
 - News

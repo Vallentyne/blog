@@ -3,7 +3,6 @@ author: court
 date: 2008-09-12 18:44:28+00:00
 draft: false
 title: Must not get upset....
-type: post
 url: /blog/2008/09/12/must-not-get-upset/
 categories:
 - Stupidity

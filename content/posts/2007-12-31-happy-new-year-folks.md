@@ -3,7 +3,6 @@ author: court
 date: 2007-12-31 20:40:14+00:00
 draft: false
 title: Happy New Year Folks
-type: post
 url: /blog/2007/12/31/happy-new-year-folks/
 categories:
 - Family News

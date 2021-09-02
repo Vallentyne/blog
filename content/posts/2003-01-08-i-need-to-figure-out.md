@@ -3,7 +3,6 @@ author: court
 date: 2003-01-08 14:46:34+00:00
 draft: false
 title: I need to figure out
-type: post
 url: /blog/2003/01/08/i-need-to-figure-out/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2005-09-07 15:59:56+00:00
 draft: false
 title: Nifty Octopus video
-type: post
 url: /blog/2005/09/07/nifty-octopus-video/
 categories:
 - Apocalypse Soon

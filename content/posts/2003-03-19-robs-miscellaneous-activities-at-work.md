@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 13:30:45+00:00
 draft: false
 title: Rob's miscellaneous activities at work?
-type: post
 url: /blog/2003/03/19/robs-miscellaneous-activities-at-work/
 categories:
 - Family News

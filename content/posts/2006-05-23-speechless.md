@@ -3,7 +3,6 @@ author: court
 date: 2006-05-23 16:52:03+00:00
 draft: false
 title: Speechless.
-type: post
 url: /blog/2006/05/23/speechless/
 categories:
 - Culture

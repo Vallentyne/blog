@@ -3,7 +3,6 @@ author: court
 date: 2009-06-15 13:32:27+00:00
 draft: false
 title: Summer Begins
-type: post
 url: /blog/2009/06/15/summer-begins/
 categories:
 - Family News

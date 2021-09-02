@@ -3,7 +3,6 @@ author: court
 date: 2012-04-27 19:07:19+00:00
 draft: false
 title: Quinn's Persuasive Letter
-type: post
 url: /blog/2012/04/27/quinns-persuasive-letter/
 categories:
 - Family News

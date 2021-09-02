@@ -3,7 +3,6 @@ author: court
 date: 2005-03-18 13:10:00+00:00
 draft: false
 title: Um, yes Andrea, you and
-type: post
 url: /blog/2005/03/18/um-yes-andrea-you-and/
 categories:
 - Family News

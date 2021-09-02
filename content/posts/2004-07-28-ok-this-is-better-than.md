@@ -3,7 +3,6 @@ author: court
 date: 2004-07-28 08:43:37+00:00
 draft: false
 title: Ok, this is better than
-type: post
 url: /blog/2004/07/28/ok-this-is-better-than/
 categories:
 - Family News

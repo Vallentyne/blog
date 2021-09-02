@@ -3,7 +3,6 @@ author: court
 date: 2011-07-22 02:26:27+00:00
 draft: false
 title: Camp Smitty Finale
-type: post
 url: /blog/2011/07/21/camp-smitty-finale/
 categories:
 - Family News

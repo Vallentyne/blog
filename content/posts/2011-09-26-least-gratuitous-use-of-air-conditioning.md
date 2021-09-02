@@ -2,7 +2,6 @@
 author: court
 date: 2011-09-26 19:29:40+00:00
 title: Least Gratuitous Use of Air Conditioning
-type: post
 url: /blog/2011/09/26/least-gratuitous-use-of-air-conditioning/
 categories:
 - Video Diversions

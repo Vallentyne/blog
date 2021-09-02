@@ -3,7 +3,6 @@ author: court
 date: 2006-08-29 19:29:45+00:00
 draft: false
 title: One-Handed Feat
-type: post
 url: /blog/2006/08/29/one-handed-feat/
 categories:
 - Culture

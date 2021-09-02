@@ -3,7 +3,6 @@ author: court
 date: 2010-11-02 12:09:39+00:00
 draft: false
 title: Young Owl Practices Pouncing
-type: post
 url: /blog/2010/11/02/young-owl-practices-pouncing/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: nikki
 date: 2006-11-17 14:47:01+00:00
 draft: false
 title: Kids...Man, they never stop growing....
-type: post
 url: /blog/2006/11/17/kidsman-they-never-stop-growing/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-11-25 08:55:30+00:00
 draft: false
 title: Give up already!
-type: post
 url: /blog/2005/11/25/give-up-already/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2011-10-01 14:10:22+00:00
 draft: false
 title: Guy on a Buffalo
-type: post
 url: /blog/2011/10/01/guy-on-a-buffalo/
 categories:
 - Apocalypse Soon

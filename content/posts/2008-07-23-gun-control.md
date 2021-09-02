@@ -3,7 +3,6 @@ author: court
 date: 2008-07-23 13:01:20+00:00
 draft: false
 title: Gun "Control"
-type: post
 url: /blog/2008/07/23/gun-control/
 categories:
 - News

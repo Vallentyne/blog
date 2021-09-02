@@ -3,7 +3,6 @@ author: court
 date: 2003-09-30 11:18:17+00:00
 draft: false
 title: Quinn is now ready to
-type: post
 url: /blog/2003/09/30/quinn-is-now-ready-to/
 categories:
 - Family News

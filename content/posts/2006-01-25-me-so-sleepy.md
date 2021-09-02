@@ -3,7 +3,6 @@ author: court
 date: 2006-01-25 12:25:52+00:00
 draft: false
 title: Me so sleepy
-type: post
 url: /blog/2006/01/25/me-so-sleepy/
 categories:
 - Family News

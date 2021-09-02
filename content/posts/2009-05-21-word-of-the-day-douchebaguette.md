@@ -3,7 +3,6 @@ author: court
 date: 2009-05-21 11:35:20+00:00
 draft: false
 title: 'Word of the Day: Douchebaguette'
-type: post
 url: /blog/2009/05/21/word-of-the-day-douchebaguette/
 categories:
 - Word of the day

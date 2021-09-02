@@ -3,7 +3,6 @@ author: court
 date: 2005-05-06 16:03:33+00:00
 draft: false
 title: Teary eyed, I rediscover a classic
-type: post
 url: /blog/2005/05/06/teary-eyed-i-rediscover-a-classic/
 categories:
 - Culture

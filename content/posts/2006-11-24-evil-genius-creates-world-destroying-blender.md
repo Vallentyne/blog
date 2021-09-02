@@ -3,7 +3,6 @@ author: court
 date: 2006-11-24 14:09:13+00:00
 draft: false
 title: 'Evil Genius Creates World-Destroying Blender '
-type: post
 url: /blog/2006/11/24/evil-genius-creates-world-destroying-blender/
 categories:
 - Tech

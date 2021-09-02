@@ -3,7 +3,6 @@ author: court
 date: 2009-06-03 16:23:01+00:00
 draft: false
 title: Poop Happens
-type: post
 url: /blog/2009/06/03/poop-happens/
 categories:
 - Llife with Lloyd

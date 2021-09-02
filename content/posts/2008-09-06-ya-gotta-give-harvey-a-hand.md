@@ -3,7 +3,6 @@ author: court
 date: 2008-09-06 04:38:16+00:00
 draft: false
 title: Ya gotta give Harvey a hand
-type: post
 url: /blog/2008/09/06/ya-gotta-give-harvey-a-hand/
 categories:
 - Family News

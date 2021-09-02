@@ -3,7 +3,6 @@ author: court
 date: 2008-06-06 13:27:36+00:00
 draft: false
 title: Tick Tick Tick Boom
-type: post
 url: /blog/2008/06/06/tick-tick-tick-boom/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2004-03-30 16:42:48+00:00
 draft: false
 title: In a return to a
-type: post
 url: /blog/2004/03/30/in-a-return-to-a/
 categories:
 - Culture

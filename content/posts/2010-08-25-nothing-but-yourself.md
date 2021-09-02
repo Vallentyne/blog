@@ -3,7 +3,6 @@ author: Jordy
 date: 2010-08-25 18:48:48+00:00
 draft: false
 title: Nothing but Yourself
-type: post
 url: /blog/2010/08/25/nothing-but-yourself/
 ---
 

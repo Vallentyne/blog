@@ -3,7 +3,6 @@ author: court
 date: 2003-05-06 14:03:57+00:00
 draft: false
 title: So, I finished reading Positively
-type: post
 url: /blog/2003/05/06/so-i-finished-reading-positively/
 categories:
 - Culture

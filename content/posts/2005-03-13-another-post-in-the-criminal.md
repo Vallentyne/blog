@@ -3,7 +3,6 @@ author: court
 date: 2005-03-13 21:02:00+00:00
 draft: false
 title: Another post in the criminal
-type: post
 url: /blog/2005/03/13/another-post-in-the-criminal/
 categories:
 - News

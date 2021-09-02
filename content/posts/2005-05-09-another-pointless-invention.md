@@ -3,7 +3,6 @@ author: court
 date: 2005-05-09 12:39:28+00:00
 draft: false
 title: Another Pointless Invention
-type: post
 url: /blog/2005/05/09/another-pointless-invention/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2003-09-22 11:58:02+00:00
 draft: false
 title: Well, it's G-6 (6 days
-type: post
 url: /blog/2003/09/22/well-its-g-6-6-days/
 categories:
 - Family News

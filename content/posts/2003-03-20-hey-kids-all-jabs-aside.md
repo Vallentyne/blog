@@ -3,7 +3,6 @@ author: court
 date: 2003-03-20 12:14:13+00:00
 draft: false
 title: Hey kids. All jabs aside,
-type: post
 url: /blog/2003/03/20/hey-kids-all-jabs-aside/
 categories:
 - Tech

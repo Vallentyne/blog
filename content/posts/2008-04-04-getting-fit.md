@@ -3,7 +3,6 @@ author: court
 date: 2008-04-04 13:10:55+00:00
 draft: false
 title: Getting Fit
-type: post
 url: /blog/2008/04/04/getting-fit/
 categories:
 - News

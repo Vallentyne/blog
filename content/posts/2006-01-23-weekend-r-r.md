@@ -3,7 +3,6 @@ author: court
 date: 2006-01-23 15:16:29+00:00
 draft: false
 title: Weekend R &amp; R
-type: post
 url: /blog/2006/01/23/weekend-r-r/
 categories:
 - Family News

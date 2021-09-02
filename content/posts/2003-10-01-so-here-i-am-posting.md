@@ -3,7 +3,6 @@ author: nikki
 date: 2003-10-01 11:55:02+00:00
 draft: false
 title: So here I am posting
-type: post
 url: /blog/2003/10/01/so-here-i-am-posting/
 categories:
 - Family News

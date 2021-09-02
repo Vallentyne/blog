@@ -3,7 +3,6 @@ author: court
 date: 2003-02-03 15:23:07+00:00
 draft: false
 title: Hey there. So, the skating
-type: post
 url: /blog/2003/02/03/hey-there-so-the-skating/
 categories:
 - Family News

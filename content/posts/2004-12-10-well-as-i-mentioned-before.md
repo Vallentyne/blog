@@ -3,7 +3,6 @@ author: court
 date: 2004-12-10 09:44:55+00:00
 draft: false
 title: Well, as I mentioned before
-type: post
 url: /blog/2004/12/10/well-as-i-mentioned-before/
 categories:
 - Culture

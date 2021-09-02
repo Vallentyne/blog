@@ -3,7 +3,6 @@ author: court
 date: 2007-01-04 15:27:39+00:00
 draft: false
 title: Andrew Vincent's Snow Shake
-type: post
 url: /blog/2007/01/04/andrew-vincents-snow-shake/
 categories:
 - Culture

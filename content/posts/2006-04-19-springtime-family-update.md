@@ -3,7 +3,6 @@ author: court
 date: 2006-04-19 22:18:28+00:00
 draft: false
 title: Springtime Family Update
-type: post
 url: /blog/2006/04/19/springtime-family-update/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-05-08 18:12:27+00:00
 draft: false
 title: Manbabies
-type: post
 url: /blog/2008/05/08/manbabies/
 categories:
 - Culture

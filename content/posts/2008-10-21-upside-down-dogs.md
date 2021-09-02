@@ -3,7 +3,6 @@ author: court
 date: 2008-10-21 12:00:30+00:00
 draft: false
 title: Upside Down Dogs
-type: post
 url: /blog/2008/10/21/upside-down-dogs/
 categories:
 - News

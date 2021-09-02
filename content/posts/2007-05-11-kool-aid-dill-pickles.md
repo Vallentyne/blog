@@ -3,7 +3,6 @@ author: court
 date: 2007-05-11 17:47:48+00:00
 draft: false
 title: Kool-Aid Dill Pickles
-type: post
 url: /blog/2007/05/11/kool-aid-dill-pickles/
 categories:
 - Culture

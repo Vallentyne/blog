@@ -3,7 +3,6 @@ author: court
 date: 2006-08-25 20:30:07+00:00
 draft: false
 title: New Host, New Platform
-type: post
 url: /blog/2006/08/25/new-host-new-platform/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2009-06-23 13:17:32+00:00
 draft: false
 title: Staircase Dog Tsunami (of horrible slobbery death)
-type: post
 url: /blog/2009/06/23/staircase-dog-tsunami-of-horrible-slobbery-death/
 categories:
 - Llife with Lloyd

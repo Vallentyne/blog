@@ -3,7 +3,6 @@ author: court
 date: 2005-04-01 11:42:00+00:00
 draft: false
 title: By the way, and this
-type: post
 url: /blog/2005/04/01/by-the-way-and-this/
 categories:
 - Family News

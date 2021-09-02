@@ -3,7 +3,6 @@ author: court
 date: 2006-02-20 15:53:19+00:00
 draft: false
 title: Maze Pun Goes Here
-type: post
 url: /blog/2006/02/20/maze-pun-goes-here/
 categories:
 - Culture

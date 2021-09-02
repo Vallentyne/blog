@@ -3,7 +3,6 @@ author: court
 date: 2007-08-29 17:05:07+00:00
 draft: false
 title: Harry Potter-esque moving pictures
-type: post
 url: /blog/2007/08/29/harry-potter-esque-moving-pictures/
 categories:
 - Stupidity

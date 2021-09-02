@@ -3,7 +3,6 @@ author: court
 date: 2008-08-01 16:12:41+00:00
 draft: false
 title: Double Arm Transplant
-type: post
 url: /blog/2008/08/01/double-arm-transplant/
 categories:
 - News

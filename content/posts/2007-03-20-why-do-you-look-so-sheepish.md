@@ -3,7 +3,6 @@ author: court
 date: 2007-03-20 00:34:14+00:00
 draft: false
 title: Why do you look so sheepish?
-type: post
 url: /blog/2007/03/19/why-do-you-look-so-sheepish/
 categories:
 - Culture

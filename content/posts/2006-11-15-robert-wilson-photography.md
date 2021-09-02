@@ -3,7 +3,6 @@ author: court
 date: 2006-11-15 17:08:54+00:00
 draft: false
 title: Robert Wilson Photography
-type: post
 url: /blog/2006/11/15/robert-wilson-photography/
 categories:
 - Family News

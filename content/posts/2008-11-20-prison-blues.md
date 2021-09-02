@@ -3,7 +3,6 @@ author: court
 date: 2008-11-20 12:00:33+00:00
 draft: false
 title: Prison Blues
-type: post
 url: /blog/2008/11/20/prison-blues/
 categories:
 - News

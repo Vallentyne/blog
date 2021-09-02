@@ -3,7 +3,6 @@ author: court
 date: 2010-09-23 13:17:05+00:00
 draft: false
 title: Cael Does Comedy
-type: post
 url: /blog/2010/09/23/cael-does-comedy/
 categories:
 - Family News

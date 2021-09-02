@@ -3,7 +3,6 @@ author: court
 date: 2009-09-02 12:20:53+00:00
 draft: false
 title: Bell Network Charges are Way too High
-type: post
 url: /blog/2009/09/02/bell-network-charges-are-way-too-high/
 categories:
 - Stupidity

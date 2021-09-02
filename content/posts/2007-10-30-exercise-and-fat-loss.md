@@ -3,7 +3,6 @@ author: court
 date: 2007-10-30 17:09:26+00:00
 draft: false
 title: Exercise and Fat Loss
-type: post
 url: /blog/2007/10/30/exercise-and-fat-loss/
 categories:
 - News

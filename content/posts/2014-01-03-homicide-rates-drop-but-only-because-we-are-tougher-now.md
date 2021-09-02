@@ -3,7 +3,6 @@ author: court
 date: 2014-01-03 14:36:35+00:00
 draft: false
 title: Homicide rates drop, but only because we are tougher now
-type: post
 url: /blog/2014/01/03/homicide-rates-drop-but-only-because-we-are-tougher-now/
 categories:
 - News

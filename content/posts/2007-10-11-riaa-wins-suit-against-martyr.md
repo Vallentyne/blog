@@ -3,7 +3,6 @@ author: court
 date: 2007-10-11 16:24:47+00:00
 draft: false
 title: RIAA "wins" Suit Against Martyr
-type: post
 url: /blog/2007/10/11/riaa-wins-suit-against-martyr/
 categories:
 - News

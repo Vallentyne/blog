@@ -3,7 +3,6 @@ author: court
 date: 2009-10-21 19:27:26+00:00
 draft: false
 title: I have a smile that says "Hello World"....
-type: post
 url: /blog/2009/10/21/i-have-a-smile-that-says-hello-world/
 categories:
 - Family News

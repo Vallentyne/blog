@@ -3,7 +3,6 @@ author: court
 date: 2010-09-12 02:51:42+00:00
 draft: false
 title: Human Slot Machine
-type: post
 url: /blog/2010/09/11/human-slot-machine/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2012-05-09 16:08:36+00:00
 draft: false
 title: Finally, Parenting Made Easy.
-type: post
 url: /blog/2012/05/09/finally-parenting-made-easy/
 categories:
 - Culture

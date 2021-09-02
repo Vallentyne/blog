@@ -3,7 +3,6 @@ author: court
 date: 2007-09-17 20:18:21+00:00
 draft: false
 title: Birthday Weekend
-type: post
 url: /blog/2007/09/17/birthday-weekend/
 categories:
 - Family News

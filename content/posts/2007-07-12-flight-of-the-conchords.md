@@ -3,7 +3,6 @@ author: court
 date: 2007-07-12 18:51:40+00:00
 draft: false
 title: Flight of the Conchords
-type: post
 url: /blog/2007/07/12/flight-of-the-conchords/
 categories:
 - Culture

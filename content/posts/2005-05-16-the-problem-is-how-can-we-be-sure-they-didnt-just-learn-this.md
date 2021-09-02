@@ -3,7 +3,6 @@ author: court
 date: 2005-05-16 15:41:29+00:00
 draft: false
 title: 'The problem is: how can we be sure they didn''t just learn this?'
-type: post
 url: /blog/2005/05/16/the-problem-is-how-can-we-be-sure-they-didnt-just-learn-this/
 categories:
 - Apocalypse Soon

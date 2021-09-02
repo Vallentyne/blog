@@ -3,7 +3,6 @@ author: court
 date: 2009-12-07 20:49:23+00:00
 draft: false
 title: Quinn's Plan to destroy his brother
-type: post
 url: /blog/2009/12/07/quinns-plan-to-destroy-his-brother/
 categories:
 - Family News

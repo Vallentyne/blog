@@ -3,7 +3,6 @@ author: court
 date: 2007-06-05 14:10:07+00:00
 draft: false
 title: Cheers for High School Diplomas
-type: post
 url: /blog/2007/06/05/cheers-for-high-school-diplomas/
 categories:
 - News

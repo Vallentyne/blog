@@ -3,7 +3,6 @@ author: court
 date: 2008-11-05 13:50:29+00:00
 draft: false
 title: Well that's a relief
-type: post
 url: /blog/2008/11/05/well-thats-a-relief/
 categories:
 - News

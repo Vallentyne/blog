@@ -3,7 +3,6 @@ author: court
 date: 2015-01-28 21:27:08+00:00
 draft: false
 title: Here kitty kitty......GAH!
-type: post
 url: /blog/2015/01/28/here-kitty-kitty-gah/
 categories:
 - Family News

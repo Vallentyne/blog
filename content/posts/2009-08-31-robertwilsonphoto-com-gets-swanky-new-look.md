@@ -3,7 +3,6 @@ author: court
 date: 2009-08-31 16:25:17+00:00
 draft: false
 title: RobertWilsonPhoto.com gets swanky new look
-type: post
 url: /blog/2009/08/31/robertwilsonphoto-com-gets-swanky-new-look/
 categories:
 - Shout Outs

@@ -3,7 +3,6 @@ author: court
 date: 2010-07-29 17:46:26+00:00
 draft: false
 title: Granny O'Grimm's Sleeping Beauty
-type: post
 url: /blog/2010/07/29/granny-ogrimms-sleeping-beauty/
 categories:
 - Culture

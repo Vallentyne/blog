@@ -3,7 +3,6 @@ author: nikki
 date: 2012-08-08 16:15:43+00:00
 draft: false
 title: At home with the kids for the summer - The things you learn
-type: post
 url: /blog/2012/08/08/at-home-with-the-kids-for-the-summer-the-things-you-learn/
 categories:
 - Family News

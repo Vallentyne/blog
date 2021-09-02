@@ -3,7 +3,6 @@ author: court
 date: 2007-10-17 16:17:33+00:00
 draft: false
 title: Colbert's Running for President?
-type: post
 url: /blog/2007/10/17/colberts-running-for-president/
 categories:
 - Culture

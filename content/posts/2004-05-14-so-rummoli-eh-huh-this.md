@@ -3,7 +3,6 @@ author: court
 date: 2004-05-14 08:22:17+00:00
 draft: false
 title: So, Rummoli eh? Huh. This
-type: post
 url: /blog/2004/05/14/so-rummoli-eh-huh-this/
 categories:
 - Family News

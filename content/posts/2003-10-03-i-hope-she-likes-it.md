@@ -3,7 +3,6 @@ author: court
 date: 2003-10-03 14:05:20+00:00
 draft: false
 title: I hope she likes it,
-type: post
 url: /blog/2003/10/03/i-hope-she-likes-it/
 categories:
 - Family News

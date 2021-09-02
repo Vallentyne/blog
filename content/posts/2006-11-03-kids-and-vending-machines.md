@@ -3,7 +3,6 @@ author: court
 date: 2006-11-03 17:45:46+00:00
 draft: false
 title: Kids and Vending Machines
-type: post
 url: /blog/2006/11/03/kids-and-vending-machines/
 categories:
 - Family News

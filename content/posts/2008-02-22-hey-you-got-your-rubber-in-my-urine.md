@@ -3,7 +3,6 @@ author: court
 date: 2008-02-22 14:43:07+00:00
 draft: false
 title: Hey! You got your rubber in my urine...
-type: post
 url: /blog/2008/02/22/hey-you-got-your-rubber-in-my-urine/
 categories:
 - News

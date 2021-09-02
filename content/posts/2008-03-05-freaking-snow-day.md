@@ -3,7 +3,6 @@ author: court
 date: 2008-03-05 20:04:49+00:00
 draft: false
 title: Freaking Snow Day
-type: post
 url: /blog/2008/03/05/freaking-snow-day/
 categories:
 - Family News

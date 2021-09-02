@@ -3,7 +3,6 @@ author: court
 date: 2010-02-08 20:07:08+00:00
 draft: false
 title: It's the principle, not the Principal of the matter
-type: post
 url: /blog/2010/02/08/its-the-principle-not-the-principal-of-the-matter/
 categories:
 - Security Theatre

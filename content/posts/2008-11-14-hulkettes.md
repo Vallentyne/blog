@@ -3,7 +3,6 @@ author: court
 date: 2008-11-14 12:00:13+00:00
 draft: false
 title: Hulkettes
-type: post
 url: /blog/2008/11/14/hulkettes/
 categories:
 - Culture

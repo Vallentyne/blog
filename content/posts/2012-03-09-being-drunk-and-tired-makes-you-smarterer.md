@@ -3,7 +3,6 @@ author: court
 date: 2012-03-09 21:05:02+00:00
 draft: false
 title: Being Drunk and Tired Makes You Smarterer
-type: post
 url: /blog/2012/03/09/being-drunk-and-tired-makes-you-smarterer/
 categories:
 - Scientifica

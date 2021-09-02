@@ -3,7 +3,6 @@ author: court
 date: 2005-02-09 16:06:29+00:00
 draft: false
 title: Originally uploaded by Wilocks.
-type: post
 url: /blog/2005/02/09/originally-uploaded-by-wilocks/
 categories:
 - Family News

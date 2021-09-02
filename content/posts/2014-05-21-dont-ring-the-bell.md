@@ -3,7 +3,6 @@ author: court
 date: 2014-05-21 19:15:19+00:00
 draft: false
 title: Don't ring the bell
-type: post
 url: /blog/2014/05/21/dont-ring-the-bell/
 categories:
 - Culture

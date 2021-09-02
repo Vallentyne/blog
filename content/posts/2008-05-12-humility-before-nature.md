@@ -3,7 +3,6 @@ author: court
 date: 2008-05-12 14:13:40+00:00
 draft: false
 title: Humility before nature
-type: post
 url: /blog/2008/05/12/humility-before-nature/
 categories:
 - Apocalypse Soon

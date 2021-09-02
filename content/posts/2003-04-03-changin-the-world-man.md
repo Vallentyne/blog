@@ -3,7 +3,6 @@ author: court
 date: 2003-04-03 14:01:06+00:00
 draft: false
 title: Changin' the world, man. .
-type: post
 url: /blog/2003/04/03/changin-the-world-man/
 categories:
 - Culture

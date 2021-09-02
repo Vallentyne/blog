@@ -3,7 +3,6 @@ author: court
 date: 2006-04-25 10:23:34+00:00
 draft: false
 title: Neil's at it again
-type: post
 url: /blog/2006/04/25/neils-at-it-again/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-04-20 16:20:55+00:00
 draft: false
 title: Quick one. Johnny Cash, American
-type: post
 url: /blog/2004/04/20/quick-one-johnny-cash-american/
 categories:
 - Culture

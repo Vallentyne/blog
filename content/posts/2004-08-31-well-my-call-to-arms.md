@@ -3,7 +3,6 @@ author: court
 date: 2004-08-31 12:47:05+00:00
 draft: false
 title: Well my call to arms
-type: post
 url: /blog/2004/08/31/well-my-call-to-arms/
 categories:
 - Stupidity

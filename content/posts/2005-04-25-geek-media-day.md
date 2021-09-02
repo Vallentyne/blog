@@ -3,7 +3,6 @@ author: court
 date: 2005-04-25 12:11:54+00:00
 draft: false
 title: Geek media day
-type: post
 url: /blog/2005/04/25/geek-media-day/
 categories:
 - Culture

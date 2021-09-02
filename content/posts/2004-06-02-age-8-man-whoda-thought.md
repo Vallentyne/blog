@@ -3,7 +3,6 @@ author: court
 date: 2004-06-02 11:16:09+00:00
 draft: false
 title: Age 8. Man, who'da thought
-type: post
 url: /blog/2004/06/02/age-8-man-whoda-thought/
 categories:
 - Family News

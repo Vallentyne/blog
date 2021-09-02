@@ -3,7 +3,6 @@ author: court
 date: 2006-05-25 12:29:14+00:00
 draft: false
 title: Hypno-licious
-type: post
 url: /blog/2006/05/25/hypno-licious/
 categories:
 - Tech

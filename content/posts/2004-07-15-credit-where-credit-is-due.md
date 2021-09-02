@@ -3,7 +3,6 @@ author: court
 date: 2004-07-15 17:01:17+00:00
 draft: false
 title: Credit where credit is due,
-type: post
 url: /blog/2004/07/15/credit-where-credit-is-due/
 categories:
 - Culture

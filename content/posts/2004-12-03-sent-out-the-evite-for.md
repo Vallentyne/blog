@@ -3,7 +3,6 @@ author: court
 date: 2004-12-03 09:39:30+00:00
 draft: false
 title: Sent out the Evite for
-type: post
 url: /blog/2004/12/03/sent-out-the-evite-for/
 categories:
 - Family News

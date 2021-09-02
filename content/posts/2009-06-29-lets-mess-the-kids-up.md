@@ -3,7 +3,6 @@ author: court
 date: 2009-06-29 18:19:51+00:00
 draft: false
 title: Let's Mess The Kids Up
-type: post
 url: /blog/2009/06/29/lets-mess-the-kids-up/
 categories:
 - Family News

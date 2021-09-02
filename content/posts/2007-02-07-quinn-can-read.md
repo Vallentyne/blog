@@ -3,7 +3,6 @@ author: court
 date: 2007-02-07 01:23:02+00:00
 draft: false
 title: Quinn can read.
-type: post
 url: /blog/2007/02/06/quinn-can-read/
 categories:
 - Family News

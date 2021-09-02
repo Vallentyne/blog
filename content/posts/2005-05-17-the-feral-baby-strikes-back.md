@@ -3,7 +3,6 @@ author: court
 date: 2005-05-17 21:35:17+00:00
 draft: false
 title: The Feral Baby Strikes Back
-type: post
 url: /blog/2005/05/17/the-feral-baby-strikes-back/
 categories:
 - Family News

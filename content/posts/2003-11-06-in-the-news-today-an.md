@@ -3,7 +3,6 @@ author: court
 date: 2003-11-06 12:43:01+00:00
 draft: false
 title: In the news today, an
-type: post
 url: /blog/2003/11/06/in-the-news-today-an/
 categories:
 - News

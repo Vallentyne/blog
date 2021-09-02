@@ -3,7 +3,6 @@ author: court
 date: 2007-07-03 20:21:21+00:00
 draft: false
 title: Useless Product Roundup
-type: post
 url: /blog/2007/07/03/useless-product-roundup/
 categories:
 - Stupidity

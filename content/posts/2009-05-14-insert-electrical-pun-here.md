@@ -3,7 +3,6 @@ author: court
 date: 2009-05-14 12:27:02+00:00
 draft: false
 title: Insert Electrical Pun Here
-type: post
 url: /blog/2009/05/14/insert-electrical-pun-here/
 categories:
 - News

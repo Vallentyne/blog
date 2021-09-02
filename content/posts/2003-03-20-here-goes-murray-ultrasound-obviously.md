@@ -3,7 +3,6 @@ author: court
 date: 2003-03-20 16:57:25+00:00
 draft: false
 title: Here goes... Murray ultrasound Obviously
-type: post
 url: /blog/2003/03/20/here-goes-murray-ultrasound-obviously/
 categories:
 - Family News

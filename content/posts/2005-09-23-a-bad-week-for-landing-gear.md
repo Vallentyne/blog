@@ -3,7 +3,6 @@ author: court
 date: 2005-09-23 08:58:57+00:00
 draft: false
 title: A bad week for landing gear
-type: post
 url: /blog/2005/09/23/a-bad-week-for-landing-gear/
 categories:
 - News

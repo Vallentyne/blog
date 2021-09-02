@@ -3,7 +3,6 @@ author: court
 date: 2015-05-20 18:22:47+00:00
 draft: false
 title: Dear 16-year-old Me - YouTube
-type: post
 url: /blog/2015/05/20/dear-16-year-old-me-youtube/
 categories:
 - Scientifica

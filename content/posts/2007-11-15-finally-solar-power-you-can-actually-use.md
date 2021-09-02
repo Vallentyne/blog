@@ -3,7 +3,6 @@ author: court
 date: 2007-11-15 16:44:31+00:00
 draft: false
 title: Finally, solar power you can actually use.
-type: post
 url: /blog/2007/11/15/finally-solar-power-you-can-actually-use/
 categories:
 - Tech

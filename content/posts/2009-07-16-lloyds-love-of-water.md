@@ -3,7 +3,6 @@ author: court
 date: 2009-07-16 12:31:38+00:00
 draft: false
 title: Lloyd's Love of Water
-type: post
 url: /blog/2009/07/16/lloyds-love-of-water/
 categories:
 - Llife with Lloyd

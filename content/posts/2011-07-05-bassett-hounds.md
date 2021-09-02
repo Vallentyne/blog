@@ -3,7 +3,6 @@ author: court
 date: 2011-07-05 16:23:25+00:00
 draft: false
 title: Bassett Hounds
-type: post
 url: /blog/2011/07/05/bassett-hounds/
 categories:
 - Llife with Lloyd

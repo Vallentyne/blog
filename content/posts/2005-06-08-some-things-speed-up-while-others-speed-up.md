@@ -3,7 +3,6 @@ author: court
 date: 2005-06-08 13:02:05+00:00
 draft: false
 title: Some things speed up, while others speed up
-type: post
 url: /blog/2005/06/08/some-things-speed-up-while-others-speed-up/
 categories:
 - Family News

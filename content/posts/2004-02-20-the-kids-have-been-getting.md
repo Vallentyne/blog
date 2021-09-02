@@ -3,7 +3,6 @@ author: court
 date: 2004-02-20 15:04:52+00:00
 draft: false
 title: The kids have been getting
-type: post
 url: /blog/2004/02/20/the-kids-have-been-getting/
 categories:
 - Family News

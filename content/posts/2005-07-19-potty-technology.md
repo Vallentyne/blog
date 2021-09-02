@@ -3,7 +3,6 @@ author: court
 date: 2005-07-19 13:50:27+00:00
 draft: false
 title: Potty Technology
-type: post
 url: /blog/2005/07/19/potty-technology/
 categories:
 - Tech

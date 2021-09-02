@@ -3,7 +3,6 @@ author: court
 date: 2015-04-08 22:44:51+00:00
 draft: false
 title: Lloyd's Czechoslovakian Brother
-type: post
 url: /blog/2015/04/08/lloyds-czechoslovakian-brother/
 categories:
 - Llife with Lloyd

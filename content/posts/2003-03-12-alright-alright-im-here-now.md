@@ -3,7 +3,6 @@ author: court
 date: 2003-03-12 16:14:39+00:00
 draft: false
 title: Alright, Alright, I'm here now.
-type: post
 url: /blog/2003/03/12/alright-alright-im-here-now/
 categories:
 - Family News

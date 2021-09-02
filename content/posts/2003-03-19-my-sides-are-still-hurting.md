@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 10:58:49+00:00
 draft: false
 title: My sides are still hurting
-type: post
 url: /blog/2003/03/19/my-sides-are-still-hurting/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2010-05-31 00:52:29+00:00
 draft: false
 title: Holy Hail, that's a storm
-type: post
 url: /blog/2010/05/30/holy-hail-thats-a-storm/
 categories:
 - Word of the day

@@ -3,7 +3,6 @@ author: court
 date: 2009-06-17 11:55:58+00:00
 draft: false
 title: Mailbag Time
-type: post
 url: /blog/2009/06/17/mailbag-time/
 categories:
 - News

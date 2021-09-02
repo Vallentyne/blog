@@ -1,0 +1,25 @@
+---
+author: nikki
+date: 2007-08-29 19:08:57+00:00
+draft: false
+title: Big Day for Jordy, Proud day for Mom...
+type: post
+url: /blog/2007/08/29/big-day-for-jordy-proud-day-for-mom/
+categories:
+- News
+---
+
+So, call us crazy but tonight we are letting Jordy have 15, yeah, count â€˜em 15 of her friends over for a movie party as a last hoorah before school starts. We are trying to foster the friendships for her popularity with the right crowd.  Itâ€™s a very delicate and calculated move on our part, but all part of a master plan.  The idea is to make the kids we like want to be HERE and comfortable HERE, so that they will always want to be under our roof for the upcoming years where we can keep an eye on them.  Jordy had some pretty catty kids to deal with at the end of June, so we are just trying to focus on the other friends, and neighbours here in the area to give her some safe friendships to foster and cling to.  Also these are kids where we know the parents and have a rapport with them for any issues that may come up later...perfect.  So between 7:00PM and 11:30PM tonight there will be 16 pre-teens in our house plus our other two.  I think that is a new record for us.  18 kids under the one roof at once.  Anyway, 3 of them are sleeping over too so I should be good and tired tomorrow.  Its for a good cause though.  The greater good is what I keep telling myself and damned if we donâ€™t do everything in our power to keep J on the straight and narrow.  So far Iâ€™m a cool mom with all her friends so that works in our favour.  I hope they all have fun. Wish us luck :-)
+
+So today we went to the high school open house at 11AM.  They had their orientation, a BBQ, and the parents were conveniently presented with the opportunity to part with $30 to get the mandatory gym uniforms.  All is well and I'm feeling pretty prepared.  Prepared for Jordy but not prepared for the flood of memories that came crashing back for me.  It was very nostalgic for me to be walking the halls of a high school again.  I could feel the excitement, anxiety, and worry of a new overwhelming place to try to navigate myself around all over again.  It puts it all into perspective really quick about the things we forget about, and expect our kids to roll with.  God love her, she'll do just fine but I can say with absolute certainty that I remember what it was like, and she will have a lot of slack from me the first few weeks.  While all that goes on in my head about the past, I find myself in the midst of a rather proud and fulfilling moment to know that the person I place in these walls, mere days from now, is someone I am bursting with pride over.  She will cry tears, friends will hurt her, and she will be the happiest sheâ€™s ever been all at the same time.  Itâ€™s like taking a step into a new life, and I totally felt a part of it today.  
+
+Staying home was the best thing I ever did.  I walked up the crowded walkway of the high school and saw the timid, anxious, but-trying-not-to-show-it, faces of all the grade sevens.  They were all not knowing where to go, and what they were supposed to do, and when her friends saw me, they relaxed a little, smiled and waved.  They were excited, and not embarrassed when I asked if I could take their picture.  I felt like I was a parent that they were happy to have around them.  
+
+This year has been something else for us.  Jordy starts junior high school, Cael is potty trained, and Quinn is a year away from full days of school.  Court and I are like high school kids, more in love than ever, with the extra time these milestones of our children have allowed.  I am planning my return to work in September of 2008, which is something of a thrill after 8 years (9 by then) of being at home.  We are actually daring to dream about what we may be able to do in the future now that we are actually rested, and find ourselves not always interrupted every few minutes.  Iâ€™m now 35 and my mortality isnâ€™t hovering over my like a black cloud like I thought it would.  I feel good about where Iâ€™m at, emotionally, spiritually and physically.  (Always room for improvement physically, but at least I have something to work towards and a goal that seems achievable).  This is a nice place to be.
+
+This has been a very long post, and I don't post very often and I guess maybe this is why.  Let me wrap this up by saying that life throws a lot at you, and just when you think you can't get any busier, you find that you actually are.  You don't know it, but it is after a flurry of those times you stumble across a short reprieve where you can look back on it all and say, "We did it."  Today was one of those days.  We have a little girl that has grown up enough where we are required to let go a little, and I'm ok with it.  I'm so damned proud of her, and Court and I did it, and we did it together, and she is the best reward ever.  Way to go baby.  You are something else!
+
+Now, I have a party to plan and some ear plugs to locate.
+Later days
+Nik
+

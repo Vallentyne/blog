@@ -3,7 +3,6 @@ author: court
 date: 2006-09-25 20:21:15+00:00
 draft: false
 title: iPods aren't forever
-type: post
 url: /blog/2006/09/25/ipods-arent-forever/
 categories:
 - Tech

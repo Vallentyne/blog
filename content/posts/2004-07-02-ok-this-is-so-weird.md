@@ -3,7 +3,6 @@ author: court
 date: 2004-07-02 09:31:43+00:00
 draft: false
 title: Ok, this is so weird
-type: post
 url: /blog/2004/07/02/ok-this-is-so-weird/
 categories:
 - Stupidity

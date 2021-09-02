@@ -3,7 +3,6 @@ author: court
 date: 2005-02-26 04:27:00+00:00
 draft: false
 title: Here's a nice one about
-type: post
 url: /blog/2005/02/26/heres-a-nice-one-about/
 categories:
 - Stupidity

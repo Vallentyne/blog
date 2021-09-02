@@ -3,7 +3,6 @@ author: court
 date: 2005-04-07 11:59:00+00:00
 draft: false
 title: I know it's wrong, don't
-type: post
 url: /blog/2005/04/07/i-know-its-wrong-dont/
 categories:
 - Stupidity

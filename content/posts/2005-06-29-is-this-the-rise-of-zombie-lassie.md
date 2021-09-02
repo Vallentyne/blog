@@ -3,7 +3,6 @@ author: court
 date: 2005-06-29 15:17:17+00:00
 draft: false
 title: Is this the rise of Zombie Lassie?
-type: post
 url: /blog/2005/06/29/is-this-the-rise-of-zombie-lassie/
 categories:
 - Apocalypse Soon

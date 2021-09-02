@@ -3,7 +3,6 @@ author: court
 date: 2007-05-02 19:02:23+00:00
 draft: false
 title: Tiny Terrier
-type: post
 url: /blog/2007/05/02/tiny-terrier/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-03-22 16:11:00+00:00
 draft: false
 title: Wilson sent around a link
-type: post
 url: /blog/2005/03/22/wilson-sent-around-a-link/
 categories:
 - News

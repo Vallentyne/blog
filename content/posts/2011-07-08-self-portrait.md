@@ -3,7 +3,6 @@ author: court
 date: 2011-07-08 16:33:10+00:00
 draft: false
 title: Self Portrait
-type: post
 url: /blog/2011/07/08/self-portrait/
 categories:
 - News

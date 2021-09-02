@@ -3,7 +3,6 @@ author: court
 date: 2007-07-16 17:49:32+00:00
 draft: false
 title: Terrorism Doesn't Work
-type: post
 url: /blog/2007/07/16/terrorism-doesnt-work/
 categories:
 - News

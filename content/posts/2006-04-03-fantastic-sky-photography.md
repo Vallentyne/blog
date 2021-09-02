@@ -3,7 +3,6 @@ author: court
 date: 2006-04-03 11:10:13+00:00
 draft: false
 title: Fantastic Sky Photography
-type: post
 url: /blog/2006/04/03/fantastic-sky-photography/
 categories:
 - Culture

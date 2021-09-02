@@ -3,7 +3,6 @@ author: court
 date: 2008-12-10 22:48:14+00:00
 draft: false
 title: Stubborn as a horse
-type: post
 url: /blog/2008/12/10/stubborn-as-a-horse/
 categories:
 - Family News

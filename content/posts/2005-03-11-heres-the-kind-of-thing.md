@@ -3,7 +3,6 @@ author: court
 date: 2005-03-11 08:57:00+00:00
 draft: false
 title: Here's the kind of thing
-type: post
 url: /blog/2005/03/11/heres-the-kind-of-thing/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-04-21 10:57:16+00:00
 draft: false
 title: In the future, robot dogs will walk us
-type: post
 url: /blog/2006/04/21/in-the-future-robot-dogs-will-walk-us/
 categories:
 - Apocalypse Soon

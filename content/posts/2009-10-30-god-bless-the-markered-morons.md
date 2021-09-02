@@ -3,7 +3,6 @@ author: court
 date: 2009-10-30 16:30:51+00:00
 draft: false
 title: God Bless The Markered Morons
-type: post
 url: /blog/2009/10/30/god-bless-the-markered-morons/
 categories:
 - Stupidity

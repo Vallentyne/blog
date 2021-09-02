@@ -3,7 +3,6 @@ author: court
 date: 2005-03-21 21:30:00+00:00
 draft: false
 title: I'm an iPod guy as
-type: post
 url: /blog/2005/03/21/im-an-ipod-guy-as/
 categories:
 - Tech

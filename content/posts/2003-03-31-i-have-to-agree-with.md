@@ -3,7 +3,6 @@ author: court
 date: 2003-03-31 09:58:15+00:00
 draft: false
 title: I have to agree with
-type: post
 url: /blog/2003/03/31/i-have-to-agree-with/
 categories:
 - Family News

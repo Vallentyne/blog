@@ -3,7 +3,6 @@ author: court
 date: 2003-05-26 11:03:47+00:00
 draft: false
 title: By the way, good neighbour
-type: post
 url: /blog/2003/05/26/by-the-way-good-neighbour/
 categories:
 - Family News

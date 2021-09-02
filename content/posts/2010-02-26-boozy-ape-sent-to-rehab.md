@@ -3,7 +3,6 @@ author: court
 date: 2010-02-26 20:20:37+00:00
 draft: false
 title: '"Boozy Ape Sent to Rehab"'
-type: post
 url: /blog/2010/02/26/boozy-ape-sent-to-rehab/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-04-16 19:31:26+00:00
 draft: false
 title: News Round Up
-type: post
 url: /blog/2007/04/16/news-round-up/
 categories:
 - Culture

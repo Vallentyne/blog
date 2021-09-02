@@ -3,7 +3,6 @@ author: court
 date: 2009-06-18 10:01:40+00:00
 draft: false
 title: One Liners
-type: post
 url: /blog/2009/06/18/one-liners/
 categories:
 - Culture

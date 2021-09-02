@@ -3,7 +3,6 @@ author: court
 date: 2008-07-04 17:04:41+00:00
 draft: false
 title: '...and this little piggy?'
-type: post
 url: /blog/2008/07/04/and-this-little-piggy/
 categories:
 - News

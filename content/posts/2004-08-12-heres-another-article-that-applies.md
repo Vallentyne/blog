@@ -3,7 +3,6 @@ author: court
 date: 2004-08-12 15:05:35+00:00
 draft: false
 title: Here's another article that applies
-type: post
 url: /blog/2004/08/12/heres-another-article-that-applies/
 categories:
 - Family News

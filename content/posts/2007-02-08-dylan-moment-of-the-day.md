@@ -3,7 +3,6 @@ author: court
 date: 2007-02-08 17:44:55+00:00
 draft: false
 title: Dylan Moment of the Day
-type: post
 url: /blog/2007/02/08/dylan-moment-of-the-day/
 categories:
 - Culture

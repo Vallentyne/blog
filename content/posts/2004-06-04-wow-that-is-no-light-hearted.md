@@ -3,7 +3,6 @@ author: court
 date: 2004-06-04 14:40:34+00:00
 draft: false
 title: Wow! That is no light-hearted
-type: post
 url: /blog/2004/06/04/wow-that-is-no-light-hearted/
 categories:
 - Family News

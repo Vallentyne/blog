@@ -3,7 +3,6 @@ author: court
 date: 2013-03-25 15:15:25+00:00
 draft: false
 title: I am Jealous of Cakes
-type: post
 url: /blog/2013/03/25/i-am-jealous-of-cakes/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-07-04 14:36:05+00:00
 draft: false
 title: Ray Ray Ray
-type: post
 url: /blog/2008/07/04/ray-ray-ray/
 categories:
 - Apocalypse Soon

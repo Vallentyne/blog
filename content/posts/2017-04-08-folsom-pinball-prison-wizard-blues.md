@@ -3,7 +3,6 @@ author: court
 date: 2017-04-08 14:40:21+00:00
 draft: false
 title: Folsom Pinball Prison Wizard Blues
-type: post
 url: /blog/2017/04/08/folsom-pinball-prison-wizard-blues/
 categories:
 - Video Diversions

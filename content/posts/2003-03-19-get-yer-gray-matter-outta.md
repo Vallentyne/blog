@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 15:14:22+00:00
 draft: false
 title: Get yer gray matter outta
-type: post
 url: /blog/2003/03/19/get-yer-gray-matter-outta/
 categories:
 - Family News

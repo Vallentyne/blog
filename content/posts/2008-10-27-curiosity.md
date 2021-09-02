@@ -3,7 +3,6 @@ author: court
 date: 2008-10-27 20:15:17+00:00
 draft: false
 title: Curiosity
-type: post
 url: /blog/2008/10/27/curiosity/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-11-02 20:21:00+00:00
 draft: false
 title: Happy Birthday Jordy
-type: post
 url: /blog/2006/11/02/happy-birthday-jordy/
 categories:
 - Family News

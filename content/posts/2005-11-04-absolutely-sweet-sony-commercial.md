@@ -3,7 +3,6 @@ author: court
 date: 2005-11-04 13:28:45+00:00
 draft: false
 title: Absolutely Sweet Sony Commercial
-type: post
 url: /blog/2005/11/04/absolutely-sweet-sony-commercial/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2012-10-15 15:15:59+00:00
 draft: false
 title: iPhone 5 Complaints by SNL
-type: post
 url: /blog/2012/10/15/iphone-5-complaints-by-snl/
 categories:
 - Stupidity

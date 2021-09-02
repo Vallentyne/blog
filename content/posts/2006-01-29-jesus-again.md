@@ -3,7 +3,6 @@ author: court
 date: 2006-01-29 13:23:10+00:00
 draft: false
 title: Jesus, again.
-type: post
 url: /blog/2006/01/29/jesus-again/
 categories:
 - Culture

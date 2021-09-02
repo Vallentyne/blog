@@ -3,7 +3,6 @@ author: court
 date: 2005-10-25 12:53:34+00:00
 draft: false
 title: Ok, so it's not that good, but not one comment?
-type: post
 url: /blog/2005/10/25/ok-so-its-not-that-good-but-not-one-comment/
 categories:
 - Stupidity

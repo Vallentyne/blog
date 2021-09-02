@@ -3,7 +3,6 @@ author: court
 date: 2005-01-12 13:36:48+00:00
 draft: false
 title: See that's why he's called
-type: post
 url: /blog/2005/01/12/see-thats-why-hes-called/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-02 19:14:32+00:00
 draft: false
 title: Exercise is a good thing, even if it's only for kicking young people's butts.
-type: post
 url: /blog/2009/07/02/exercise-is-a-good-thing-even-if-its-only-for-kicking-young-peoples-butts/
 categories:
 - Stupidity

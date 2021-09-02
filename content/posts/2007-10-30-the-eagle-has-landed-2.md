@@ -3,7 +3,6 @@ author: nikki
 date: 2007-10-30 20:09:02+00:00
 draft: false
 title: The Eagle Has Landed...
-type: post
 url: /blog/2007/10/30/the-eagle-has-landed-2/
 categories:
 - Family News

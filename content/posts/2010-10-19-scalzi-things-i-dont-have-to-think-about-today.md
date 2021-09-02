@@ -3,7 +3,6 @@ author: court
 date: 2010-10-19 19:01:40+00:00
 draft: false
 title: Scalzi - Things I Don't Have to Think About Today
-type: post
 url: /blog/2010/10/19/scalzi-things-i-dont-have-to-think-about-today/
 categories:
 - News

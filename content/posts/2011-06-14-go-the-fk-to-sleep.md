@@ -3,7 +3,6 @@ author: court
 date: 2011-06-14 20:35:29+00:00
 draft: false
 title: Go The F#$k To Sleep
-type: post
 url: /blog/2011/06/14/go-the-fk-to-sleep/
 categories:
 - Culture

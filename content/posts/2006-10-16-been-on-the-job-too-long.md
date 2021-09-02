@@ -3,7 +3,6 @@ author: court
 date: 2006-10-16 21:48:01+00:00
 draft: false
 title: Been on the job too long...
-type: post
 url: /blog/2006/10/16/been-on-the-job-too-long/
 categories:
 - Family News

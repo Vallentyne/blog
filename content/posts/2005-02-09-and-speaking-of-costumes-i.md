@@ -3,7 +3,6 @@ author: court
 date: 2005-02-09 13:42:28+00:00
 draft: false
 title: ..And speaking of costumes, I
-type: post
 url: /blog/2005/02/09/and-speaking-of-costumes-i/
 categories:
 - Stupidity

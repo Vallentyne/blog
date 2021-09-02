@@ -3,7 +3,6 @@ author: court
 date: 2009-07-06 17:16:37+00:00
 draft: false
 title: She's just Married to a spy...
-type: post
 url: /blog/2009/07/06/shes-just-married-to-a-spy/
 categories:
 - News

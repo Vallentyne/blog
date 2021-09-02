@@ -3,7 +3,6 @@ author: court
 date: 2005-01-04 13:34:24+00:00
 draft: false
 title: Happy New Year folks... It's
-type: post
 url: /blog/2005/01/04/happy-new-year-folks-its/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-03-23 11:28:00+00:00
 draft: false
 title: Here's a beauty. It's basically
-type: post
 url: /blog/2005/03/23/heres-a-beauty-its-basically/
 categories:
 - Stupidity

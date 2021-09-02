@@ -3,7 +3,6 @@ author: court
 date: 2017-04-20 01:09:06+00:00
 draft: false
 title: The Vallentyne Work Snarl
-type: post
 url: /blog/2017/04/19/vallentynesnarl/
 categories:
 - Family News

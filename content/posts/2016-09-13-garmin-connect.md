@@ -3,7 +3,6 @@ author: court
 date: 2016-09-13 20:10:22+00:00
 draft: false
 title: Garmin Connect
-type: post
 url: /blog/2016/09/13/garmin-connect/
 categories:
 - Running

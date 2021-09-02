@@ -3,7 +3,6 @@ author: court
 date: 2003-10-30 10:26:30+00:00
 draft: false
 title: Subtle shot there, Vallentyne, but
-type: post
 url: /blog/2003/10/30/subtle-shot-there-vallentyne-but/
 categories:
 - Family News

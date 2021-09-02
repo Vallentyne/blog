@@ -3,7 +3,6 @@ author: court
 date: 2005-11-23 09:22:13+00:00
 draft: false
 title: Barenaked Ladies
-type: post
 url: /blog/2005/11/23/barenaked-ladies/
 categories:
 - Culture

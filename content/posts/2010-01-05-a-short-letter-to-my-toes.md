@@ -3,7 +3,6 @@ author: court
 date: 2010-01-05 13:20:03+00:00
 draft: false
 title: A Short Letter to my Toes
-type: post
 url: /blog/2010/01/05/a-short-letter-to-my-toes/
 categories:
 - Stupidity

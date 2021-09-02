@@ -3,7 +3,6 @@ author: court
 date: 2004-07-30 14:13:08+00:00
 draft: false
 title: Ah, nothing like the beginning
-type: post
 url: /blog/2004/07/30/ah-nothing-like-the-beginning/
 categories:
 - Family News

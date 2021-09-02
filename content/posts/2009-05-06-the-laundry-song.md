@@ -3,7 +3,6 @@ author: court
 date: 2009-05-06 11:32:49+00:00
 draft: false
 title: The Laundry Song
-type: post
 url: /blog/2009/05/06/the-laundry-song/
 categories:
 - Culture

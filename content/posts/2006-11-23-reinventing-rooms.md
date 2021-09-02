@@ -3,7 +3,6 @@ author: court
 date: 2006-11-23 18:09:01+00:00
 draft: false
 title: Reinventing Rooms
-type: post
 url: /blog/2006/11/23/reinventing-rooms/
 categories:
 - News

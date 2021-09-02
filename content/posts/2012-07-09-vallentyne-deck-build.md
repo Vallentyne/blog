@@ -3,7 +3,6 @@ author: court
 date: 2012-07-09 20:22:12+00:00
 draft: false
 title: Vallentyne Deck Build
-type: post
 url: /blog/2012/07/09/vallentyne-deck-build/
 categories:
 - Home Improvements

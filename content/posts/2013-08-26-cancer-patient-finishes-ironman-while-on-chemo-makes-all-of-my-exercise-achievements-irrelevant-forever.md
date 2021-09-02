@@ -4,7 +4,6 @@ date: 2013-08-26 18:19:16+00:00
 draft: false
 title: Cancer Patient Finishes Ironman while on Chemo, makes all of my "exercise achievements"
   irrelevant forever
-type: post
 url: /blog/2013/08/26/cancer-patient-finishes-ironman-while-on-chemo-makes-all-of-my-exercise-achievements-irrelevant-forever/
 categories:
 - Running

@@ -3,7 +3,6 @@ author: court
 date: 2006-09-06 18:33:47+00:00
 draft: false
 title: Suppertime is the Bane of our existence
-type: post
 url: /blog/2006/09/06/suppertime-is-the-bane-of-our-existence/
 categories:
 - Culture

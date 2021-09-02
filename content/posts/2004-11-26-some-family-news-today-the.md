@@ -3,7 +3,6 @@ author: court
 date: 2004-11-26 09:43:35+00:00
 draft: false
 title: Some family news today. The
-type: post
 url: /blog/2004/11/26/some-family-news-today-the/
 categories:
 - Family News

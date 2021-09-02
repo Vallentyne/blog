@@ -3,7 +3,6 @@ author: court
 date: 2007-03-23 02:16:04+00:00
 draft: false
 title: Appreciating Nature
-type: post
 url: /blog/2007/03/22/appreciating-nature/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2004-01-16 12:38:06+00:00
 draft: false
 title: One note of interest is
-type: post
 url: /blog/2004/01/16/one-note-of-interest-is/
 categories:
 - Family News

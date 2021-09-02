@@ -3,7 +3,6 @@ author: court
 date: 2011-12-27 15:30:10+00:00
 draft: false
 title: Don Cherry's Piano Desk
-type: post
 url: /blog/2011/12/27/don-cherrys-piano-desk/
 categories:
 - Stupidity

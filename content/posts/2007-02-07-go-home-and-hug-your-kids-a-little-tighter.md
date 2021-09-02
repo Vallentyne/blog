@@ -3,7 +3,6 @@ author: nikki
 date: 2007-02-07 21:03:04+00:00
 draft: false
 title: Go home ... and hug your kids a little tighter.
-type: post
 url: /blog/2007/02/07/go-home-and-hug-your-kids-a-little-tighter/
 categories:
 - Family News

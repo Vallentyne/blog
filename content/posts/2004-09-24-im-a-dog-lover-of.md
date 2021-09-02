@@ -3,7 +3,6 @@ author: court
 date: 2004-09-24 14:44:30+00:00
 draft: false
 title: I'm a dog lover of
-type: post
 url: /blog/2004/09/24/im-a-dog-lover-of/
 categories:
 - News

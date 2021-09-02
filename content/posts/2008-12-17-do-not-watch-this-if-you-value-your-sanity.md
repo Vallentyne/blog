@@ -3,7 +3,6 @@ author: court
 date: 2008-12-17 03:14:07+00:00
 draft: false
 title: Do not watch this if you value your sanity
-type: post
 url: /blog/2008/12/16/do-not-watch-this-if-you-value-your-sanity/
 categories:
 - Video Diversions

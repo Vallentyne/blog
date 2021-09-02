@@ -3,7 +3,6 @@ author: court
 date: 2009-09-25 18:17:08+00:00
 draft: false
 title: Vallentyne Style Update
-type: post
 url: /blog/2009/09/25/vallentyne-style-update/
 categories:
 - Family News

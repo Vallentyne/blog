@@ -3,7 +3,6 @@ author: court
 date: 2010-09-30 18:40:52+00:00
 draft: false
 title: Mistreated Calories
-type: post
 url: /blog/2010/09/30/mistreated-calories/
 categories:
 - Running

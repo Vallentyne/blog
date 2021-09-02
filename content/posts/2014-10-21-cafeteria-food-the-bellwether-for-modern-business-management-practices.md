@@ -3,7 +3,6 @@ author: court
 date: 2014-10-21 21:58:48+00:00
 draft: false
 title: Cafeteria Food - The Bellwether for Modern Business Management Practices?
-type: post
 url: /blog/2014/10/21/cafeteria-food-the-bellwether-for-modern-business-management-practices/
 categories:
 - Stupidity

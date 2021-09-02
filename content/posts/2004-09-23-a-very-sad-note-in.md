@@ -3,7 +3,6 @@ author: court
 date: 2004-09-23 11:58:50+00:00
 draft: false
 title: A very sad note in
-type: post
 url: /blog/2004/09/23/a-very-sad-note-in/
 categories:
 - Culture

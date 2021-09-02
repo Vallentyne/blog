@@ -3,7 +3,6 @@ author: court
 date: 2009-06-08 17:27:40+00:00
 draft: false
 title: Poop Musings
-type: post
 url: /blog/2009/06/08/poop-musings/
 categories:
 - Family News

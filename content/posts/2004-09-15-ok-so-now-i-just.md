@@ -3,7 +3,6 @@ author: court
 date: 2004-09-15 14:05:54+00:00
 draft: false
 title: Ok so now I just
-type: post
 url: /blog/2004/09/15/ok-so-now-i-just/
 categories:
 - Family News

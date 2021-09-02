@@ -3,7 +3,6 @@ author: court
 date: 2013-02-09 22:13:30+00:00
 draft: false
 title: I found Nemo, and he is a jerk
-type: post
 url: /blog/2013/02/09/i-found-nemo-and-he-is-a-jerk/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-03-04 11:45:11+00:00
 draft: false
 title: Well, check this out. I'm
-type: post
 url: /blog/2004/03/04/well-check-this-out-im/
 categories:
 - Family News

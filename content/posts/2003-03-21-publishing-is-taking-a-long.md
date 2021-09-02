@@ -3,7 +3,6 @@ author: court
 date: 2003-03-21 12:23:51+00:00
 draft: false
 title: Publishing is taking a long
-type: post
 url: /blog/2003/03/21/publishing-is-taking-a-long/
 categories:
 - Family News

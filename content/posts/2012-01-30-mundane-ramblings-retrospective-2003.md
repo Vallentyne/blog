@@ -3,7 +3,6 @@ author: court
 date: 2012-01-30 20:15:47+00:00
 draft: false
 title: Mundane Ramblings Retrospective - 2003
-type: post
 url: /blog/2012/01/30/mundane-ramblings-retrospective-2003/
 categories:
 - Family News

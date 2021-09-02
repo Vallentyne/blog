@@ -3,7 +3,6 @@ author: court
 date: 2009-02-09 11:50:43+00:00
 draft: false
 title: Completely Unecessary
-type: post
 url: /blog/2009/02/09/completely-unecessary/
 categories:
 - News

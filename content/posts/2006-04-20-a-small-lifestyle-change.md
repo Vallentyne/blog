@@ -3,7 +3,6 @@ author: court
 date: 2006-04-20 15:33:14+00:00
 draft: false
 title: A small lifestyle change
-type: post
 url: /blog/2006/04/20/a-small-lifestyle-change/
 categories:
 - Stupidity

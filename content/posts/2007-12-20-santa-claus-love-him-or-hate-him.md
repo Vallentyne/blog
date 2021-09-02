@@ -3,7 +3,6 @@ author: court
 date: 2007-12-20 19:01:43+00:00
 draft: false
 title: Santa Claus, Love Him or Hate Him
-type: post
 url: /blog/2007/12/20/santa-claus-love-him-or-hate-him/
 categories:
 - Culture

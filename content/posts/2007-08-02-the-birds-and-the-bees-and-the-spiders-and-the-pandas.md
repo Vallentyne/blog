@@ -3,7 +3,6 @@ author: court
 date: 2007-08-02 15:31:33+00:00
 draft: false
 title: The birds and the bees, and the spiders and the pandas
-type: post
 url: /blog/2007/08/02/the-birds-and-the-bees-and-the-spiders-and-the-pandas/
 categories:
 - News

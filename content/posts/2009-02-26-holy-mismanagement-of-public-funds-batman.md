@@ -3,7 +3,6 @@ author: court
 date: 2009-02-26 14:12:43+00:00
 draft: false
 title: Holy Mismanagement of Public Funds, Batman!
-type: post
 url: /blog/2009/02/26/holy-mismanagement-of-public-funds-batman/
 categories:
 - Apocalypse Soon

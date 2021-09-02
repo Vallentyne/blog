@@ -3,7 +3,6 @@ author: court
 date: 2008-06-09 12:53:29+00:00
 draft: false
 title: Alzheimer's Trap
-type: post
 url: /blog/2008/06/09/alzheimers-trap/
 categories:
 - Culture

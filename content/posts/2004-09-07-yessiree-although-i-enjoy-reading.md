@@ -3,7 +3,6 @@ author: court
 date: 2004-09-07 22:40:39+00:00
 draft: false
 title: Yessiree. Although I enjoy reading
-type: post
 url: /blog/2004/09/07/yessiree-although-i-enjoy-reading/
 categories:
 - Family News

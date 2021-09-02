@@ -3,7 +3,6 @@ author: court
 date: 2003-04-14 21:06:55+00:00
 draft: false
 title: Hellloooooooo! I can't remember the
-type: post
 url: /blog/2003/04/14/hellloooooooo-i-cant-remember-the/
 categories:
 - Culture

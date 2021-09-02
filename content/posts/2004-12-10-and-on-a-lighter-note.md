@@ -3,7 +3,6 @@ author: court
 date: 2004-12-10 13:10:12+00:00
 draft: false
 title: And on a lighter note,
-type: post
 url: /blog/2004/12/10/and-on-a-lighter-note/
 categories:
 - Stupidity

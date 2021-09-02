@@ -3,7 +3,6 @@ author: court
 date: 2007-12-03 20:04:25+00:00
 draft: false
 title: Cats are Dumb
-type: post
 url: /blog/2007/12/03/cats-are-dumb/
 categories:
 - Culture

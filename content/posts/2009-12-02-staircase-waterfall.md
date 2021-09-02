@@ -3,7 +3,6 @@ author: court
 date: 2009-12-02 13:13:11+00:00
 draft: false
 title: Staircase Waterfall
-type: post
 url: /blog/2009/12/02/staircase-waterfall/
 categories:
 - Llife with Lloyd

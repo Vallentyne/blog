@@ -3,7 +3,6 @@ author: court
 date: 2007-05-07 02:29:58+00:00
 draft: false
 title: Random Videos
-type: post
 url: /blog/2007/05/06/random-videos/
 categories:
 - Video Diversions

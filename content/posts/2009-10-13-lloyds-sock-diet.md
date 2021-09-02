@@ -3,7 +3,6 @@ author: court
 date: 2009-10-13 13:02:47+00:00
 draft: false
 title: Lloyd's Sock Diet
-type: post
 url: /blog/2009/10/13/lloyds-sock-diet/
 categories:
 - Llife with Lloyd

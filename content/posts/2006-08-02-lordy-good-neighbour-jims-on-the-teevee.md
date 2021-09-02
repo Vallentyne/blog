@@ -3,7 +3,6 @@ author: court
 date: 2006-08-02 15:35:02+00:00
 draft: false
 title: Lordy, Good Neighbour Jim's on the teevee!
-type: post
 url: /blog/2006/08/02/lordy-good-neighbour-jims-on-the-teevee/
 categories:
 - News

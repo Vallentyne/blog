@@ -3,7 +3,6 @@ author: court
 date: 2006-10-13 16:52:54+00:00
 draft: false
 title: If Humans Vanished Tomorrow....
-type: post
 url: /blog/2006/10/13/if-humans-vanished-tomorrow/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2006-01-03 15:29:14+00:00
 draft: false
 title: Wilson, don't look at this.
-type: post
 url: /blog/2006/01/03/wilson-dont-look-at-this/
 categories:
 - Culture

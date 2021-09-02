@@ -3,7 +3,6 @@ author: court
 date: 2008-04-17 14:08:58+00:00
 draft: false
 title: The Boss is hawking stuff?
-type: post
 url: /blog/2008/04/17/the-boss-is-hawking-stuff/
 categories:
 - Culture

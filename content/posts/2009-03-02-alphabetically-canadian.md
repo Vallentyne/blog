@@ -3,7 +3,6 @@ author: court
 date: 2009-03-02 18:38:54+00:00
 draft: false
 title: Alphabetically Canadian
-type: post
 url: /blog/2009/03/02/alphabetically-canadian/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-04-26 08:57:45+00:00
 draft: false
 title: Pong, Tron-style
-type: post
 url: /blog/2006/04/26/pong-tron-style/
 categories:
 - Tech

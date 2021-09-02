@@ -3,7 +3,6 @@ author: court
 date: 2016-04-12 01:51:58+00:00
 draft: false
 title: Sometimes, just hiccups
-type: post
 url: /blog/2016/04/11/sometimes-just-hiccups/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2009-03-24 11:00:31+00:00
 draft: false
 title: Coasters, Shmoasters
-type: post
 url: /blog/2009/03/24/coasters-shmoasters/
 categories:
 - Stupidity

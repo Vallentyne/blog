@@ -3,7 +3,6 @@ author: court
 date: 2009-07-22 13:53:57+00:00
 draft: false
 title: Sunshine Happy Fun Time?
-type: post
 url: /blog/2009/07/22/sunshine-happy-fun-time/
 categories:
 - News

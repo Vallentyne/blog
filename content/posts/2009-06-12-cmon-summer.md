@@ -3,7 +3,6 @@ author: nikki
 date: 2009-06-12 14:05:07+00:00
 draft: false
 title: C'MON SUMMER!
-type: post
 url: /blog/2009/06/12/cmon-summer/
 categories:
 - Family News

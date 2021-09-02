@@ -3,7 +3,6 @@ author: court
 date: 2010-03-13 20:42:58+00:00
 draft: false
 title: Cael's Phobia
-type: post
 url: /blog/2010/03/13/caels-phobia/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-12-31 18:57:13+00:00
 draft: false
 title: eMusic - An online music store that doesn't suck
-type: post
 url: /blog/2007/12/31/emusic-an-online-music-store-that-doesnt-suck/
 categories:
 - Culture

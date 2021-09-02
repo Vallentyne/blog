@@ -3,7 +3,6 @@ author: court
 date: 2016-11-22 16:10:42+00:00
 draft: false
 title: Where are my damn peanuts?
-type: post
 url: /blog/2016/11/22/where-are-my-damn-peanuts/
 categories:
 - Family News

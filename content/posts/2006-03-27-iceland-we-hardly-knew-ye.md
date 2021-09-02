@@ -3,7 +3,6 @@ author: court
 date: 2006-03-27 13:30:56+00:00
 draft: false
 title: Iceland, We Hardly Knew Ye
-type: post
 url: /blog/2006/03/27/iceland-we-hardly-knew-ye/
 categories:
 - Apocalypse Soon

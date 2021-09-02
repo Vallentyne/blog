@@ -3,7 +3,6 @@ author: court
 date: 2008-01-25 13:59:51+00:00
 draft: false
 title: Sleep Deprivation Strategies
-type: post
 url: /blog/2008/01/25/sleep-deprivation-strategies/
 categories:
 - Stupidity

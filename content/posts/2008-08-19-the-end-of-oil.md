@@ -3,7 +3,6 @@ author: court
 date: 2008-08-19 19:19:24+00:00
 draft: false
 title: The End of Oil
-type: post
 url: /blog/2008/08/19/the-end-of-oil/
 categories:
 - Apocalypse Soon

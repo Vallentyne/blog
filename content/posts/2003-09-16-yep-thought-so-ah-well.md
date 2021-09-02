@@ -3,7 +3,6 @@ author: court
 date: 2003-09-16 11:19:54+00:00
 draft: false
 title: Yep, thought so. Ah well,
-type: post
 url: /blog/2003/09/16/yep-thought-so-ah-well/
 categories:
 - Family News

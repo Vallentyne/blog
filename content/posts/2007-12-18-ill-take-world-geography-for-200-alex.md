@@ -3,7 +3,6 @@ author: court
 date: 2007-12-18 14:16:21+00:00
 draft: false
 title: I'll take world geography for $200, Alex
-type: post
 url: /blog/2007/12/18/ill-take-world-geography-for-200-alex/
 categories:
 - Culture

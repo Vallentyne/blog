@@ -3,7 +3,6 @@ author: court
 date: 2005-12-15 15:22:02+00:00
 draft: false
 title: T-29 hours to the 6th Annual VCB
-type: post
 url: /blog/2005/12/15/t-29-hours-to-the-6th-annual-vcb/
 categories:
 - Family News

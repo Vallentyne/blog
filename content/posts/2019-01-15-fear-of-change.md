@@ -3,7 +3,6 @@ author: court
 date: 2019-01-15 04:27:07+00:00
 draft: false
 title: Fear of Change
-type: post
 url: /blog/2019/01/15/fear-of-change/
 categories:
 - Tech

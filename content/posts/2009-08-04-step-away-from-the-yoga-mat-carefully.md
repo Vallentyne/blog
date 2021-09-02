@@ -3,7 +3,6 @@ author: court
 date: 2009-08-04 16:20:33+00:00
 draft: false
 title: Step Away from the Yoga Mat, carefully
-type: post
 url: /blog/2009/08/04/step-away-from-the-yoga-mat-carefully/
 categories:
 - News

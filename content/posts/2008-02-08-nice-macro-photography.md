@@ -3,7 +3,6 @@ author: court
 date: 2008-02-08 14:00:01+00:00
 draft: false
 title: Nice Macro Photography
-type: post
 url: /blog/2008/02/08/nice-macro-photography/
 categories:
 - Culture

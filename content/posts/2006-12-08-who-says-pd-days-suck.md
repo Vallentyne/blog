@@ -3,7 +3,6 @@ author: nikki
 date: 2006-12-08 15:04:28+00:00
 draft: false
 title: Who says PD Days suck?
-type: post
 url: /blog/2006/12/08/who-says-pd-days-suck/
 categories:
 - Family News

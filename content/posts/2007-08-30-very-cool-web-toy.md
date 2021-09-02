@@ -3,7 +3,6 @@ author: court
 date: 2007-08-30 16:18:09+00:00
 draft: false
 title: Very cool web toy
-type: post
 url: /blog/2007/08/30/very-cool-web-toy/
 categories:
 - Tech

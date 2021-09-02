@@ -3,7 +3,6 @@ author: court
 date: 2006-05-02 15:17:43+00:00
 draft: false
 title: Colbert's got them, big ones too.
-type: post
 url: /blog/2006/05/02/colberts-got-them-big-ones-too/
 categories:
 - Culture

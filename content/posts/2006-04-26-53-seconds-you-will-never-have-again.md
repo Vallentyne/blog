@@ -3,7 +3,6 @@ author: court
 date: 2006-04-26 21:48:29+00:00
 draft: false
 title: 53 seconds you will never have again
-type: post
 url: /blog/2006/04/26/53-seconds-you-will-never-have-again/
 categories:
 - Stupidity

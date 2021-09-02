@@ -3,7 +3,6 @@ author: court
 date: 2005-11-09 21:37:19+00:00
 draft: false
 title: Jordy's Thoughts on War
-type: post
 url: /blog/2005/11/09/jordys-thoughts-on-war/
 categories:
 - Family News

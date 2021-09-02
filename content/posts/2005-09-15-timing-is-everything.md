@@ -3,7 +3,6 @@ author: court
 date: 2005-09-15 12:39:46+00:00
 draft: false
 title: Timing is everything...
-type: post
 url: /blog/2005/09/15/timing-is-everything/
 categories:
 - Family News

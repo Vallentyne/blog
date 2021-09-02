@@ -3,7 +3,6 @@ author: court
 date: 2010-12-24 15:05:07+00:00
 draft: false
 title: The Year Kenny Loggins Ruined Christmas
-type: post
 url: /blog/2010/12/24/the-year-kenny-loggins-ruined-christmas/
 categories:
 - Family News

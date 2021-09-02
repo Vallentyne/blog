@@ -3,7 +3,6 @@ author: court
 date: 2011-05-31 15:12:35+00:00
 draft: false
 title: Ethan Suplee isn't Randy Anymore
-type: post
 url: /blog/2011/05/31/ethan-suplee-isnt-randy-anymore/
 categories:
 - Culture

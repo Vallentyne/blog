@@ -3,7 +3,6 @@ author: court
 date: 2004-12-29 14:37:11+00:00
 draft: false
 title: Just to clean out the
-type: post
 url: /blog/2004/12/29/just-to-clean-out-the/
 categories:
 - Culture

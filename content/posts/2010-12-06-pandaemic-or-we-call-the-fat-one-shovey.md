@@ -3,7 +3,6 @@ author: court
 date: 2010-12-06 00:38:05+00:00
 draft: false
 title: Pandaemic (or we call the fat one shovey)
-type: post
 url: /blog/2010/12/05/pandaemic-or-we-call-the-fat-one-shovey/
 categories:
 - Video Diversions

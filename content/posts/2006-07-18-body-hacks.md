@@ -3,7 +3,6 @@ author: court
 date: 2006-07-18 15:51:11+00:00
 draft: false
 title: Body Hacks
-type: post
 url: /blog/2006/07/18/body-hacks/
 categories:
 - News

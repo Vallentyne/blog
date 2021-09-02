@@ -3,7 +3,6 @@ author: court
 date: 2003-04-07 11:38:30+00:00
 draft: false
 title: Interesting article Robbie. Somebody should
-type: post
 url: /blog/2003/04/07/interesting-article-robbie-somebody-should/
 categories:
 - Family News

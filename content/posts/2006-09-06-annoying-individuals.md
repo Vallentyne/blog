@@ -3,7 +3,6 @@ author: court
 date: 2006-09-06 15:40:15+00:00
 draft: false
 title: Annoying Individuals
-type: post
 url: /blog/2006/09/06/annoying-individuals/
 categories:
 - Stupidity

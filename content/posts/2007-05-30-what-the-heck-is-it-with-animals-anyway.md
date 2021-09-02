@@ -3,7 +3,6 @@ author: court
 date: 2007-05-30 20:25:45+00:00
 draft: false
 title: What the heck is it with animals, anyway?
-type: post
 url: /blog/2007/05/30/what-the-heck-is-it-with-animals-anyway/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2003-04-29 15:19:09+00:00
 draft: false
 title: hm, this will all become
-type: post
 url: /blog/2003/04/29/hm-this-will-all-become/
 categories:
 - Family News

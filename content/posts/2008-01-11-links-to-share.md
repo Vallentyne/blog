@@ -3,7 +3,6 @@ author: court
 date: 2008-01-11 19:31:42+00:00
 draft: false
 title: Links to share
-type: post
 url: /blog/2008/01/11/links-to-share/
 categories:
 - Tech

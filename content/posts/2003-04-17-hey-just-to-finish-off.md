@@ -3,7 +3,6 @@ author: court
 date: 2003-04-17 12:20:13+00:00
 draft: false
 title: Hey. Just to finish off
-type: post
 url: /blog/2003/04/17/hey-just-to-finish-off/
 categories:
 - Family News

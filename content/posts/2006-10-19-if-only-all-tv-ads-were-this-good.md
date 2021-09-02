@@ -3,7 +3,6 @@ author: court
 date: 2006-10-19 15:38:12+00:00
 draft: false
 title: If only all TV ads were this good
-type: post
 url: /blog/2006/10/19/if-only-all-tv-ads-were-this-good/
 categories:
 - Culture

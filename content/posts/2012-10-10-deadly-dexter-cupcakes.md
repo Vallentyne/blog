@@ -3,7 +3,6 @@ author: court
 date: 2012-10-10 17:32:33+00:00
 draft: false
 title: Deadly Dexter Cupcakes
-type: post
 url: /blog/2012/10/10/deadly-dexter-cupcakes/
 categories:
 - News

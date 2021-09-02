@@ -3,7 +3,6 @@ author: court
 date: 2007-01-15 21:08:00+00:00
 draft: false
 title: Odd Bodies
-type: post
 url: /blog/2007/01/15/odd-bodies/
 categories:
 - Culture

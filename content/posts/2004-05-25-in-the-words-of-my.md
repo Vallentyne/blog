@@ -3,7 +3,6 @@ author: court
 date: 2004-05-25 15:10:12+00:00
 draft: false
 title: In the words of my
-type: post
 url: /blog/2004/05/25/in-the-words-of-my/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-30 17:51:18+00:00
 draft: false
 title: My wife and I live apart, but she wants a baby
-type: post
 url: /blog/2009/07/30/my-wife-and-i-live-apart-but-she-wants-a-baby/
 categories:
 - News

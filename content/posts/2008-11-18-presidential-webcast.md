@@ -3,7 +3,6 @@ author: court
 date: 2008-11-18 12:00:28+00:00
 draft: false
 title: Presidential Webcast
-type: post
 url: /blog/2008/11/18/presidential-webcast/
 categories:
 - Culture

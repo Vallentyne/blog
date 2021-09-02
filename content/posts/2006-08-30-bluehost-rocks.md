@@ -3,7 +3,6 @@ author: court
 date: 2006-08-30 16:30:37+00:00
 draft: false
 title: BlueHost Rocks
-type: post
 url: /blog/2006/08/30/bluehost-rocks/
 categories:
 - Tech

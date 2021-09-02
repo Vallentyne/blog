@@ -3,7 +3,6 @@ author: court
 date: 2008-08-01 14:28:48+00:00
 draft: false
 title: Blogging from the iPhone
-type: post
 url: /blog/2008/08/01/blogging-from-the-iphone/
 categories:
 - Tech

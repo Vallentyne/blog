@@ -3,7 +3,6 @@ author: court
 date: 2007-08-21 18:12:30+00:00
 draft: false
 title: Guns in America
-type: post
 url: /blog/2007/08/21/guns-in-america/
 categories:
 - News

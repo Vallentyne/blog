@@ -3,7 +3,6 @@ author: court
 date: 2005-07-21 11:14:44+00:00
 draft: false
 title: The perfect geek time-waster
-type: post
 url: /blog/2005/07/21/the-perfect-geek-time-waster/
 categories:
 - Tech

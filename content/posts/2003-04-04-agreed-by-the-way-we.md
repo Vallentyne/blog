@@ -3,7 +3,6 @@ author: court
 date: 2003-04-04 15:52:51+00:00
 draft: false
 title: Agreed. By the way, we
-type: post
 url: /blog/2003/04/04/agreed-by-the-way-we/
 categories:
 - Family News

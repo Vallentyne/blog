@@ -3,7 +3,6 @@ author: court
 date: 2006-05-31 12:56:56+00:00
 draft: false
 title: Ask A Ninja
-type: post
 url: /blog/2006/05/31/ask-a-ninja/
 categories:
 - Video Diversions

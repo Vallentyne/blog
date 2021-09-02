@@ -3,7 +3,6 @@ author: court
 date: 2003-05-20 15:15:26+00:00
 draft: false
 title: I agree, Ali is loco.
-type: post
 url: /blog/2003/05/20/i-agree-ali-is-loco/
 categories:
 - Family News

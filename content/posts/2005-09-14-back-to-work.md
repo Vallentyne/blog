@@ -3,7 +3,6 @@ author: court
 date: 2005-09-14 12:14:11+00:00
 draft: false
 title: Back to work
-type: post
 url: /blog/2005/09/14/back-to-work/
 categories:
 - Family News

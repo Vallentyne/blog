@@ -3,7 +3,6 @@ author: court
 date: 2005-02-03 11:45:31+00:00
 draft: false
 title: And now on to other
-type: post
 url: /blog/2005/02/03/and-now-on-to-other/
 categories:
 - Culture

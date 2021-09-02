@@ -3,7 +3,6 @@ author: court
 date: 2009-05-21 13:30:16+00:00
 draft: false
 title: 'Breaking news: Sugary caffeinated drinks are BAD for you'
-type: post
 url: /blog/2009/05/21/breaking-news-sugary-caffeinated-drinks-are-bad-for-you/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2007-05-04 15:48:30+00:00
 draft: false
 title: Stay at home Moms underpaid....
-type: post
 url: /blog/2007/05/04/stay-at-home-moms-underpaid/
 categories:
 - Culture

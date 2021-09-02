@@ -3,7 +3,6 @@ author: court
 date: 2004-10-06 22:03:44+00:00
 draft: false
 title: Wow, there's a lot of
-type: post
 url: /blog/2004/10/06/wow-theres-a-lot-of/
 categories:
 - Culture

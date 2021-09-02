@@ -3,7 +3,6 @@ author: court
 date: 2003-04-02 15:46:22+00:00
 draft: false
 title: Are we still on prime-time,
-type: post
 url: /blog/2003/04/02/are-we-still-on-prime-time/
 categories:
 - Family News

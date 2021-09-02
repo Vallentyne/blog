@@ -3,7 +3,6 @@ author: court
 date: 2008-03-10 15:42:16+00:00
 draft: false
 title: Wake Up Happier
-type: post
 url: /blog/2008/03/10/wake-up-happier/
 categories:
 - Video Diversions

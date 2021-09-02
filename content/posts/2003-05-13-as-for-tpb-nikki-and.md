@@ -3,7 +3,6 @@ author: court
 date: 2003-05-13 10:20:27+00:00
 draft: false
 title: As for TPB, Nikki and
-type: post
 url: /blog/2003/05/13/as-for-tpb-nikki-and/
 categories:
 - Family News

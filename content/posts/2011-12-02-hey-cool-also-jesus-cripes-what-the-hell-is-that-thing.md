@@ -3,7 +3,6 @@ author: court
 date: 2011-12-02 20:43:02+00:00
 draft: false
 title: Hey, cool!  Also, JESUS CRIPES what the hell is that thing?
-type: post
 url: /blog/2011/12/02/hey-cool-also-jesus-cripes-what-the-hell-is-that-thing/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2007-11-27 16:37:36+00:00
 draft: false
 title: Name that Whale
-type: post
 url: /blog/2007/11/27/name-that-whale/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-11-23 15:57:44+00:00
 draft: false
 title: Small update today. T-24 to
-type: post
 url: /blog/2004/11/23/small-update-today-t-24-to/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-07-31 16:57:52+00:00
 draft: false
 title: Vallentyne Wonderland Trip
-type: post
 url: /blog/2007/07/31/vallentyne-wonderland-trip/
 categories:
 - Family News

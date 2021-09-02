@@ -3,7 +3,6 @@ author: court
 date: 2003-10-31 14:37:36+00:00
 draft: false
 title: I sometimes have to check
-type: post
 url: /blog/2003/10/31/i-sometimes-have-to-check/
 categories:
 - Family News

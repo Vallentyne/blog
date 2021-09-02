@@ -3,7 +3,6 @@ author: court
 date: 2004-09-16 15:47:56+00:00
 draft: false
 title: So, tomorrow I'm lucky enough
-type: post
 url: /blog/2004/09/16/so-tomorrow-im-lucky-enough/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2011-12-21 17:05:20+00:00
 draft: false
 title: Lucky does not equal smart
-type: post
 url: /blog/2011/12/21/lucky-does-not-equal-smart/
 categories:
 - Stupidity

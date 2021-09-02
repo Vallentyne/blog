@@ -3,7 +3,6 @@ author: court
 date: 2013-01-10 20:45:55+00:00
 draft: false
 title: Sons of Anarchy meets big old smashemup Robot Movie
-type: post
 url: /blog/2013/01/10/sons-of-anarchy-meets-big-old-smashemup-robot-movie/
 categories:
 - Culture

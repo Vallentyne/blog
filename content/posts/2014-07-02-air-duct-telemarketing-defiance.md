@@ -3,7 +3,6 @@ author: court
 date: 2014-07-02 19:19:43+00:00
 draft: false
 title: Air Duct Telemarketing Defiance
-type: post
 url: /blog/2014/07/02/air-duct-telemarketing-defiance/
 categories:
 - Stupidity

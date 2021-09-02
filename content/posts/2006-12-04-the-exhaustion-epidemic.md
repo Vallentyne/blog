@@ -3,7 +3,6 @@ author: court
 date: 2006-12-04 20:47:06+00:00
 draft: false
 title: The Exhaustion Epidemic
-type: post
 url: /blog/2006/12/04/the-exhaustion-epidemic/
 categories:
 - Culture

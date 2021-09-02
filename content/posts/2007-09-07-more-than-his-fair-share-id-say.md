@@ -3,7 +3,6 @@ author: court
 date: 2007-09-07 14:52:31+00:00
 draft: false
 title: More than his fair share, I'd say.
-type: post
 url: /blog/2007/09/07/more-than-his-fair-share-id-say/
 categories:
 - News

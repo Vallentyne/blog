@@ -3,7 +3,6 @@ author: court
 date: 2003-12-05 12:17:17+00:00
 draft: false
 title: A nice little postscript to
-type: post
 url: /blog/2003/12/05/a-nice-little-postscript-to/
 categories:
 - Culture

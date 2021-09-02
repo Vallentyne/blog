@@ -3,7 +3,6 @@ author: court
 date: 2010-08-31 19:29:29+00:00
 draft: false
 title: Nerd Humour Alert
-type: post
 url: /blog/2010/08/31/nerd-humour-alert/
 categories:
 - Stupidity

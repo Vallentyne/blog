@@ -3,7 +3,6 @@ author: court
 date: 2005-10-03 11:37:00+00:00
 draft: false
 title: Farming Tech
-type: post
 url: /blog/2005/10/03/farming-tech/
 categories:
 - Tech

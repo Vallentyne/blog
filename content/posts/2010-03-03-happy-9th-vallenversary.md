@@ -3,7 +3,6 @@ author: court
 date: 2010-03-03 20:42:45+00:00
 draft: false
 title: Happy 9th Vallenversary
-type: post
 url: /blog/2010/03/03/happy-9th-vallenversary/
 categories:
 - Family News

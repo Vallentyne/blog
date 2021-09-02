@@ -3,7 +3,6 @@ author: court
 date: 2012-01-26 20:16:07+00:00
 draft: false
 title: Relative Risk
-type: post
 url: /blog/2012/01/26/relative-risk/
 categories:
 - News

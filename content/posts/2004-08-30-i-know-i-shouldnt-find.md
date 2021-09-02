@@ -3,7 +3,6 @@ author: court
 date: 2004-08-30 14:38:40+00:00
 draft: false
 title: I know I shouldn't find
-type: post
 url: /blog/2004/08/30/i-know-i-shouldnt-find/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-03-23 11:35:09+00:00
 draft: false
 title: Texas Cops Fishing a Little Farther Upstream
-type: post
 url: /blog/2006/03/23/texas-cops-fishing-a-little-farther-upstream/
 categories:
 - News

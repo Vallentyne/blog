@@ -3,7 +3,6 @@ author: court
 date: 2007-10-16 17:55:39+00:00
 draft: false
 title: Darwin Award Contender
-type: post
 url: /blog/2007/10/16/darwin-award-contender/
 categories:
 - Stupidity

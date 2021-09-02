@@ -3,7 +3,6 @@ author: Wilock
 date: 2006-01-30 15:12:04+00:00
 draft: false
 title: BRING ON THE APOCOLYPSE, BABY!
-type: post
 url: /blog/2006/01/30/bring-on-the-apocolypse-baby/
 categories:
 - Apocalypse Soon

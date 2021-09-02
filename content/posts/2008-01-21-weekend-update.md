@@ -3,7 +3,6 @@ author: court
 date: 2008-01-21 15:19:19+00:00
 draft: false
 title: Weekend Update
-type: post
 url: /blog/2008/01/21/weekend-update/
 categories:
 - Culture

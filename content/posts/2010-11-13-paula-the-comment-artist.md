@@ -3,7 +3,6 @@ author: court
 date: 2010-11-13 17:27:51+00:00
 draft: false
 title: Paula the comment artist
-type: post
 url: /blog/2010/11/13/paula-the-comment-artist/
 categories:
 - Shout Outs

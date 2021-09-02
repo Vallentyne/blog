@@ -3,7 +3,6 @@ author: court
 date: 2006-04-17 19:45:23+00:00
 draft: false
 title: Talk About a Career Change
-type: post
 url: /blog/2006/04/17/talk-about-a-career-change/
 categories:
 - Culture

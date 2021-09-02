@@ -3,7 +3,6 @@ author: court
 date: 2013-01-07 17:17:31+00:00
 draft: false
 title: Happy Birthday to Cael!
-type: post
 url: /blog/2013/01/07/happy-birthday-to-cael-2/
 categories:
 - Family News

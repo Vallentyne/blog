@@ -3,7 +3,6 @@ author: court
 date: 2004-08-20 09:38:27+00:00
 draft: false
 title: I caught this interview yesterday
-type: post
 url: /blog/2004/08/20/i-caught-this-interview-yesterday/
 categories:
 - Culture

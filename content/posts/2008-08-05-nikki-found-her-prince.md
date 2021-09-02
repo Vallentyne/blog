@@ -3,7 +3,6 @@ author: court
 date: 2008-08-05 19:11:34+00:00
 draft: false
 title: Nikki found her prince
-type: post
 url: /blog/2008/08/05/nikki-found-her-prince/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-08-25 11:47:01+00:00
 draft: false
 title: Dog days of August
-type: post
 url: /blog/2005/08/25/dog-days-of-august/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2004-05-28 12:19:32+00:00
 draft: false
 title: Alright, T-1 to Garage sale
-type: post
 url: /blog/2004/05/28/alright-t-1-to-garage-sale/
 categories:
 - Family News

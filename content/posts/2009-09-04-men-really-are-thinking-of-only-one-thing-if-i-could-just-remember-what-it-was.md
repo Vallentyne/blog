@@ -4,7 +4,6 @@ date: 2009-09-04 18:23:09+00:00
 draft: false
 title: Men really are thinking of only one thing, if I could just remember what it
   was...
-type: post
 url: /blog/2009/09/04/men-really-are-thinking-of-only-one-thing-if-i-could-just-remember-what-it-was/
 categories:
 - News

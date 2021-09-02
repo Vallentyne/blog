@@ -3,7 +3,6 @@ author: court
 date: 2007-04-16 17:52:48+00:00
 draft: false
 title: Newlywed Game
-type: post
 url: /blog/2007/04/16/newlywed-game/
 categories:
 - Family News

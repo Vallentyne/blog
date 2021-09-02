@@ -3,7 +3,6 @@ author: court
 date: 2006-03-16 13:57:14+00:00
 draft: false
 title: Muzzle This Guy
-type: post
 url: /blog/2006/03/16/muzzle-this-guy/
 categories:
 - News

@@ -4,7 +4,6 @@ date: 2011-09-08 17:00:35+00:00
 draft: false
 title: Gumby Fails to Rob Convenience Store, foiled by pockets or Gumby hands, or
   both
-type: post
 url: /blog/2011/09/08/gumby-fails-to-rob-convenience-store-foiled-by-pockets-or-gumby-hands-or-both/
 categories:
 - Apocalypse Soon

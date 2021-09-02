@@ -3,7 +3,6 @@ author: court
 date: 2013-09-06 14:23:49+00:00
 draft: false
 title: Awesome weather time lapse
-type: post
 url: /blog/2013/09/06/awesome-weather-time-lapse/
 categories:
 - Scientifica

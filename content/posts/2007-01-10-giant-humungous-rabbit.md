@@ -3,7 +3,6 @@ author: court
 date: 2007-01-10 17:37:01+00:00
 draft: false
 title: Giant Humungous Rabbit
-type: post
 url: /blog/2007/01/10/giant-humungous-rabbit/
 categories:
 - News

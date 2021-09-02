@@ -3,7 +3,6 @@ author: court
 date: 2006-01-30 15:21:45+00:00
 draft: false
 title: Got fuel to burn, got roads to drive.
-type: post
 url: /blog/2006/01/30/got-fuel-to-burn-got-roads-to-drive/
 categories:
 - Apocalypse Soon

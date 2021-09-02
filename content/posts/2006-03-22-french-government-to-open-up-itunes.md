@@ -3,7 +3,6 @@ author: court
 date: 2006-03-22 12:21:20+00:00
 draft: false
 title: French Government to Open Up iTunes
-type: post
 url: /blog/2006/03/22/french-government-to-open-up-itunes/
 categories:
 - Tech

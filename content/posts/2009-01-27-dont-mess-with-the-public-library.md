@@ -3,7 +3,6 @@ author: court
 date: 2009-01-27 12:54:26+00:00
 draft: false
 title: Don't Mess with the public library
-type: post
 url: /blog/2009/01/27/dont-mess-with-the-public-library/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2010-10-14 14:35:14+00:00
 draft: false
 title: Frugal Living
-type: post
 url: /blog/2010/10/14/frugal-living/
 categories:
 - Family News

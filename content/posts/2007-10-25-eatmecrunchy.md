@@ -3,7 +3,6 @@ author: court
 date: 2007-10-25 16:51:25+00:00
 draft: false
 title: EatMeCrunchy
-type: post
 url: /blog/2007/10/25/eatmecrunchy/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-03 17:55:25+00:00
 draft: false
 title: Ultimate Showdown
-type: post
 url: /blog/2009/07/03/ultimate-showdown/
 categories:
 - Video Diversions

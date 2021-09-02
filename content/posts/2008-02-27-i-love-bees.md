@@ -3,7 +3,6 @@ author: court
 date: 2008-02-27 14:51:39+00:00
 draft: false
 title: I Love Bees
-type: post
 url: /blog/2008/02/27/i-love-bees/
 categories:
 - Culture

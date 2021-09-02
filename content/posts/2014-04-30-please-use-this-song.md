@@ -3,7 +3,6 @@ author: court
 date: 2014-04-30 23:11:08+00:00
 draft: false
 title: Please Use This Song
-type: post
 url: /blog/2014/04/30/please-use-this-song/
 categories:
 - Video Diversions

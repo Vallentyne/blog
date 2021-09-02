@@ -3,7 +3,6 @@ author: court
 date: 2016-03-27 04:34:30+00:00
 draft: false
 title: Marketing for Masochists
-type: post
 url: /blog/2016/03/27/marketing-for-masochists/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2009-03-06 19:39:28+00:00
 draft: false
 title: Twitter Gets Even Weirder
-type: post
 url: /blog/2009/03/06/twitter-gets-even-weirder/
 categories:
 - Culture

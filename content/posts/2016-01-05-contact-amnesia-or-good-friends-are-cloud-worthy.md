@@ -3,7 +3,6 @@ author: court
 date: 2016-01-05 13:08:22+00:00
 draft: false
 title: Contact Amnesia, or Good Friends are Cloud Worthy
-type: post
 url: /blog/2016/01/05/contact-amnesia-or-good-friends-are-cloud-worthy/
 categories:
 - Tech

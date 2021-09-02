@@ -3,7 +3,6 @@ author: court
 date: 2005-01-04 15:48:58+00:00
 draft: false
 title: Some technical notes for anybody
-type: post
 url: /blog/2005/01/04/some-technical-notes-for-anybody/
 categories:
 - Tech

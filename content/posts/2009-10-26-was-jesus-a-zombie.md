@@ -3,7 +3,6 @@ author: court
 date: 2009-10-26 19:57:50+00:00
 draft: false
 title: Was Jesus a Zombie?
-type: post
 url: /blog/2009/10/26/was-jesus-a-zombie/
 categories:
 - Family News

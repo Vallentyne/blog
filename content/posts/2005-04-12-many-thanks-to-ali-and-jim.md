@@ -3,7 +3,6 @@ author: court
 date: 2005-04-12 13:50:36+00:00
 draft: false
 title: Many thanks to Ali and Jim
-type: post
 url: /blog/2005/04/12/many-thanks-to-ali-and-jim/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-11-10 12:00:06+00:00
 draft: false
 title: Crotch Robot lets you get your electronic freak on....
-type: post
 url: /blog/2008/11/10/crotch-robot-lets-you-get-your-electronic-freak-on/
 categories:
 - Apocalypse Soon

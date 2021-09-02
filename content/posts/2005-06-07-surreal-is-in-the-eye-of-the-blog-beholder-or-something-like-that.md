@@ -3,7 +3,6 @@ author: court
 date: 2005-06-07 13:20:28+00:00
 draft: false
 title: Surreal is in the eye of the blog beholder, or something like that
-type: post
 url: /blog/2005/06/07/surreal-is-in-the-eye-of-the-blog-beholder-or-something-like-that/
 categories:
 - Culture

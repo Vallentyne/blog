@@ -3,7 +3,6 @@ author: court
 date: 2011-11-18 21:55:03+00:00
 draft: false
 title: Pizza IS a vegetable, of course.
-type: post
 url: /blog/2011/11/18/pizza-is-a-vegetable-of-course/
 categories:
 - Apocalypse Soon

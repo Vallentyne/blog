@@ -3,7 +3,6 @@ author: court
 date: 2008-10-08 12:46:53+00:00
 draft: false
 title: Apology Accepted
-type: post
 url: /blog/2008/10/08/apology-accepted/
 categories:
 - News

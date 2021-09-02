@@ -3,7 +3,6 @@ author: court
 date: 2003-10-20 13:05:45+00:00
 draft: false
 title: Basement update. Pre-wiring is coming
-type: post
 url: /blog/2003/10/20/basement-update-pre-wiring-is-coming/
 categories:
 - Family News

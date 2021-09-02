@@ -3,7 +3,6 @@ author: court
 date: 2007-06-20 15:23:45+00:00
 draft: false
 title: Seriously False Eyelashes, or eyebrow covers
-type: post
 url: /blog/2007/06/20/seriously-false-eyelashes-or-eyebrow-covers/
 categories:
 - News

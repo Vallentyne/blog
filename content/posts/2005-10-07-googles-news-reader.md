@@ -3,7 +3,6 @@ author: court
 date: 2005-10-07 14:46:06+00:00
 draft: false
 title: Google's News Reader
-type: post
 url: /blog/2005/10/07/googles-news-reader/
 categories:
 - Tech

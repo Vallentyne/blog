@@ -3,7 +3,6 @@ author: court
 date: 2007-02-19 20:24:02+00:00
 draft: false
 title: Preserved Frog in Amber
-type: post
 url: /blog/2007/02/19/preserved-frog-in-amber/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2008-11-12 04:30:32+00:00
 draft: false
 title: Nine Inch Nails
-type: post
 url: /blog/2008/11/12/nine-inch-nails/
 categories:
 - Culture

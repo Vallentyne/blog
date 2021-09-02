@@ -3,7 +3,6 @@ author: court
 date: 2006-08-24 09:09:39+00:00
 draft: false
 title: Daily Dose of Risk Taking
-type: post
 url: /blog/2006/08/24/daily-dose-of-risk-taking/
 categories:
 - Stupidity

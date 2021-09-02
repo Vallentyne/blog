@@ -3,7 +3,6 @@ author: court
 date: 2010-02-09 13:06:12+00:00
 draft: false
 title: Smell like jet fighters and punching
-type: post
 url: /blog/2010/02/09/smell-like-jet-fighters-and-punching/
 categories:
 - Video Diversions

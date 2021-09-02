@@ -3,7 +3,6 @@ author: court
 date: 2008-04-29 15:34:28+00:00
 draft: false
 title: Working out with an Audience
-type: post
 url: /blog/2008/04/29/working-out-with-an-audience/
 categories:
 - Family News

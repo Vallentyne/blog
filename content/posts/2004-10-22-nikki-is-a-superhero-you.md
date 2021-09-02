@@ -3,7 +3,6 @@ author: court
 date: 2004-10-22 13:07:08+00:00
 draft: false
 title: Nikki is a superhero. You
-type: post
 url: /blog/2004/10/22/nikki-is-a-superhero-you/
 categories:
 - Family News

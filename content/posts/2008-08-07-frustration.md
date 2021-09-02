@@ -3,7 +3,6 @@ author: court
 date: 2008-08-07 13:17:08+00:00
 draft: false
 title: Frustration
-type: post
 url: /blog/2008/08/07/frustration/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2010-08-09 15:50:36+00:00
 draft: false
 title: Kiko, eater of toe, and hero. Not so Roscoe.
-type: post
 url: /blog/2010/08/09/kiko-eater-of-toe-and-hero-not-so-roscoe/
 categories:
 - News

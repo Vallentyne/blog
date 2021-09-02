@@ -3,7 +3,6 @@ author: court
 date: 2010-11-05 16:58:56+00:00
 draft: false
 title: Jesus.  That's big.
-type: post
 url: /blog/2010/11/05/jesus-thats-big/
 categories:
 - Culture

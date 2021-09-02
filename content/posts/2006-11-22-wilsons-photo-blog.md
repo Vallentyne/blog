@@ -3,7 +3,6 @@ author: court
 date: 2006-11-22 16:37:49+00:00
 draft: false
 title: Wilson's Photo Blog
-type: post
 url: /blog/2006/11/22/wilsons-photo-blog/
 categories:
 - Family News

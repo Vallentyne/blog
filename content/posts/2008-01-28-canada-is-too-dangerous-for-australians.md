@@ -3,7 +3,6 @@ author: court
 date: 2008-01-28 13:52:27+00:00
 draft: false
 title: Canada is too dangerous for Australians
-type: post
 url: /blog/2008/01/28/canada-is-too-dangerous-for-australians/
 categories:
 - News

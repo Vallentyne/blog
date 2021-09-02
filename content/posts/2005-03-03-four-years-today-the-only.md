@@ -3,7 +3,6 @@ author: court
 date: 2005-03-03 15:11:00+00:00
 draft: false
 title: Four years, today. The only
-type: post
 url: /blog/2005/03/03/four-years-today-the-only/
 categories:
 - Family News

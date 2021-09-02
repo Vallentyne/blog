@@ -3,7 +3,6 @@ author: court
 date: 2006-01-04 14:17:53+00:00
 draft: false
 title: Final thoughts on this
-type: post
 url: /blog/2006/01/04/final-thoughts-on-this/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2005-01-18 12:55:47+00:00
 draft: false
 title: Like we needed to wonder
-type: post
 url: /blog/2005/01/18/like-we-needed-to-wonder/
 categories:
 - Family News

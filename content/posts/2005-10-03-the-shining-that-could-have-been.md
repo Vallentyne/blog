@@ -3,7 +3,6 @@ author: court
 date: 2005-10-03 10:30:25+00:00
 draft: false
 title: The Shining that could have been...
-type: post
 url: /blog/2005/10/03/the-shining-that-could-have-been/
 categories:
 - Culture

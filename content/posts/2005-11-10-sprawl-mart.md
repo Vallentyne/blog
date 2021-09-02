@@ -3,7 +3,6 @@ author: court
 date: 2005-11-10 10:33:37+00:00
 draft: false
 title: Sprawl-Mart
-type: post
 url: /blog/2005/11/10/sprawl-mart/
 categories:
 - News

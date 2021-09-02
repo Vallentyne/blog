@@ -3,7 +3,6 @@ author: court
 date: 2005-06-13 13:52:22+00:00
 draft: false
 title: Another Jewelry Post
-type: post
 url: /blog/2005/06/13/another-jewelry-post/
 categories:
 - Culture

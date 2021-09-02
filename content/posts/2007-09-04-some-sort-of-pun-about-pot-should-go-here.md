@@ -3,7 +3,6 @@ author: court
 date: 2007-09-04 19:03:27+00:00
 draft: false
 title: Some sort of pun about pot should go here.
-type: post
 url: /blog/2007/09/04/some-sort-of-pun-about-pot-should-go-here/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2006-10-03 20:16:24+00:00
 draft: false
 title: Black Vodka
-type: post
 url: /blog/2006/10/03/black-vodka/
 categories:
 - Culture

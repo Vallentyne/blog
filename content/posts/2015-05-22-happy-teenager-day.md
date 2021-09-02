@@ -3,7 +3,6 @@ author: court
 date: 2015-05-22 01:30:27+00:00
 draft: false
 title: Happy Teenager Day
-type: post
 url: /blog/2015/05/21/happy-teenager-day/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-02-12 20:41:38+00:00
 draft: false
 title: In Honour of Valentine's Day
-type: post
 url: /blog/2007/02/12/in-honour-of-valentines-day/
 categories:
 - Culture

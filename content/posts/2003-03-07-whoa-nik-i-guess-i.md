@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 14:58:55+00:00
 draft: false
 title: Whoa, Nik! I guess I
-type: post
 url: /blog/2003/03/07/whoa-nik-i-guess-i/
 categories:
 - Family News

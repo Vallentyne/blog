@@ -3,7 +3,6 @@ author: court
 date: 2008-01-15 14:05:00+00:00
 draft: false
 title: Cyberhuahuas, Wheel-huahuas, or Chiborgs?
-type: post
 url: /blog/2008/01/15/cyberhuahuas-wheel-huahuas-or-chiborgs/
 categories:
 - News

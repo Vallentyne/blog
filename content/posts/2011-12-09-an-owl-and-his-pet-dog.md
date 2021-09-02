@@ -3,7 +3,6 @@ author: court
 date: 2011-12-09 21:49:51+00:00
 draft: false
 title: An owl and his pet dog
-type: post
 url: /blog/2011/12/09/an-owl-and-his-pet-dog/
 categories:
 - Video Diversions

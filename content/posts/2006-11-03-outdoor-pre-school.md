@@ -3,7 +3,6 @@ author: court
 date: 2006-11-03 20:20:10+00:00
 draft: false
 title: Outdoor Pre-School
-type: post
 url: /blog/2006/11/03/outdoor-pre-school/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2011-06-09 21:23:07+00:00
 draft: false
 title: Graham Greer - I Know (A pigeon-toed girl)
-type: post
 url: /blog/2011/06/09/graham-greer-i-know-a-pigeon-toed-girl/
 categories:
 - Culture

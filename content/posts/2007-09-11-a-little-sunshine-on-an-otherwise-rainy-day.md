@@ -3,7 +3,6 @@ author: nikki
 date: 2007-09-11 19:30:03+00:00
 draft: false
 title: A little sunshine on an otherwise rainy day....
-type: post
 url: /blog/2007/09/11/a-little-sunshine-on-an-otherwise-rainy-day/
 categories:
 - Family News

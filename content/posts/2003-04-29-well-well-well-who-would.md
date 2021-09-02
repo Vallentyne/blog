@@ -3,7 +3,6 @@ author: court
 date: 2003-04-29 10:26:17+00:00
 draft: false
 title: Well well well. Who would
-type: post
 url: /blog/2003/04/29/well-well-well-who-would/
 categories:
 - Family News

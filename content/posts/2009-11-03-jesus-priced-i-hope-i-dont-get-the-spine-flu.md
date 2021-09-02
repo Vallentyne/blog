@@ -3,7 +3,6 @@ author: court
 date: 2009-11-03 13:10:24+00:00
 draft: false
 title: Jesus Priced, I Hope I Don't get the Spine Flu
-type: post
 url: /blog/2009/11/03/jesus-priced-i-hope-i-dont-get-the-spine-flu/
 categories:
 - Family News

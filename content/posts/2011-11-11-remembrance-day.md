@@ -3,7 +3,6 @@ author: nikki
 date: 2011-11-11 14:35:59+00:00
 draft: false
 title: Remembrance Day
-type: post
 url: /blog/2011/11/11/remembrance-day/
 categories:
 - News

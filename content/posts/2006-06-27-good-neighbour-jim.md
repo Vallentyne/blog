@@ -3,7 +3,6 @@ author: court
 date: 2006-06-27 16:02:36+00:00
 draft: false
 title: Good Neighbour Jim
-type: post
 url: /blog/2006/06/27/good-neighbour-jim/
 categories:
 - Family News

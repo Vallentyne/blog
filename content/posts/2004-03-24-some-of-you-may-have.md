@@ -3,7 +3,6 @@ author: court
 date: 2004-03-24 22:05:33+00:00
 draft: false
 title: Some of you may have
-type: post
 url: /blog/2004/03/24/some-of-you-may-have/
 categories:
 - Family News

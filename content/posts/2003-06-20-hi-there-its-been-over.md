@@ -3,7 +3,6 @@ author: court
 date: 2003-06-20 12:06:55+00:00
 draft: false
 title: Hi there. It's been over
-type: post
 url: /blog/2003/06/20/hi-there-its-been-over/
 categories:
 - Family News

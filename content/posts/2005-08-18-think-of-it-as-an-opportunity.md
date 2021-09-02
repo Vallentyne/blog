@@ -3,7 +3,6 @@ author: court
 date: 2005-08-18 13:13:45+00:00
 draft: false
 title: Think of it as an opportunity
-type: post
 url: /blog/2005/08/18/think-of-it-as-an-opportunity/
 categories:
 - Family News

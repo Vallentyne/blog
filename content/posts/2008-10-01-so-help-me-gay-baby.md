@@ -3,7 +3,6 @@ author: court
 date: 2008-10-01 16:25:22+00:00
 draft: false
 title: '"So help me, gay baby"'
-type: post
 url: /blog/2008/10/01/so-help-me-gay-baby/
 categories:
 - Culture

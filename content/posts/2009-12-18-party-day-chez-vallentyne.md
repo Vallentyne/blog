@@ -3,7 +3,6 @@ author: court
 date: 2009-12-18 12:54:30+00:00
 draft: false
 title: Party Day chez Vallentyne
-type: post
 url: /blog/2009/12/18/party-day-chez-vallentyne/
 categories:
 - Family News

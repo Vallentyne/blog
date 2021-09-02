@@ -3,7 +3,6 @@ author: court
 date: 2008-12-05 18:53:25+00:00
 draft: false
 title: T minus 14 days to the VCP
-type: post
 url: /blog/2008/12/05/t-minus-14-days-to-the-vcp/
 categories:
 - Family News

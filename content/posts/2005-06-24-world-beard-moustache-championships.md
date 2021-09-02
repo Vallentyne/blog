@@ -3,7 +3,6 @@ author: court
 date: 2005-06-24 13:01:10+00:00
 draft: false
 title: World Beard &amp; Moustache Championships
-type: post
 url: /blog/2005/06/24/world-beard-moustache-championships/
 categories:
 - Culture

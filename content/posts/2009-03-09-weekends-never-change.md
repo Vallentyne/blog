@@ -3,7 +3,6 @@ author: court
 date: 2009-03-09 12:35:00+00:00
 draft: false
 title: Weekends Never Change
-type: post
 url: /blog/2009/03/09/weekends-never-change/
 categories:
 - Family News

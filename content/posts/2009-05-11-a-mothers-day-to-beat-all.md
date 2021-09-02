@@ -3,7 +3,6 @@ author: nikki
 date: 2009-05-11 13:11:58+00:00
 draft: false
 title: A Mother's Day to Beat All
-type: post
 url: /blog/2009/05/11/a-mothers-day-to-beat-all/
 categories:
 - Family News

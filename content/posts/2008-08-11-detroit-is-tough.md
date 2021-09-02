@@ -3,7 +3,6 @@ author: court
 date: 2008-08-11 18:58:42+00:00
 draft: false
 title: Detroit is tough
-type: post
 url: /blog/2008/08/11/detroit-is-tough/
 categories:
 - News

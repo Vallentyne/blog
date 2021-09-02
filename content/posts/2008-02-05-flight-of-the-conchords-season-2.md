@@ -3,7 +3,6 @@ author: court
 date: 2008-02-05 13:59:33+00:00
 draft: false
 title: Flight of the Conchords Season 2
-type: post
 url: /blog/2008/02/05/flight-of-the-conchords-season-2/
 categories:
 - Culture

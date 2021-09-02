@@ -3,7 +3,6 @@ author: court
 date: 2008-08-22 14:32:46+00:00
 draft: false
 title: Single mom vigilante
-type: post
 url: /blog/2008/08/22/single-mom-vigilante/
 categories:
 - News

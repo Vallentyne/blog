@@ -3,7 +3,6 @@ author: court
 date: 2008-02-11 13:50:58+00:00
 draft: false
 title: Vallentyne's Valentine's Day Guide to Romance
-type: post
 url: /blog/2008/02/11/vallentynes-valentines-day-guide-to-romance/
 categories:
 - Culture

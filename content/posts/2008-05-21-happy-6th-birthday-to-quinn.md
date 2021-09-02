@@ -3,7 +3,6 @@ author: court
 date: 2008-05-21 19:15:18+00:00
 draft: false
 title: Happy 6th Birthday to Quinn
-type: post
 url: /blog/2008/05/21/happy-6th-birthday-to-quinn/
 categories:
 - Family News

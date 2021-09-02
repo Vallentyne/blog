@@ -3,7 +3,6 @@ author: court
 date: 2007-03-13 20:22:46+00:00
 draft: false
 title: These clowns didn't stand a chance...
-type: post
 url: /blog/2007/03/13/these-clowns-didnt-stand-a-chance/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2007-01-25 21:36:27+00:00
 draft: false
 title: Working from Home
-type: post
 url: /blog/2007/01/25/working-from-home/
 categories:
 - Family News

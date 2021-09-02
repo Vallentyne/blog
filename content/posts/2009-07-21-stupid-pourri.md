@@ -3,7 +3,6 @@ author: court
 date: 2009-07-21 17:07:41+00:00
 draft: false
 title: Stupid-Pourri
-type: post
 url: /blog/2009/07/21/stupid-pourri/
 categories:
 - News

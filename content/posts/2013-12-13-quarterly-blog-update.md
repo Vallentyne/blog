@@ -3,7 +3,6 @@ author: court
 date: 2013-12-13 03:08:24+00:00
 draft: false
 title: Quarterly Blog Update
-type: post
 url: /blog/2013/12/12/quarterly-blog-update/
 categories:
 - Family News

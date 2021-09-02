@@ -3,7 +3,6 @@ author: court
 date: 2008-01-07 20:40:19+00:00
 draft: false
 title: Animal Cruelty
-type: post
 url: /blog/2008/01/07/animal-cruelty/
 categories:
 - News

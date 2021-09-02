@@ -3,7 +3,6 @@ author: court
 date: 2013-09-09 19:04:13+00:00
 draft: false
 title: Catnip for the 40-50 year olds
-type: post
 url: /blog/2013/09/09/catnip-for-the-40-50-year-olds/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2003-12-03 12:23:44+00:00
 draft: false
 title: Ahh good times. Spent four
-type: post
 url: /blog/2003/12/03/ahh-good-times-spent-four/
 categories:
 - Family News

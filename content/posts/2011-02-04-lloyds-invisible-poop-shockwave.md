@@ -3,7 +3,6 @@ author: court
 date: 2011-02-04 17:39:34+00:00
 draft: false
 title: Lloyd's Invisible Poop Shockwave
-type: post
 url: /blog/2011/02/04/lloyds-invisible-poop-shockwave/
 categories:
 - Llife with Lloyd

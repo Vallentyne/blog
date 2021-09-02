@@ -3,7 +3,6 @@ author: court
 date: 2008-11-24 12:00:42+00:00
 draft: false
 title: 'Vallentyne Christmas Party #9'
-type: post
 url: /blog/2008/11/24/vallentyne-christmas-party-9/
 categories:
 - Family News

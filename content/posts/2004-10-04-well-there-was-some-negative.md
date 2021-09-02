@@ -3,7 +3,6 @@ author: court
 date: 2004-10-04 16:21:42+00:00
 draft: false
 title: Well, there was some negative
-type: post
 url: /blog/2004/10/04/well-there-was-some-negative/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-12-06 05:02:18+00:00
 draft: false
 title: Party Teaser is online
-type: post
 url: /blog/2007/12/06/party-teaser-is-online/
 categories:
 - News

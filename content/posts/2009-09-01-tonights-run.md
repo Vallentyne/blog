@@ -3,7 +3,6 @@ author: court
 date: 2009-09-01 02:58:45+00:00
 draft: false
 title: Tonight's Run
-type: post
 url: /blog/2009/08/31/tonights-run/
 categories:
 - Running

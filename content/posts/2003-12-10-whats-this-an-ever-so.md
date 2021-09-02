@@ -3,7 +3,6 @@ author: court
 date: 2003-12-10 13:28:10+00:00
 draft: false
 title: What's this? An ever so
-type: post
 url: /blog/2003/12/10/whats-this-an-ever-so/
 categories:
 - Family News

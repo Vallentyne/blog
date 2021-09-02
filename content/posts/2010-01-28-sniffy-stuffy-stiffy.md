@@ -3,7 +3,6 @@ author: court
 date: 2010-01-28 16:32:43+00:00
 draft: false
 title: Sniffy Stuffy Stiffy
-type: post
 url: /blog/2010/01/28/sniffy-stuffy-stiffy/
 categories:
 - Llife with Lloyd

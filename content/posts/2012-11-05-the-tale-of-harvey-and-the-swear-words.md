@@ -3,7 +3,6 @@ author: court
 date: 2012-11-05 17:44:00+00:00
 draft: false
 title: The Tale of Harvey and the Swear Words
-type: post
 url: /blog/2012/11/05/the-tale-of-harvey-and-the-swear-words/
 categories:
 - Family News

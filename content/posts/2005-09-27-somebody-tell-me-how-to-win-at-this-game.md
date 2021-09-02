@@ -3,7 +3,6 @@ author: court
 date: 2005-09-27 10:13:49+00:00
 draft: false
 title: Somebody tell me how to win at this game....
-type: post
 url: /blog/2005/09/27/somebody-tell-me-how-to-win-at-this-game/
 categories:
 - Tech

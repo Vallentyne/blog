@@ -3,7 +3,6 @@ author: court
 date: 2008-06-10 17:33:05+00:00
 draft: false
 title: Openly displaying your contempt for civilization
-type: post
 url: /blog/2008/06/10/openly-displaying-your-contempt-for-civilization/
 categories:
 - News

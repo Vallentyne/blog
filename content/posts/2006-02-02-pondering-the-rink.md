@@ -3,7 +3,6 @@ author: court
 date: 2006-02-02 09:58:38+00:00
 draft: false
 title: Pondering the Rink
-type: post
 url: /blog/2006/02/02/pondering-the-rink/
 categories:
 - Family News

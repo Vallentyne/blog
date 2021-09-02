@@ -3,7 +3,6 @@ author: court
 date: 2004-01-09 13:53:23+00:00
 draft: false
 title: Hi kids. The blog website
-type: post
 url: /blog/2004/01/09/hi-kids-the-blog-website/
 categories:
 - Family News

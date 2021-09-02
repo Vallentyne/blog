@@ -3,7 +3,6 @@ author: nikki
 date: 2009-02-19 15:12:34+00:00
 draft: false
 title: She's A Bigger Person Than Most
-type: post
 url: /blog/2009/02/19/shes-a-bigger-person-than-most/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-10-11 11:40:33+00:00
 draft: false
 title: Wow, this guy took it to the limit
-type: post
 url: /blog/2005/10/11/wow-this-guy-took-it-to-the-limit/
 categories:
 - News

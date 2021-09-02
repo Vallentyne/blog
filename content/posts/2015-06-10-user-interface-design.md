@@ -3,7 +3,6 @@ author: court
 date: 2015-06-10 04:00:38+00:00
 draft: false
 title: User Interface Design?
-type: post
 url: /blog/2015/06/10/user-interface-design/
 categories:
 - Family News

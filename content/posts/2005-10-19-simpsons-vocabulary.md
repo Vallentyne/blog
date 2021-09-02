@@ -3,7 +3,6 @@ author: court
 date: 2005-10-19 14:49:45+00:00
 draft: false
 title: Simpsons vocabulary
-type: post
 url: /blog/2005/10/19/simpsons-vocabulary/
 categories:
 - Culture

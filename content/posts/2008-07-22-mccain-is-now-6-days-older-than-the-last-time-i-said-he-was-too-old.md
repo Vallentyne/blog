@@ -3,7 +3,6 @@ author: court
 date: 2008-07-22 14:17:02+00:00
 draft: false
 title: McCain is now 6 days older than the last time I said he was too old
-type: post
 url: /blog/2008/07/22/mccain-is-now-6-days-older-than-the-last-time-i-said-he-was-too-old/
 categories:
 - Apocalypse Soon

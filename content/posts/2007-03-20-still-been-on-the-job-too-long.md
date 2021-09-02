@@ -3,7 +3,6 @@ author: court
 date: 2007-03-20 16:48:45+00:00
 draft: false
 title: Still Been on the Job Too Long
-type: post
 url: /blog/2007/03/20/still-been-on-the-job-too-long/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-05-08 12:26:19+00:00
 draft: false
 title: Sesame Street Nostalgia
-type: post
 url: /blog/2006/05/08/sesame-street-nostalgia/
 categories:
 - Video Diversions

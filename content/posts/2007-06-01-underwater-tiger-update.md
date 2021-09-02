@@ -3,7 +3,6 @@ author: court
 date: 2007-06-01 14:26:26+00:00
 draft: false
 title: Underwater Tiger Update
-type: post
 url: /blog/2007/06/01/underwater-tiger-update/
 categories:
 - News

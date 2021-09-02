@@ -3,7 +3,6 @@ author: court
 date: 2008-01-30 14:31:52+00:00
 draft: false
 title: Creepy Crawlers
-type: post
 url: /blog/2008/01/30/creepy-crawlers/
 categories:
 - Apocalypse Soon

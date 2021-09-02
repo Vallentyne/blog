@@ -3,7 +3,6 @@ author: court
 date: 2006-09-19 23:32:32+00:00
 draft: false
 title: We Shall Overcome
-type: post
 url: /blog/2006/09/19/we-shall-overcome/
 categories:
 - Culture

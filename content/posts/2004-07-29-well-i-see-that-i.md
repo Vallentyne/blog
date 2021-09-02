@@ -3,7 +3,6 @@ author: court
 date: 2004-07-29 16:12:50+00:00
 draft: false
 title: Well I see that I
-type: post
 url: /blog/2004/07/29/well-i-see-that-i/
 categories:
 - Family News

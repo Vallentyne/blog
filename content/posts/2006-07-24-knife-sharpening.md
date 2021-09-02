@@ -3,7 +3,6 @@ author: court
 date: 2006-07-24 15:30:22+00:00
 draft: false
 title: Knife Sharpening
-type: post
 url: /blog/2006/07/24/knife-sharpening/
 categories:
 - Tech

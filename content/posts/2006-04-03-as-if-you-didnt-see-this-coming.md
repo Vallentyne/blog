@@ -3,7 +3,6 @@ author: court
 date: 2006-04-03 12:32:37+00:00
 draft: false
 title: As if you didn't see this coming....
-type: post
 url: /blog/2006/04/03/as-if-you-didnt-see-this-coming/
 categories:
 - Stupidity

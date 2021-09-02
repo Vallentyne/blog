@@ -3,7 +3,6 @@ author: nikki
 date: 2004-04-01 15:53:45+00:00
 draft: false
 title: Now some of you may
-type: post
 url: /blog/2004/04/01/now-some-of-you-may/
 categories:
 - Family News

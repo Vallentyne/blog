@@ -3,7 +3,6 @@ author: court
 date: 2005-04-27 22:14:35+00:00
 draft: false
 title: History of Yelling "Freebird"
-type: post
 url: /blog/2005/04/27/history-of-yelling-freebird/
 categories:
 - Culture

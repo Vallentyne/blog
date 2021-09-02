@@ -3,7 +3,6 @@ author: court
 date: 2013-12-16 00:46:20+00:00
 draft: false
 title: The Cremation of Sam McGee
-type: post
 url: /blog/2013/12/15/the-cremation-of-sam-mcgee/
 categories:
 - Culture

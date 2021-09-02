@@ -3,7 +3,6 @@ author: court
 date: 2006-06-19 21:17:00+00:00
 draft: false
 title: Cedar Cove Trip Pictures
-type: post
 url: /blog/2006/06/19/cedar-cove-trip-pictures/
 categories:
 - Family News

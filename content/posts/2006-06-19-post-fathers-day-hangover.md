@@ -3,7 +3,6 @@ author: court
 date: 2006-06-19 13:26:37+00:00
 draft: false
 title: Post-Father's Day Hangover
-type: post
 url: /blog/2006/06/19/post-fathers-day-hangover/
 categories:
 - Family News

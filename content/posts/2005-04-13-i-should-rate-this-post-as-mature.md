@@ -3,7 +3,6 @@ author: court
 date: 2005-04-13 21:10:10+00:00
 draft: false
 title: I should rate this post as "Mature"
-type: post
 url: /blog/2005/04/13/i-should-rate-this-post-as-mature/
 categories:
 - Culture

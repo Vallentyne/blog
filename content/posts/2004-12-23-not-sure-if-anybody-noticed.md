@@ -3,7 +3,6 @@ author: court
 date: 2004-12-23 15:02:36+00:00
 draft: false
 title: Not sure if anybody noticed
-type: post
 url: /blog/2004/12/23/not-sure-if-anybody-noticed/
 categories:
 - News

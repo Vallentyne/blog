@@ -3,7 +3,6 @@ author: court
 date: 2004-08-25 16:00:11+00:00
 draft: false
 title: So, it's a slow day
-type: post
 url: /blog/2004/08/25/so-its-a-slow-day/
 categories:
 - Stupidity

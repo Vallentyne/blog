@@ -3,7 +3,6 @@ author: court
 date: 2006-08-24 12:35:52+00:00
 draft: false
 title: Dylan hates modern music
-type: post
 url: /blog/2006/08/24/dylan-hates-modern-music/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-11-13 17:09:46+00:00
 draft: false
 title: Duped?  Who, Me?
-type: post
 url: /blog/2008/11/13/duped-who-me/
 categories:
 - News

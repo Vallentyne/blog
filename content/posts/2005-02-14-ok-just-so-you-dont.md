@@ -3,7 +3,6 @@ author: court
 date: 2005-02-14 15:28:00+00:00
 draft: false
 title: Ok, just so you don't
-type: post
 url: /blog/2005/02/14/ok-just-so-you-dont/
 categories:
 - Culture

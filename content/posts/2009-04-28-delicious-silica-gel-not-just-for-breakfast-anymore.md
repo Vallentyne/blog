@@ -3,7 +3,6 @@ author: court
 date: 2009-04-28 12:02:57+00:00
 draft: false
 title: Delicious Silica Gel, not just for breakfast anymore
-type: post
 url: /blog/2009/04/28/delicious-silica-gel-not-just-for-breakfast-anymore/
 categories:
 - Culture

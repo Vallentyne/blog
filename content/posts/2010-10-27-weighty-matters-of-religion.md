@@ -3,7 +3,6 @@ author: court
 date: 2010-10-27 23:04:09+00:00
 draft: false
 title: Weighty Matters of Religion
-type: post
 url: /blog/2010/10/27/weighty-matters-of-religion/
 categories:
 - Culture

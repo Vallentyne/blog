@@ -3,7 +3,6 @@ author: court
 date: 2008-08-12 19:51:53+00:00
 draft: false
 title: The Surprise is all Kinder's
-type: post
 url: /blog/2008/08/12/the-surprise-is-all-kinders/
 categories:
 - Stupidity

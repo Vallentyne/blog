@@ -3,7 +3,6 @@ author: court
 date: 2005-09-05 21:15:41+00:00
 draft: false
 title: Well here's a story about a real moron
-type: post
 url: /blog/2005/09/05/well-heres-a-story-about-a-real-moron/
 categories:
 - Stupidity

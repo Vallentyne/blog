@@ -3,7 +3,6 @@ author: court
 date: 2007-04-20 17:20:39+00:00
 draft: false
 title: Holy Crap this man is a moron
-type: post
 url: /blog/2007/04/20/holy-crap-this-man-is-a-moron/
 categories:
 - Apocalypse Soon

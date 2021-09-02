@@ -3,7 +3,6 @@ author: court
 date: 2008-04-10 16:47:02+00:00
 draft: false
 title: First day on the job
-type: post
 url: /blog/2008/04/10/first-day-on-the-job/
 categories:
 - News

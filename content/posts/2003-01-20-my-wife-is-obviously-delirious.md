@@ -3,7 +3,6 @@ author: court
 date: 2003-01-20 14:46:34+00:00
 draft: false
 title: My wife is obviously delirious.
-type: post
 url: /blog/2003/01/20/my-wife-is-obviously-delirious/
 categories:
 - Family News

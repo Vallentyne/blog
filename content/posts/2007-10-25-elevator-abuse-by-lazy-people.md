@@ -3,7 +3,6 @@ author: court
 date: 2007-10-25 18:47:11+00:00
 draft: false
 title: Elevator Abuse by Lazy People
-type: post
 url: /blog/2007/10/25/elevator-abuse-by-lazy-people/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-10-26 15:57:08+00:00
 draft: false
 title: I may have mentioned that
-type: post
 url: /blog/2004/10/26/i-may-have-mentioned-that/
 categories:
 - Tech

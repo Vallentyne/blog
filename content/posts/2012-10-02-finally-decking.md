@@ -3,7 +3,6 @@ author: court
 date: 2012-10-02 19:31:50+00:00
 draft: false
 title: Finally Decking
-type: post
 url: /blog/2012/10/02/finally-decking/
 categories:
 - Home Improvements

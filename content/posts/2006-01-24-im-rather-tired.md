@@ -3,7 +3,6 @@ author: court
 date: 2006-01-24 13:40:16+00:00
 draft: false
 title: I'm rather tired.
-type: post
 url: /blog/2006/01/24/im-rather-tired/
 categories:
 - Family News

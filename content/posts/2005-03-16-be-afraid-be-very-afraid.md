@@ -3,7 +3,6 @@ author: court
 date: 2005-03-16 13:47:00+00:00
 draft: false
 title: Be afraid, be very afraid.
-type: post
 url: /blog/2005/03/16/be-afraid-be-very-afraid/
 categories:
 - Family News

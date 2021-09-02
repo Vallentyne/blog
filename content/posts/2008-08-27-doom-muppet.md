@@ -3,7 +3,6 @@ author: court
 date: 2008-08-27 19:49:56+00:00
 draft: false
 title: '"Doom Muppet"'
-type: post
 url: /blog/2008/08/27/doom-muppet/
 categories:
 - Word of the day

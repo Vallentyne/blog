@@ -3,7 +3,6 @@ author: court
 date: 2005-10-22 00:58:07+00:00
 draft: false
 title: Our New Gig
-type: post
 url: /blog/2005/10/22/our-new-gig/
 categories:
 - Stupidity

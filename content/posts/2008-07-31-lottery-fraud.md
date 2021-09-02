@@ -3,7 +3,6 @@ author: court
 date: 2008-07-31 19:25:26+00:00
 draft: false
 title: Lottery fraud
-type: post
 url: /blog/2008/07/31/lottery-fraud/
 categories:
 - News

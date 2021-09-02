@@ -3,7 +3,6 @@ author: court
 date: 2010-11-19 18:30:50+00:00
 draft: false
 title: Kids Hockey Update
-type: post
 url: /blog/2010/11/19/kids-hockey-update/
 categories:
 - Family News

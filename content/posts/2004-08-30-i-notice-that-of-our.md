@@ -3,7 +3,6 @@ author: court
 date: 2004-08-30 21:14:02+00:00
 draft: false
 title: I notice that of our
-type: post
 url: /blog/2004/08/30/i-notice-that-of-our/
 categories:
 - Family News

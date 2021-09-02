@@ -3,7 +3,6 @@ author: court
 date: 2006-10-11 00:58:51+00:00
 draft: false
 title: Happy Belated Thanksgiving
-type: post
 url: /blog/2006/10/10/happy-belated-thanksgiving/
 categories:
 - Family News

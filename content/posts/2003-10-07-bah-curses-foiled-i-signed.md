@@ -3,7 +3,6 @@ author: court
 date: 2003-10-07 17:05:53+00:00
 draft: false
 title: BAH! Curses! Foiled. I signed
-type: post
 url: /blog/2003/10/07/bah-curses-foiled-i-signed/
 categories:
 - Family News

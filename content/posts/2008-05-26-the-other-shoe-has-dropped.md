@@ -3,7 +3,6 @@ author: court
 date: 2008-05-26 20:15:52+00:00
 draft: false
 title: The other shoe has dropped...
-type: post
 url: /blog/2008/05/26/the-other-shoe-has-dropped/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-01-16 12:58:47+00:00
 draft: false
 title: Sadly, I fall right into this niche
-type: post
 url: /blog/2006/01/16/sadly-i-fall-right-into-this-niche/
 categories:
 - Tech

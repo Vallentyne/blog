@@ -3,7 +3,6 @@ author: court
 date: 2009-09-10 18:15:15+00:00
 draft: false
 title: They Might Be Giants - Here Comes Science
-type: post
 url: /blog/2009/09/10/they-might-be-giants-here-comes-science/
 categories:
 - Culture

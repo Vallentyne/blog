@@ -3,7 +3,6 @@ author: court
 date: 2016-04-20 19:14:09+00:00
 draft: false
 title: Conference Call Etiquette Should be Required Teaching in Schools
-type: post
 url: /blog/2016/04/20/conference-call-etiquette-should-be-required-teaching-in-schools/
 categories:
 - Tech

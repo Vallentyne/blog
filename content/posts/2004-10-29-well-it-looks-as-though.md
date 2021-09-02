@@ -3,7 +3,6 @@ author: court
 date: 2004-10-29 14:49:58+00:00
 draft: false
 title: Well it looks as though
-type: post
 url: /blog/2004/10/29/well-it-looks-as-though/
 categories:
 - Family News

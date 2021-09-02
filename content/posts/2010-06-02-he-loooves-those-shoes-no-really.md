@@ -3,7 +3,6 @@ author: court
 date: 2010-06-02 18:12:20+00:00
 draft: false
 title: He loooves those shoes.  No really.
-type: post
 url: /blog/2010/06/02/he-loooves-those-shoes-no-really/
 categories:
 - Video Diversions

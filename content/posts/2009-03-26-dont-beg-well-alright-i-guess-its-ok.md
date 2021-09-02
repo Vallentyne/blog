@@ -3,7 +3,6 @@ author: court
 date: 2009-03-26 11:36:12+00:00
 draft: false
 title: Don't Beg!  Well, alright I guess it's ok.
-type: post
 url: /blog/2009/03/26/dont-beg-well-alright-i-guess-its-ok/
 categories:
 - News

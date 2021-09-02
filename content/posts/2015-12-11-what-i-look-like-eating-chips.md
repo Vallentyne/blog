@@ -3,7 +3,6 @@ author: court
 date: 2015-12-11 18:27:04+00:00
 draft: false
 title: What I look like eating chips
-type: post
 url: /blog/2015/12/11/what-i-look-like-eating-chips/
 categories:
 - News

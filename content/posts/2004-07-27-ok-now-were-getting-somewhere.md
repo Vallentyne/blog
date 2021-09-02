@@ -3,7 +3,6 @@ author: court
 date: 2004-07-27 15:43:29+00:00
 draft: false
 title: Ok, now we're getting somewhere,
-type: post
 url: /blog/2004/07/27/ok-now-were-getting-somewhere/
 categories:
 - Family News

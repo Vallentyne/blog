@@ -3,7 +3,6 @@ author: court
 date: 2006-12-13 20:54:54+00:00
 draft: false
 title: I'd like to table a motion...
-type: post
 url: /blog/2006/12/13/id-like-to-table-a-motion/
 categories:
 - Tech

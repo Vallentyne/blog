@@ -3,7 +3,6 @@ author: court
 date: 2008-04-22 18:17:34+00:00
 draft: false
 title: Weekend at Bernie's 2
-type: post
 url: /blog/2008/04/22/weekend-at-bernies-2/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2007-05-09 00:47:04+00:00
 draft: false
 title: Honours for George the Terrier
-type: post
 url: /blog/2007/05/08/honours-for-george-the-terrier/
 categories:
 - News

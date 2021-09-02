@@ -3,7 +3,6 @@ author: court
 date: 2006-11-08 17:40:16+00:00
 draft: false
 title: Cael and Stewie - Separated at Birth
-type: post
 url: /blog/2006/11/08/cael-and-stewie-separated-at-birth/
 categories:
 - Family News

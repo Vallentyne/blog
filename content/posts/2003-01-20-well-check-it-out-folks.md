@@ -3,7 +3,6 @@ author: nikki
 date: 2003-01-20 15:53:46+00:00
 draft: false
 title: Well check it out folks.
-type: post
 url: /blog/2003/01/20/well-check-it-out-folks/
 categories:
 - Family News

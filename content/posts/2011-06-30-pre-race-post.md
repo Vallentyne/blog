@@ -3,7 +3,6 @@ author: court
 date: 2011-06-30 17:34:04+00:00
 draft: false
 title: Pre Race Post
-type: post
 url: /blog/2011/06/30/pre-race-post/
 categories:
 - Running

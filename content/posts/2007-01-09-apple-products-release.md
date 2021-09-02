@@ -3,7 +3,6 @@ author: court
 date: 2007-01-09 18:05:41+00:00
 draft: false
 title: Apple products release
-type: post
 url: /blog/2007/01/09/apple-products-release/
 categories:
 - Tech

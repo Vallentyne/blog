@@ -3,7 +3,6 @@ author: court
 date: 2003-04-24 10:07:33+00:00
 draft: false
 title: OK, I don't mean to
-type: post
 url: /blog/2003/04/24/ok-i-dont-mean-to/
 categories:
 - Culture

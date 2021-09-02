@@ -3,7 +3,6 @@ author: court
 date: 2013-04-10 18:16:15+00:00
 draft: false
 title: Arsehole goes AWOL
-type: post
 url: /blog/2013/04/10/arsehole-goes-awol/
 categories:
 - Llife with Lloyd

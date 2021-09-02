@@ -3,7 +3,6 @@ author: court
 date: 2006-12-14 18:56:28+00:00
 draft: false
 title: Boots or Hearts
-type: post
 url: /blog/2006/12/14/boots-or-hearts/
 categories:
 - Culture

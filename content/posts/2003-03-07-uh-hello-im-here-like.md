@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 15:35:19+00:00
 draft: false
 title: Uh, HELLO! I'm here. Like,
-type: post
 url: /blog/2003/03/07/uh-hello-im-here-like/
 categories:
 - Family News

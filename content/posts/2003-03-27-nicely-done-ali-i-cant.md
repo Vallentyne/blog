@@ -3,7 +3,6 @@ author: court
 date: 2003-03-27 15:53:08+00:00
 draft: false
 title: Nicely done Ali. I can't
-type: post
 url: /blog/2003/03/27/nicely-done-ali-i-cant/
 categories:
 - Culture

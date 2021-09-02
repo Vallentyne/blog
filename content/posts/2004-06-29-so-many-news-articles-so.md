@@ -3,7 +3,6 @@ author: court
 date: 2004-06-29 08:15:21+00:00
 draft: false
 title: So many news articles, so
-type: post
 url: /blog/2004/06/29/so-many-news-articles-so/
 categories:
 - News

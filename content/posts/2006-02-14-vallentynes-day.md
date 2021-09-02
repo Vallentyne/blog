@@ -3,7 +3,6 @@ author: court
 date: 2006-02-14 15:33:51+00:00
 draft: false
 title: Vallentyne's Day
-type: post
 url: /blog/2006/02/14/vallentynes-day/
 categories:
 - Family News

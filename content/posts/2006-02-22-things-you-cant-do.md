@@ -3,7 +3,6 @@ author: court
 date: 2006-02-22 12:40:28+00:00
 draft: false
 title: Things You Can't Do
-type: post
 url: /blog/2006/02/22/things-you-cant-do/
 categories:
 - Family News

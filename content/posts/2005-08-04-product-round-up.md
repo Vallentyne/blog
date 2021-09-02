@@ -3,7 +3,6 @@ author: court
 date: 2005-08-04 11:44:00+00:00
 draft: false
 title: Product Round-up
-type: post
 url: /blog/2005/08/04/product-round-up/
 categories:
 - Tech

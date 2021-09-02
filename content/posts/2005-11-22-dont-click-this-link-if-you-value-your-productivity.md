@@ -3,7 +3,6 @@ author: court
 date: 2005-11-22 11:49:11+00:00
 draft: false
 title: Don't click this link if you value your productivity
-type: post
 url: /blog/2005/11/22/dont-click-this-link-if-you-value-your-productivity/
 categories:
 - Culture

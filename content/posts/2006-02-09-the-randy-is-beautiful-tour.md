@@ -3,7 +3,6 @@ author: court
 date: 2006-02-09 15:00:58+00:00
 draft: false
 title: The Randy is Beautiful Tour
-type: post
 url: /blog/2006/02/09/the-randy-is-beautiful-tour/
 categories:
 - Culture

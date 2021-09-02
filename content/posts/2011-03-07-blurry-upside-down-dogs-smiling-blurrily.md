@@ -3,7 +3,6 @@ author: court
 date: 2011-03-07 21:34:47+00:00
 draft: false
 title: Blurry Upside Down Dogs Smiling Blurrily
-type: post
 url: /blog/2011/03/07/blurry-upside-down-dogs-smiling-blurrily/
 categories:
 - Llife with Lloyd

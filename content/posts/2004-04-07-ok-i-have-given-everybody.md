@@ -3,7 +3,6 @@ author: court
 date: 2004-04-07 15:32:55+00:00
 draft: false
 title: Ok, I have given everybody
-type: post
 url: /blog/2004/04/07/ok-i-have-given-everybody/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-07-27 16:14:35+00:00
 draft: false
 title: Won't somebody think of the hot dogs?
-type: post
 url: /blog/2005/07/27/wont-somebody-think-of-the-hot-dogs/
 categories:
 - Tech

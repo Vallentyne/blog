@@ -3,7 +3,6 @@ author: court
 date: 2008-05-20 19:18:18+00:00
 draft: false
 title: Nature Roundup
-type: post
 url: /blog/2008/05/20/nature-roundup/
 categories:
 - News

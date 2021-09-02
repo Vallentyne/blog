@@ -3,7 +3,6 @@ author: court
 date: 2016-12-31 17:27:49+00:00
 draft: false
 title: Special Syndrome, aka Incredible Weather, aka It's Just Winter
-type: post
 url: /blog/2016/12/31/special-syndrome-aka-incredible-weather-aka-its-just-winter/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2015-05-31 18:41:13+00:00
 draft: false
 title: Wine pairing for normal people
-type: post
 url: /blog/2015/05/31/wine-pairing-for-normal-people/
 categories:
 - Shout Outs

@@ -3,7 +3,6 @@ author: court
 date: 2005-07-12 14:17:57+00:00
 draft: false
 title: Neat article on a solar energy entrepreneur
-type: post
 url: /blog/2005/07/12/neat-article-on-a-solar-energy-entrepreneur/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-01-16 12:16:18+00:00
 draft: false
 title: Hi kids. Little news beyond
-type: post
 url: /blog/2004/01/16/hi-kids-little-news-beyond/
 categories:
 - Family News

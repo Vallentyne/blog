@@ -3,7 +3,6 @@ author: court
 date: 2011-04-25 18:23:18+00:00
 draft: false
 title: Nikki Goes Off Her Medication
-type: post
 url: /blog/2011/04/25/nikki-goes-off-her-medication/
 categories:
 - Family News

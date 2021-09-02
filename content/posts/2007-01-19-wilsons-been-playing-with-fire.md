@@ -3,7 +3,6 @@ author: court
 date: 2007-01-19 16:09:04+00:00
 draft: false
 title: Wilson's been playing with fire
-type: post
 url: /blog/2007/01/19/wilsons-been-playing-with-fire/
 categories:
 - Family News

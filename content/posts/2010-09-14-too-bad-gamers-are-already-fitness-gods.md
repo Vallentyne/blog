@@ -3,7 +3,6 @@ author: court
 date: 2010-09-14 14:39:43+00:00
 draft: false
 title: Too bad gamers are already fitness gods.
-type: post
 url: /blog/2010/09/14/too-bad-gamers-are-already-fitness-gods/
 categories:
 - Running

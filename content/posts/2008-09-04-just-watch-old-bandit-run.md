@@ -3,7 +3,6 @@ author: court
 date: 2008-09-04 16:51:10+00:00
 draft: false
 title: Just watch old Bandit run....
-type: post
 url: /blog/2008/09/04/just-watch-old-bandit-run/
 categories:
 - Culture

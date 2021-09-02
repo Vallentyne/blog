@@ -3,7 +3,6 @@ author: court
 date: 2009-04-17 02:03:42+00:00
 draft: false
 title: Ah, Darwin?  Table for two.
-type: post
 url: /blog/2009/04/16/ah-darwin-table-for-two/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-07-27 13:20:55+00:00
 draft: false
 title: Lloyd Update
-type: post
 url: /blog/2009/07/27/lloyd-update/
 categories:
 - Llife with Lloyd

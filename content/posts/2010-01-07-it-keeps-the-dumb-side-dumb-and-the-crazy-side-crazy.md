@@ -3,7 +3,6 @@ author: court
 date: 2010-01-07 20:48:48+00:00
 draft: false
 title: It keeps the Dumb side Dumb, and the Crazy side Crazy
-type: post
 url: /blog/2010/01/07/it-keeps-the-dumb-side-dumb-and-the-crazy-side-crazy/
 categories:
 - News

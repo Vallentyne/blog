@@ -3,7 +3,6 @@ author: court
 date: 2003-04-15 15:06:52+00:00
 draft: false
 title: And to prove it further,
-type: post
 url: /blog/2003/04/15/and-to-prove-it-further/
 categories:
 - Culture

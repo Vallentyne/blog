@@ -3,7 +3,6 @@ author: court
 date: 2008-09-16 16:31:38+00:00
 draft: false
 title: Church of England Apologises to Darwin
-type: post
 url: /blog/2008/09/16/church-of-england-apologises-to-darwin/
 categories:
 - Apocalypse Soon

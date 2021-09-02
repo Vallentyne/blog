@@ -3,7 +3,6 @@ author: court
 date: 2003-12-23 14:49:25+00:00
 draft: false
 title: Well looky looky who decided
-type: post
 url: /blog/2003/12/23/well-looky-looky-who-decided/
 categories:
 - Family News

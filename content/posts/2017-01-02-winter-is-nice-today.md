@@ -3,7 +3,6 @@ author: court
 date: 2017-01-02 19:35:35+00:00
 draft: false
 title: Winter is nice today
-type: post
 url: /blog/2017/01/02/winter-is-nice-today/
 categories:
 - News

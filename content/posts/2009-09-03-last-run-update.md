@@ -3,7 +3,6 @@ author: court
 date: 2009-09-03 02:56:59+00:00
 draft: false
 title: Last Run Update
-type: post
 url: /blog/2009/09/02/last-run-update/
 categories:
 - Running

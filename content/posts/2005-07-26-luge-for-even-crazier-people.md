@@ -3,7 +3,6 @@ author: court
 date: 2005-07-26 10:13:24+00:00
 draft: false
 title: Luge for even crazier people
-type: post
 url: /blog/2005/07/26/luge-for-even-crazier-people/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2008-02-12 18:55:07+00:00
 draft: false
 title: Runnin' With the Devil
-type: post
 url: /blog/2008/02/12/runnin-with-the-devil/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2014-07-17 17:34:58+00:00
 draft: false
 title: Weird Al still gots it*
-type: post
 url: /blog/2014/07/17/weird-al-still-gots-it/
 categories:
 - Video Diversions

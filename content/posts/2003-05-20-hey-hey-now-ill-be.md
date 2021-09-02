@@ -3,7 +3,6 @@ author: court
 date: 2003-05-20 11:09:06+00:00
 draft: false
 title: Hey, hey now! I'll be
-type: post
 url: /blog/2003/05/20/hey-hey-now-ill-be/
 categories:
 - Family News

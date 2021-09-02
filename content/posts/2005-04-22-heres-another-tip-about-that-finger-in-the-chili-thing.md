@@ -3,7 +3,6 @@ author: court
 date: 2005-04-22 13:36:17+00:00
 draft: false
 title: Here's another tip about that finger in the chili thing
-type: post
 url: /blog/2005/04/22/heres-another-tip-about-that-finger-in-the-chili-thing/
 categories:
 - News

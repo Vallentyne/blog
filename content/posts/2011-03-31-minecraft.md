@@ -3,7 +3,6 @@ author: court
 date: 2011-03-31 20:33:44+00:00
 draft: false
 title: Minecraft
-type: post
 url: /blog/2011/03/31/minecraft/
 categories:
 - Stupidity

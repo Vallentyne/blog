@@ -3,7 +3,6 @@ author: court
 date: 2012-11-16 20:44:02+00:00
 draft: false
 title: Mom is Beautiful
-type: post
 url: /blog/2012/11/16/mom-is-beautiful/
 categories:
 - Culture

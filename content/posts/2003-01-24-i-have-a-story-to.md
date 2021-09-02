@@ -3,7 +3,6 @@ author: court
 date: 2003-01-24 10:59:06+00:00
 draft: false
 title: I have a story to
-type: post
 url: /blog/2003/01/24/i-have-a-story-to/
 categories:
 - Family News

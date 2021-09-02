@@ -3,7 +3,6 @@ author: court
 date: 2006-09-13 03:53:43+00:00
 draft: false
 title: School Time
-type: post
 url: /blog/2006/09/12/school-time/
 categories:
 - Family News

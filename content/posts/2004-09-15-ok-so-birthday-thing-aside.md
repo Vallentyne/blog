@@ -3,7 +3,6 @@ author: court
 date: 2004-09-15 15:52:16+00:00
 draft: false
 title: Ok, so birthday thing aside,
-type: post
 url: /blog/2004/09/15/ok-so-birthday-thing-aside/
 categories:
 - Tech

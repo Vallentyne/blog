@@ -3,7 +3,6 @@ author: court
 date: 2004-11-25 13:53:00+00:00
 draft: false
 title: Finally, technology has caught up
-type: post
 url: /blog/2004/11/25/finally-technology-has-caught-up/
 categories:
 - Stupidity

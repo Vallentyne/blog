@@ -3,7 +3,6 @@ author: court
 date: 2006-08-26 03:37:46+00:00
 draft: false
 title: Oh, WordPress rocks
-type: post
 url: /blog/2006/08/26/oh-wordpress-rocks/
 categories:
 - Tech

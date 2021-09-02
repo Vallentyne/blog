@@ -3,7 +3,6 @@ author: court
 date: 2006-05-18 11:09:23+00:00
 draft: false
 title: Go Buy This Album
-type: post
 url: /blog/2006/05/18/go-buy-this-album/
 categories:
 - Culture

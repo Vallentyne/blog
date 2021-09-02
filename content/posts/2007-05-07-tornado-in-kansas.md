@@ -3,7 +3,6 @@ author: court
 date: 2007-05-07 16:14:57+00:00
 draft: false
 title: Tornado in Kansas
-type: post
 url: /blog/2007/05/07/tornado-in-kansas/
 categories:
 - Apocalypse Soon

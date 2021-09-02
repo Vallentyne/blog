@@ -3,7 +3,6 @@ author: court
 date: 2006-04-09 13:50:44+00:00
 draft: false
 title: Internet Outage
-type: post
 url: /blog/2006/04/09/internet-outage/
 categories:
 - Tech

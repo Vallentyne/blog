@@ -3,7 +3,6 @@ author: court
 date: 2004-12-08 10:23:39+00:00
 draft: false
 title: Another family update today. First
-type: post
 url: /blog/2004/12/08/another-family-update-today-first/
 categories:
 - Family News

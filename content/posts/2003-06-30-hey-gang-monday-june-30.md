@@ -3,7 +3,6 @@ author: court
 date: 2003-06-30 09:42:28+00:00
 draft: false
 title: Hey gang. Monday June 30
-type: post
 url: /blog/2003/06/30/hey-gang-monday-june-30/
 categories:
 - Family News

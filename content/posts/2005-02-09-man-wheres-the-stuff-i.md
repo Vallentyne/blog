@@ -3,7 +3,6 @@ author: court
 date: 2005-02-09 11:50:46+00:00
 draft: false
 title: Man, where's the stuff? I
-type: post
 url: /blog/2005/02/09/man-wheres-the-stuff-i/
 categories:
 - Family News

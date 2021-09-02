@@ -3,7 +3,6 @@ author: court
 date: 2013-08-29 15:32:50+00:00
 draft: false
 title: School Recital
-type: post
 url: /blog/2013/08/29/school-recital/
 categories:
 - Tech

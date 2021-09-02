@@ -3,7 +3,6 @@ author: court
 date: 2012-10-13 01:46:50+00:00
 draft: false
 title: Dog Toothbrush commercial is amazing
-type: post
 url: /blog/2012/10/12/dog-toothbrush-commercial-is-amazing/
 categories:
 - Video Diversions

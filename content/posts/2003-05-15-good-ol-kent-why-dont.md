@@ -3,7 +3,6 @@ author: court
 date: 2003-05-15 13:41:48+00:00
 draft: false
 title: Good ol' Kent. Why don't
-type: post
 url: /blog/2003/05/15/good-ol-kent-why-dont/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2003-11-10 09:41:45+00:00
 draft: false
 title: Monday mornings. As if they
-type: post
 url: /blog/2003/11/10/monday-mornings-as-if-they/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2007-10-09 17:54:15+00:00
 draft: false
 title: Thanksgiving
-type: post
 url: /blog/2007/10/09/thanksgiving/
 categories:
 - Family News

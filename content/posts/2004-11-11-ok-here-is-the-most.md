@@ -3,7 +3,6 @@ author: court
 date: 2004-11-11 10:09:29+00:00
 draft: false
 title: Ok, here is the most
-type: post
 url: /blog/2004/11/11/ok-here-is-the-most/
 categories:
 - Tech

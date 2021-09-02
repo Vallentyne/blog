@@ -3,7 +3,6 @@ author: court
 date: 2005-06-08 12:20:52+00:00
 draft: false
 title: Tornado video
-type: post
 url: /blog/2005/06/08/tornado-video/
 categories:
 - News

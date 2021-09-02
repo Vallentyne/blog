@@ -3,7 +3,6 @@ author: court
 date: 2014-05-08 19:53:21+00:00
 draft: false
 title: Canada and Quebec
-type: post
 url: /blog/2014/05/08/canada-and-quebec/
 categories:
 - News

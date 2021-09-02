@@ -3,7 +3,6 @@ author: nikki
 date: 2007-10-25 20:15:23+00:00
 draft: false
 title: 'Oh! Behave! '
-type: post
 url: /blog/2007/10/25/my-day-at-preschool/
 categories:
 - Family News

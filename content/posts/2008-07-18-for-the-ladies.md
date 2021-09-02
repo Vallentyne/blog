@@ -3,7 +3,6 @@ author: court
 date: 2008-07-18 15:14:34+00:00
 draft: false
 title: For the ladies...
-type: post
 url: /blog/2008/07/18/for-the-ladies/
 categories:
 - Family News

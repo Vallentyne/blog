@@ -3,7 +3,6 @@ author: court
 date: 2003-12-22 16:32:38+00:00
 draft: false
 title: Hey everyone! I just wanted
-type: post
 url: /blog/2003/12/22/hey-everyone-i-just-wanted/
 categories:
 - Family News

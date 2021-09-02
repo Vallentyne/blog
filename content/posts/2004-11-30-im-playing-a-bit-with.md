@@ -3,7 +3,6 @@ author: court
 date: 2004-11-30 13:17:37+00:00
 draft: false
 title: I'm playing a bit with
-type: post
 url: /blog/2004/11/30/im-playing-a-bit-with/
 categories:
 - Tech

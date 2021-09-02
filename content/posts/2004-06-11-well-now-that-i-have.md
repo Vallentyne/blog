@@ -3,7 +3,6 @@ author: court
 date: 2004-06-11 11:30:55+00:00
 draft: false
 title: Well, now that I have
-type: post
 url: /blog/2004/06/11/well-now-that-i-have/
 categories:
 - Family News

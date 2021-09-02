@@ -3,7 +3,6 @@ author: court
 date: 2010-07-19 13:32:12+00:00
 draft: false
 title: Thoughts on exercise this morning
-type: post
 url: /blog/2010/07/19/exercisethismorning/
 categories:
 - Running

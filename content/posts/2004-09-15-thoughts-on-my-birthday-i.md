@@ -3,7 +3,6 @@ author: court
 date: 2004-09-15 13:48:41+00:00
 draft: false
 title: 'Thoughts on my birthday: I'
-type: post
 url: /blog/2004/09/15/thoughts-on-my-birthday-i/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-11-04 12:29:25+00:00
 draft: false
 title: It's an ad, but it's still good.
-type: post
 url: /blog/2005/11/04/its-an-ad-but-its-still-good/
 categories:
 - Stupidity

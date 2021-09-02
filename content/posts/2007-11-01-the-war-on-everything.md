@@ -3,7 +3,6 @@ author: court
 date: 2007-11-01 17:31:15+00:00
 draft: false
 title: The War on Everything
-type: post
 url: /blog/2007/11/01/the-war-on-everything/
 categories:
 - Apocalypse Soon

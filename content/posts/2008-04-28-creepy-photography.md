@@ -3,7 +3,6 @@ author: court
 date: 2008-04-28 16:54:02+00:00
 draft: false
 title: Creepy Photography
-type: post
 url: /blog/2008/04/28/creepy-photography/
 categories:
 - Culture

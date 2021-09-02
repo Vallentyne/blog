@@ -3,7 +3,6 @@ author: court
 date: 2005-04-05 16:01:00+00:00
 draft: false
 title: Yet another whirlwind post when
-type: post
 url: /blog/2005/04/05/yet-another-whirlwind-post-when/
 categories:
 - Tech

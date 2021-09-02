@@ -3,7 +3,6 @@ author: court
 date: 2007-04-10 17:25:14+00:00
 draft: false
 title: Video Games and kids
-type: post
 url: /blog/2007/04/10/video-games-and-kids/
 categories:
 - Family News

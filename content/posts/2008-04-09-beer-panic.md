@@ -3,7 +3,6 @@ author: court
 date: 2008-04-09 15:57:48+00:00
 draft: false
 title: Beer Panic
-type: post
 url: /blog/2008/04/09/beer-panic/
 categories:
 - Apocalypse Soon

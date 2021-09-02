@@ -3,7 +3,6 @@ author: court
 date: 2012-03-29 13:47:57+00:00
 draft: false
 title: Batman is real
-type: post
 url: /blog/2012/03/29/batman-is-real/
 categories:
 - News

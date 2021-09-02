@@ -3,7 +3,6 @@ author: nikki
 date: 2008-05-08 21:06:36+00:00
 draft: false
 title: Out of the Mouths of Babes...
-type: post
 url: /blog/2008/05/08/out-of-the-mouths-of-babes/
 categories:
 - News

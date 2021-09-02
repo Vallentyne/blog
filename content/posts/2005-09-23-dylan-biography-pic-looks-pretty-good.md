@@ -3,7 +3,6 @@ author: court
 date: 2005-09-23 08:41:21+00:00
 draft: false
 title: Dylan biography pic looks pretty good.
-type: post
 url: /blog/2005/09/23/dylan-biography-pic-looks-pretty-good/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2006-08-23 14:17:05+00:00
 draft: false
 title: No posts, outages, new host?
-type: post
 url: /blog/2006/08/23/no-posts-outages-new-host/
 categories:
 - Tech

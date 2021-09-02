@@ -3,7 +3,6 @@ author: court
 date: 2009-04-22 17:21:49+00:00
 draft: false
 title: Wrong Number
-type: post
 url: /blog/2009/04/22/wrong-number/
 categories:
 - Stupidity

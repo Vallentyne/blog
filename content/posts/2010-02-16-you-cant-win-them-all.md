@@ -3,7 +3,6 @@ author: court
 date: 2010-02-16 18:16:33+00:00
 draft: false
 title: You Can't Win Them All
-type: post
 url: /blog/2010/02/16/you-cant-win-them-all/
 categories:
 - Family News

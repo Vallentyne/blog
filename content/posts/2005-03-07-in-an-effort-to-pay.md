@@ -3,7 +3,6 @@ author: court
 date: 2005-03-07 12:18:00+00:00
 draft: false
 title: In an effort to pay
-type: post
 url: /blog/2005/03/07/in-an-effort-to-pay/
 categories:
 - Family News

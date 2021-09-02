@@ -3,7 +3,6 @@ author: court
 date: 2005-12-20 11:21:56+00:00
 draft: false
 title: Jordy's Christmas Short Story
-type: post
 url: /blog/2005/12/20/jordys-christmas-short-story/
 categories:
 - Family News

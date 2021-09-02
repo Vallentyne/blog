@@ -3,7 +3,6 @@ author: court
 date: 2007-04-03 16:43:18+00:00
 draft: false
 title: Cousin Ange on the TV
-type: post
 url: /blog/2007/04/03/cousin-ange-on-the-tv/
 categories:
 - Apocalypse Soon

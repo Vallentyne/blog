@@ -3,7 +3,6 @@ author: court
 date: 2005-04-16 10:26:56+00:00
 draft: false
 title: Cleaning out the post folder...
-type: post
 url: /blog/2005/04/16/cleaning-out-the-post-folder/
 categories:
 - Stupidity

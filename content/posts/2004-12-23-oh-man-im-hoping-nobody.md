@@ -3,7 +3,6 @@ author: court
 date: 2004-12-23 15:06:29+00:00
 draft: false
 title: Oh man. I'm hoping nobody
-type: post
 url: /blog/2004/12/23/oh-man-im-hoping-nobody/
 categories:
 - Stupidity

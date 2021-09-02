@@ -3,7 +3,6 @@ author: court
 date: 2005-09-26 13:09:52+00:00
 draft: false
 title: Big Huggy is watching...
-type: post
 url: /blog/2005/09/26/big-huggy-is-watching/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2005-08-17 13:12:27+00:00
 draft: false
 title: Mountain Dew actually doesn't
-type: post
 url: /blog/2005/08/17/mountain-dew-actually-doesnt/
 categories:
 - Stupidity

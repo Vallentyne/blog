@@ -3,7 +3,6 @@ author: court
 date: 2004-02-17 14:15:34+00:00
 draft: false
 title: Well the skating party was
-type: post
 url: /blog/2004/02/17/well-the-skating-party-was/
 categories:
 - Family News

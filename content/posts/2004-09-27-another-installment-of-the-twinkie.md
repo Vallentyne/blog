@@ -3,7 +3,6 @@ author: court
 date: 2004-09-27 20:55:58+00:00
 draft: false
 title: Another installment of the "Twinkie
-type: post
 url: /blog/2004/09/27/another-installment-of-the-twinkie/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-04-21 16:12:36+00:00
 draft: false
 title: Social Capital
-type: post
 url: /blog/2009/04/21/social-capital/
 categories:
 - Culture

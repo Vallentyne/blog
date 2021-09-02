@@ -3,7 +3,6 @@ author: court
 date: 2012-06-11 19:18:07+00:00
 draft: false
 title: There's busy, and then there's Walmart Meth busy
-type: post
 url: /blog/2012/06/11/theres-busy-and-then-theres-walmart-meth-busy/
 categories:
 - Apocalypse Soon

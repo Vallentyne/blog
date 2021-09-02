@@ -3,7 +3,6 @@ author: court
 date: 2003-03-20 10:33:31+00:00
 draft: false
 title: Hey! I just drove the
-type: post
 url: /blog/2003/03/20/hey-i-just-drove-the/
 categories:
 - Family News

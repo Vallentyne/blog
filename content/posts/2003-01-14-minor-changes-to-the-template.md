@@ -3,7 +3,6 @@ author: court
 date: 2003-01-14 10:31:03+00:00
 draft: false
 title: Minor changes to the template
-type: post
 url: /blog/2003/01/14/minor-changes-to-the-template/
 categories:
 - Family News

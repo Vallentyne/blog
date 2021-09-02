@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 11:58:31+00:00
 draft: false
 title: Isn't The Onion the best?!
-type: post
 url: /blog/2003/03/19/isnt-the-onion-the-best/
 categories:
 - Family News

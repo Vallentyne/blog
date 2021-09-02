@@ -3,7 +3,6 @@ author: court
 date: 2007-08-20 13:16:51+00:00
 draft: false
 title: Nikki's Birthday
-type: post
 url: /blog/2007/08/20/nikkis-birthday/
 categories:
 - Family News

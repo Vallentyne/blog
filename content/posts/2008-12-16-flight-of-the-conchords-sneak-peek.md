@@ -3,7 +3,6 @@ author: court
 date: 2008-12-16 03:41:06+00:00
 draft: false
 title: Flight of the Conchords sneak peek
-type: post
 url: /blog/2008/12/15/flight-of-the-conchords-sneak-peek/
 categories:
 - Culture

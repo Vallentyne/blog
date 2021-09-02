@@ -3,7 +3,6 @@ author: court
 date: 2008-10-31 12:00:06+00:00
 draft: false
 title: More driving bans
-type: post
 url: /blog/2008/10/31/more-driving-bans/
 categories:
 - News

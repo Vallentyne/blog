@@ -3,7 +3,6 @@ author: court
 date: 2006-03-28 11:27:16+00:00
 draft: false
 title: Ignorant People Not Aware They are Ignorant
-type: post
 url: /blog/2006/03/28/ignorant-people-not-aware-they-are-ignorant/
 categories:
 - Stupidity

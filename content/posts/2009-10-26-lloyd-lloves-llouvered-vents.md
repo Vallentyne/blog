@@ -3,7 +3,6 @@ author: court
 date: 2009-10-26 15:12:52+00:00
 draft: false
 title: Lloyd Lloves Llouvered Vents
-type: post
 url: /blog/2009/10/26/lloyd-lloves-llouvered-vents/
 categories:
 - Llife with Lloyd

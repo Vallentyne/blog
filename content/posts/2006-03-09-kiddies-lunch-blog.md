@@ -3,7 +3,6 @@ author: court
 date: 2006-03-09 15:03:27+00:00
 draft: false
 title: Kiddies Lunch Blog
-type: post
 url: /blog/2006/03/09/kiddies-lunch-blog/
 categories:
 - Culture

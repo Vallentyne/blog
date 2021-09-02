@@ -3,7 +3,6 @@ author: court
 date: 2007-05-22 16:25:02+00:00
 draft: false
 title: Bee Update
-type: post
 url: /blog/2007/05/22/bee-update/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2008-09-14 18:25:44+00:00
 draft: false
 title: On the other hand....
-type: post
 url: /blog/2008/09/14/on-the-other-hand/
 categories:
 - Family News

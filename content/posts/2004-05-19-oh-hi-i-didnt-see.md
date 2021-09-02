@@ -3,7 +3,6 @@ author: court
 date: 2004-05-19 15:19:27+00:00
 draft: false
 title: Oh, hi! I didn't see
-type: post
 url: /blog/2004/05/19/oh-hi-i-didnt-see/
 categories:
 - Family News

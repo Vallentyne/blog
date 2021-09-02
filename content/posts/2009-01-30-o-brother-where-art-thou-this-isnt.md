@@ -3,7 +3,6 @@ author: court
 date: 2009-01-30 12:00:41+00:00
 draft: false
 title: O Brother, Where Art Thou? this isn't
-type: post
 url: /blog/2009/01/30/o-brother-where-art-thou-this-isnt/
 categories:
 - Stupidity

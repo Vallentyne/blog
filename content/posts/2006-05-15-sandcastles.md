@@ -3,7 +3,6 @@ author: court
 date: 2006-05-15 10:38:32+00:00
 draft: false
 title: Sandcastles
-type: post
 url: /blog/2006/05/15/sandcastles/
 categories:
 - Culture

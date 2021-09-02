@@ -3,7 +3,6 @@ author: court
 date: 2005-05-03 12:31:14+00:00
 draft: false
 title: This time it seems to be real
-type: post
 url: /blog/2005/05/03/this-time-it-seems-to-be-real/
 categories:
 - News

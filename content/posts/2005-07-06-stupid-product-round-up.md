@@ -3,7 +3,6 @@ author: court
 date: 2005-07-06 12:00:05+00:00
 draft: false
 title: Stupid product round-up
-type: post
 url: /blog/2005/07/06/stupid-product-round-up/
 categories:
 - Stupidity

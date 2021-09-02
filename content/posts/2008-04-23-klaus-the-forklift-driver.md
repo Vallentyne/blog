@@ -3,7 +3,6 @@ author: court
 date: 2008-04-23 17:17:54+00:00
 draft: false
 title: Klaus the Forklift Driver
-type: post
 url: /blog/2008/04/23/klaus-the-forklift-driver/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2008-11-06 12:00:35+00:00
 draft: false
 title: Missing Teeth?  Assault and Battery
-type: post
 url: /blog/2008/11/06/missing-teeth-assault-and-battery/
 categories:
 - News

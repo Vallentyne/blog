@@ -3,7 +3,6 @@ author: nikki
 date: 2007-01-08 18:13:12+00:00
 draft: false
 title: Happy Birthday Big Guy!
-type: post
 url: /blog/2007/01/08/happy-birthday-big-guy/
 categories:
 - Family News

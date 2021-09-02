@@ -3,7 +3,6 @@ author: court
 date: 2008-04-24 13:45:40+00:00
 draft: false
 title: Belated Earth Day
-type: post
 url: /blog/2008/04/24/belated-earth-day/
 categories:
 - Apocalypse Soon

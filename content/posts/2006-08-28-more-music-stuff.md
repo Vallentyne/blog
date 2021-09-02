@@ -3,7 +3,6 @@ author: court
 date: 2006-08-28 20:11:25+00:00
 draft: false
 title: More Music Stuff
-type: post
 url: /blog/2006/08/28/more-music-stuff/
 categories:
 - Culture

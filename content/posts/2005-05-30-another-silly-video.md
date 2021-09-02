@@ -3,7 +3,6 @@ author: court
 date: 2005-05-30 22:09:42+00:00
 draft: false
 title: Another silly video
-type: post
 url: /blog/2005/05/30/another-silly-video/
 categories:
 - Culture

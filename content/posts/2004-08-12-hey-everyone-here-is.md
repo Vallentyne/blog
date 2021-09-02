@@ -3,7 +3,6 @@ author: nikki
 date: 2004-08-12 16:15:52+00:00
 draft: false
 title: Hey everyone, Here is
-type: post
 url: /blog/2004/08/12/hey-everyone-here-is/
 categories:
 - Family News

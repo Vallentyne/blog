@@ -3,7 +3,6 @@ author: court
 date: 2007-12-27 18:54:28+00:00
 draft: false
 title: What big eyes you have.
-type: post
 url: /blog/2007/12/27/what-big-eyes-you-have/
 categories:
 - Culture

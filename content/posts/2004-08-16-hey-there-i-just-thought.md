@@ -3,7 +3,6 @@ author: court
 date: 2004-08-16 12:16:52+00:00
 draft: false
 title: Hey there! I just thought
-type: post
 url: /blog/2004/08/16/hey-there-i-just-thought/
 categories:
 - Family News

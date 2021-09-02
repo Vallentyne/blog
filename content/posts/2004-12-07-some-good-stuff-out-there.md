@@ -3,7 +3,6 @@ author: court
 date: 2004-12-07 11:20:08+00:00
 draft: false
 title: 'Some good stuff out there:'
-type: post
 url: /blog/2004/12/07/some-good-stuff-out-there/
 categories:
 - Culture

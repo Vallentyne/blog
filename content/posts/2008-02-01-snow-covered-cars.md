@@ -3,7 +3,6 @@ author: court
 date: 2008-02-01 13:44:49+00:00
 draft: false
 title: Snow covered cars
-type: post
 url: /blog/2008/02/01/snow-covered-cars/
 categories:
 - News

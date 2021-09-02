@@ -3,7 +3,6 @@ author: court
 date: 2016-11-16 01:38:03+00:00
 draft: false
 title: We Rate Dogs
-type: post
 url: /blog/2016/11/15/we-rate-dogs/
 categories:
 - Culture

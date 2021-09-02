@@ -3,7 +3,6 @@ author: court
 date: 2006-08-15 14:20:39+00:00
 draft: false
 title: Photoshopped Reality
-type: post
 url: /blog/2006/08/15/photoshopped-reality/
 categories:
 - News

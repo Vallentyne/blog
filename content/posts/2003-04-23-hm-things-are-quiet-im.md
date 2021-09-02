@@ -3,7 +3,6 @@ author: court
 date: 2003-04-23 11:00:15+00:00
 draft: false
 title: Hm. Things are quiet. I'm
-type: post
 url: /blog/2003/04/23/hm-things-are-quiet-im/
 categories:
 - Family News

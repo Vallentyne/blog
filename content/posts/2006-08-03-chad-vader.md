@@ -3,7 +3,6 @@ author: court
 date: 2006-08-03 18:00:52+00:00
 draft: false
 title: Chad Vader
-type: post
 url: /blog/2006/08/03/chad-vader/
 categories:
 - Stupidity

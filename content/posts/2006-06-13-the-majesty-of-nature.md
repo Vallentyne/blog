@@ -3,7 +3,6 @@ author: court
 date: 2006-06-13 10:55:09+00:00
 draft: false
 title: The Majesty of Nature
-type: post
 url: /blog/2006/06/13/the-majesty-of-nature/
 categories:
 - Apocalypse Soon

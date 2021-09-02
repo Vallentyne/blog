@@ -3,7 +3,6 @@ author: court
 date: 2012-07-03 17:05:38+00:00
 draft: false
 title: Maddening
-type: post
 url: /blog/2012/07/03/maddening/
 categories:
 - News

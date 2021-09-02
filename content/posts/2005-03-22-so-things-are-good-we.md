@@ -3,7 +3,6 @@ author: court
 date: 2005-03-22 08:30:00+00:00
 draft: false
 title: So, things are good. We
-type: post
 url: /blog/2005/03/22/so-things-are-good-we/
 categories:
 - Family News

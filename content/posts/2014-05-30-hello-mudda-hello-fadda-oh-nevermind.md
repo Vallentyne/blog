@@ -3,7 +3,6 @@ author: court
 date: 2014-05-30 19:24:40+00:00
 draft: false
 title: Hello Mudda, Hello Fadda, oh nevermind
-type: post
 url: /blog/2014/05/30/hello-mudda-hello-fadda-oh-nevermind/
 categories:
 - Family News

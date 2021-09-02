@@ -3,7 +3,6 @@ author: court
 date: 2010-10-13 00:54:54+00:00
 draft: false
 title: Sesame Street Does Old Spice
-type: post
 url: /blog/2010/10/12/sesame-street-does-old-spice/
 categories:
 - Video Diversions

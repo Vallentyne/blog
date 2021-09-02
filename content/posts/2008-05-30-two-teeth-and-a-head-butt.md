@@ -3,7 +3,6 @@ author: court
 date: 2008-05-30 19:53:20+00:00
 draft: false
 title: Two teeth and a head-butt
-type: post
 url: /blog/2008/05/30/two-teeth-and-a-head-butt/
 categories:
 - Family News

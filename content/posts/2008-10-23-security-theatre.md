@@ -3,7 +3,6 @@ author: court
 date: 2008-10-23 12:00:38+00:00
 draft: false
 title: Security Theatre
-type: post
 url: /blog/2008/10/23/security-theatre/
 categories:
 - Security Theatre

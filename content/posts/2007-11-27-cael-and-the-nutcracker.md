@@ -3,7 +3,6 @@ author: court
 date: 2007-11-27 17:03:49+00:00
 draft: false
 title: Cael and the Nutcracker
-type: post
 url: /blog/2007/11/27/cael-and-the-nutcracker/
 categories:
 - Family News

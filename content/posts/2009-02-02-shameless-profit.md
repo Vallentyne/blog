@@ -3,7 +3,6 @@ author: court
 date: 2009-02-02 13:42:53+00:00
 draft: false
 title: Shameless Profit
-type: post
 url: /blog/2009/02/02/shameless-profit/
 categories:
 - Apocalypse Soon

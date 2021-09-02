@@ -3,7 +3,6 @@ author: court
 date: 2013-07-02 18:01:19+00:00
 draft: false
 title: Navigating a Supermarket
-type: post
 url: /blog/2013/07/02/navigating-a-supermarket/
 categories:
 - Video Diversions

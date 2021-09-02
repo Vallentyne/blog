@@ -3,7 +3,6 @@ author: court
 date: 2010-09-29 15:40:42+00:00
 draft: false
 title: Mobile Ramblin's
-type: post
 url: /blog/2010/09/29/mobile-ramblins/
 categories:
 - Tech

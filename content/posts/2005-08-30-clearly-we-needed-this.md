@@ -3,7 +3,6 @@ author: court
 date: 2005-08-30 13:56:05+00:00
 draft: false
 title: Clearly, we needed this.
-type: post
 url: /blog/2005/08/30/clearly-we-needed-this/
 categories:
 - Culture

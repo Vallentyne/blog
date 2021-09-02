@@ -3,7 +3,6 @@ author: court
 date: 2008-02-18 13:33:10+00:00
 draft: false
 title: Left foot, check.  Right foot... crap not again.
-type: post
 url: /blog/2008/02/18/left-foot-check-right-foot-crap-not-again/
 categories:
 - News

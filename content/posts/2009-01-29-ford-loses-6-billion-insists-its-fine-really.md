@@ -3,7 +3,6 @@ author: court
 date: 2009-01-29 15:02:22+00:00
 draft: false
 title: Ford Loses 6 Billion, Insists It's Fine, Really
-type: post
 url: /blog/2009/01/29/ford-loses-6-billion-insists-its-fine-really/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2005-05-17 12:16:12+00:00
 draft: false
 title: Thanks to Noonan
-type: post
 url: /blog/2005/05/17/thanks-to-noonan/
 categories:
 - Culture

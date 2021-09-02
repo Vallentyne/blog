@@ -3,7 +3,6 @@ author: court
 date: 2005-05-05 15:48:14+00:00
 draft: false
 title: Part of a balanced diet
-type: post
 url: /blog/2005/05/05/part-of-a-balanced-diet/
 categories:
 - News

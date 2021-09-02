@@ -3,7 +3,6 @@ author: court
 date: 2013-06-20 15:29:06+00:00
 draft: false
 title: Let's Mess With the Kids - Part 452
-type: post
 url: /blog/2013/06/20/lets-mess-with-the-kids-part-452/
 categories:
 - Culture

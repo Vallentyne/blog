@@ -3,7 +3,6 @@ author: court
 date: 2005-11-21 08:41:10+00:00
 draft: false
 title: Snippy Bush Shut Down
-type: post
 url: /blog/2005/11/21/snippy-bush-shut-down/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2006-02-14 15:41:20+00:00
 draft: false
 title: I'm sure we will regret this someday....
-type: post
 url: /blog/2006/02/14/im-sure-we-will-regret-this-someday/
 categories:
 - Apocalypse Soon

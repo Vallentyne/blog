@@ -3,7 +3,6 @@ author: court
 date: 2008-09-30 17:06:35+00:00
 draft: false
 title: Rock Band, again
-type: post
 url: /blog/2008/09/30/rock-band-again/
 categories:
 - Family News

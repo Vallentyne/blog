@@ -3,7 +3,6 @@ author: court
 date: 2003-09-18 12:02:36+00:00
 draft: false
 title: Here's a note from one-time-blog-poster-but-now-too-consumed-with-her-own-personal-interests
-type: post
 url: /blog/2003/09/18/heres-a-note-from-one-time-blog-poster-but-now-too-consumed-with-her-own-personal-interests/
 categories:
 - Culture

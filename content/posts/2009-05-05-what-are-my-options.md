@@ -3,7 +3,6 @@ author: court
 date: 2009-05-05 16:14:00+00:00
 draft: false
 title: What are my options?
-type: post
 url: /blog/2009/05/05/what-are-my-options/
 categories:
 - Family News

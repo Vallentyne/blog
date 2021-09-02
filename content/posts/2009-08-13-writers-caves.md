@@ -3,7 +3,6 @@ author: court
 date: 2009-08-13 14:05:01+00:00
 draft: false
 title: Writer's Caves
-type: post
 url: /blog/2009/08/13/writers-caves/
 categories:
 - Culture

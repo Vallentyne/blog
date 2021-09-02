@@ -3,7 +3,6 @@ author: court
 date: 2018-03-24 23:20:51+00:00
 draft: false
 title: Tibetan Toe Workout
-type: post
 url: /blog/2018/03/24/tibetan-toe-workout/
 categories:
 - News

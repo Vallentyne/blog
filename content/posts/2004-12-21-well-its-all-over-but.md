@@ -3,7 +3,6 @@ author: court
 date: 2004-12-21 13:50:50+00:00
 draft: false
 title: Well it's all over but
-type: post
 url: /blog/2004/12/21/well-its-all-over-but/
 categories:
 - Family News

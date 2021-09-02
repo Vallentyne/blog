@@ -3,7 +3,6 @@ author: court
 date: 2009-10-15 11:00:18+00:00
 draft: false
 title: 'VallenQuiz #2'
-type: post
 url: /blog/2009/10/15/vallenquiz-2/
 categories:
 - News

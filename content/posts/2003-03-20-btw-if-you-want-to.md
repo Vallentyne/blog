@@ -3,7 +3,6 @@ author: court
 date: 2003-03-20 12:33:37+00:00
 draft: false
 title: Btw, if you want to
-type: post
 url: /blog/2003/03/20/btw-if-you-want-to/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: nikki
 date: 2007-08-01 18:40:00+00:00
 draft: false
 title: Latest Vallentyne Update...
-type: post
 url: /blog/2007/08/01/latest-vallentyne-update/
 categories:
 - Family News

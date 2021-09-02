@@ -3,7 +3,6 @@ author: court
 date: 2005-03-30 12:00:00+00:00
 draft: false
 title: To use what may be
-type: post
 url: /blog/2005/03/30/to-use-what-may-be/
 categories:
 - Apocalypse Soon

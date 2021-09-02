@@ -3,7 +3,6 @@ author: court
 date: 2011-06-15 20:14:11+00:00
 draft: false
 title: Get the F$*k Off the Plane
-type: post
 url: /blog/2011/06/15/get-the-fk-off-the-plane/
 categories:
 - Culture

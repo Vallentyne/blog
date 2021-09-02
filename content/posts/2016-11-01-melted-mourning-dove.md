@@ -3,7 +3,6 @@ author: court
 date: 2016-11-01 15:48:33+00:00
 draft: false
 title: Melted Mourning Dove
-type: post
 url: /blog/2016/11/01/melted-mourning-dove/
 categories:
 - Family News

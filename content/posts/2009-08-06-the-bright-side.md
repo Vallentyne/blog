@@ -3,7 +3,6 @@ author: court
 date: 2009-08-06 13:13:23+00:00
 draft: false
 title: The Bright Side
-type: post
 url: /blog/2009/08/06/the-bright-side/
 categories:
 - Family News

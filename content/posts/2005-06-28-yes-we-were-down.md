@@ -3,7 +3,6 @@ author: court
 date: 2005-06-28 10:30:29+00:00
 draft: false
 title: yes, we were down
-type: post
 url: /blog/2005/06/28/yes-we-were-down/
 categories:
 - Tech

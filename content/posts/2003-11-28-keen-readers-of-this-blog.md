@@ -3,7 +3,6 @@ author: court
 date: 2003-11-28 12:10:27+00:00
 draft: false
 title: Keen readers of this blog
-type: post
 url: /blog/2003/11/28/keen-readers-of-this-blog/
 categories:
 - Culture

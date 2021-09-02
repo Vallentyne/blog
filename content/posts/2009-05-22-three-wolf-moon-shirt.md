@@ -3,7 +3,6 @@ author: court
 date: 2009-05-22 18:01:42+00:00
 draft: false
 title: Three Wolf Moon Shirt
-type: post
 url: /blog/2009/05/22/three-wolf-moon-shirt/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2009-05-08 11:52:56+00:00
 draft: false
 title: Smoke your way through the recession
-type: post
 url: /blog/2009/05/08/smoke-your-way-through-the-recession/
 categories:
 - Apocalypse Soon

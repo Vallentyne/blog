@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 15:45:14+00:00
 draft: false
 title: Does Nikki email any of
-type: post
 url: /blog/2003/03/19/does-nikki-email-any-of/
 categories:
 - Family News

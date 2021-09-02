@@ -3,7 +3,6 @@ author: court
 date: 2005-08-30 13:08:08+00:00
 draft: false
 title: Percy didn't make it.
-type: post
 url: /blog/2005/08/30/percy-didnt-make-it/
 categories:
 - Family News

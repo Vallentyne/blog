@@ -3,7 +3,6 @@ author: court
 date: 2005-03-31 16:31:00+00:00
 draft: false
 title: I should be on the
-type: post
 url: /blog/2005/03/31/i-should-be-on-the/
 categories:
 - Stupidity

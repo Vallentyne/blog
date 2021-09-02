@@ -3,7 +3,6 @@ author: court
 date: 2015-09-23 12:15:41+00:00
 draft: false
 title: Robot Drones Weave Cradle of Doom
-type: post
 url: /blog/2015/09/23/robot-drones-weave-cradle-of-doom/
 categories:
 - Apocalypse Soon

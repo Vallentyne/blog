@@ -3,7 +3,6 @@ author: court
 date: 2003-03-31 10:03:07+00:00
 draft: false
 title: Wow. Alison "Joni Mitchell" Gibson.
-type: post
 url: /blog/2003/03/31/wow-alison-joni-mitchell-gibson/
 categories:
 - Family News

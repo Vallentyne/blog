@@ -3,7 +3,6 @@ author: court
 date: 2010-06-16 00:24:54+00:00
 draft: false
 title: 'This Just In:  God Smites Jesus'
-type: post
 url: /blog/2010/06/15/this-just-in-god-smites-jesus/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2011-02-24 17:55:44+00:00
 draft: false
 title: The Boys at Hockey Practice
-type: post
 url: /blog/2011/02/24/the-boys-at-hockey-practice/
 categories:
 - Hockey

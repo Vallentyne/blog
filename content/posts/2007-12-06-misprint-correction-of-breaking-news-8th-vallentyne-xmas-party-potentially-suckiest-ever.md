@@ -4,7 +4,6 @@ date: 2007-12-06 05:01:00+00:00
 draft: false
 title: 'Misprint Correction of Breaking News: 8th Vallentyne Xmas Party (potentially)
   Suckiest Ever'
-type: post
 url: /blog/2007/12/06/misprint-correction-of-breaking-news-8th-vallentyne-xmas-party-potentially-suckiest-ever/
 categories:
 - Family News

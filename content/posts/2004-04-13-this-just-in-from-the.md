@@ -3,7 +3,6 @@ author: court
 date: 2004-04-13 15:50:04+00:00
 draft: false
 title: This just in from the
-type: post
 url: /blog/2004/04/13/this-just-in-from-the/
 categories:
 - Family News

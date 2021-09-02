@@ -3,7 +3,6 @@ author: court
 date: 2007-07-19 18:16:57+00:00
 draft: false
 title: Anybody hungry?
-type: post
 url: /blog/2007/07/19/anybody-hungry/
 categories:
 - Culture

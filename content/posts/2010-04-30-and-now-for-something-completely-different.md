@@ -3,7 +3,6 @@ author: court
 date: 2010-04-30 18:35:48+00:00
 draft: false
 title: And now for something completely different....
-type: post
 url: /blog/2010/04/30/and-now-for-something-completely-different/
 categories:
 - Video Diversions

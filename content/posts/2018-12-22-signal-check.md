@@ -3,7 +3,6 @@ author: court
 date: 2018-12-22 15:05:50+00:00
 draft: false
 title: Signal check
-type: post
 url: /blog/2018/12/22/signal-check/
 categories:
 - News

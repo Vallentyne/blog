@@ -3,7 +3,6 @@ author: court
 date: 2009-02-11 14:41:51+00:00
 draft: false
 title: Recession Fixer?
-type: post
 url: /blog/2009/02/11/recession-fixer/
 categories:
 - News

@@ -3,7 +3,6 @@ author: nikki
 date: 2006-11-27 14:59:35+00:00
 draft: false
 title: A little self realization...
-type: post
 url: /blog/2006/11/27/a-little-self-realization/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2003-10-02 15:55:28+00:00
 draft: false
 title: There's the beginnings of a
-type: post
 url: /blog/2003/10/02/theres-the-beginnings-of-a/
 categories:
 - Family News

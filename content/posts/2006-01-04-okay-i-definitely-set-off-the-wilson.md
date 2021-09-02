@@ -3,7 +3,6 @@ author: court
 date: 2006-01-04 11:18:02+00:00
 draft: false
 title: Okay, I definitely set off the Wilson.
-type: post
 url: /blog/2006/01/04/okay-i-definitely-set-off-the-wilson/
 categories:
 - Tech

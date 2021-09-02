@@ -3,7 +3,6 @@ author: court
 date: 2006-02-15 14:48:47+00:00
 draft: false
 title: Just in from the Department of the Obvious...
-type: post
 url: /blog/2006/02/15/just-in-from-the-department-of-the-obvious/
 categories:
 - Apocalypse Soon

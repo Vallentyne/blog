@@ -3,7 +3,6 @@ author: court
 date: 2008-03-03 14:42:55+00:00
 draft: false
 title: Government Arts Funding, Censorship Included
-type: post
 url: /blog/2008/03/03/government-arts-funding-censorship-included/
 categories:
 - Culture

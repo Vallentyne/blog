@@ -3,7 +3,6 @@ author: court
 date: 2006-01-27 12:26:56+00:00
 draft: false
 title: The Great Zucchini
-type: post
 url: /blog/2006/01/27/the-great-zucchini/
 categories:
 - Culture

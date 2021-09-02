@@ -3,7 +3,6 @@ author: court
 date: 2003-04-25 09:53:18+00:00
 draft: false
 title: Ahh, another sunny Friday to
-type: post
 url: /blog/2003/04/25/ahh-another-sunny-friday-to/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-02-07 15:50:21+00:00
 draft: false
 title: Ricky and Julian on Parliament Hill
-type: post
 url: /blog/2008/02/07/ricky-and-julian-on-parliament-hill/
 categories:
 - Culture

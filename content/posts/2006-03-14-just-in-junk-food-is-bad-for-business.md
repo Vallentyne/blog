@@ -3,7 +3,6 @@ author: court
 date: 2006-03-14 14:10:17+00:00
 draft: false
 title: 'Just in: Junk Food is Bad For Business'
-type: post
 url: /blog/2006/03/14/just-in-junk-food-is-bad-for-business/
 categories:
 - Culture

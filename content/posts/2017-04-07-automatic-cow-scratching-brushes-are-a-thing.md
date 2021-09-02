@@ -3,7 +3,6 @@ author: court
 date: 2017-04-07 14:41:16+00:00
 draft: false
 title: Automatic Cow Scratching Brushes are a thing
-type: post
 url: /blog/2017/04/07/automatic-cow-scratching-brushes-are-a-thing/
 categories:
 - Llife with Lloyd

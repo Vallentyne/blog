@@ -3,7 +3,6 @@ author: court
 date: 2011-10-28 17:38:47+00:00
 draft: false
 title: Seeing Eye Dog for another dog
-type: post
 url: /blog/2011/10/28/seeing-eye-dog-for-another-dog/
 categories:
 - Llife with Lloyd

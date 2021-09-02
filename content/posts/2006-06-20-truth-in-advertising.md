@@ -3,7 +3,6 @@ author: court
 date: 2006-06-20 12:34:48+00:00
 draft: false
 title: Truth In Advertising
-type: post
 url: /blog/2006/06/20/truth-in-advertising/
 categories:
 - Culture

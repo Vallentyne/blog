@@ -3,7 +3,6 @@ author: court
 date: 2005-05-02 22:53:10+00:00
 draft: false
 title: It's progress, people
-type: post
 url: /blog/2005/05/02/its-progress-people/
 categories:
 - News

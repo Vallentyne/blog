@@ -3,7 +3,6 @@ author: court
 date: 2005-02-09 13:49:46+00:00
 draft: false
 title: '...And costumes brings me to'
-type: post
 url: /blog/2005/02/09/and-costumes-brings-me-to/
 categories:
 - Tech

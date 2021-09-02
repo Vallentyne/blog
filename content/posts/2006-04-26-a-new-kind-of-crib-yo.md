@@ -3,7 +3,6 @@ author: court
 date: 2006-04-26 09:54:15+00:00
 draft: false
 title: A new kind of Crib, yo.
-type: post
 url: /blog/2006/04/26/a-new-kind-of-crib-yo/
 categories:
 - Tech

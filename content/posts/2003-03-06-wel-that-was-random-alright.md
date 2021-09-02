@@ -3,7 +3,6 @@ author: court
 date: 2003-03-06 16:27:53+00:00
 draft: false
 title: Wel. That was random alright.
-type: post
 url: /blog/2003/03/06/wel-that-was-random-alright/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-01-15 18:49:53+00:00
 draft: false
 title: New Apple Products
-type: post
 url: /blog/2008/01/15/new-apple-products/
 categories:
 - Tech

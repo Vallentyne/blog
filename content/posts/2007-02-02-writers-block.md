@@ -3,7 +3,6 @@ author: court
 date: 2007-02-02 16:16:26+00:00
 draft: false
 title: Writer's Block
-type: post
 url: /blog/2007/02/02/writers-block/
 categories:
 - Culture

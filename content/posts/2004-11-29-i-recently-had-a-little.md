@@ -3,7 +3,6 @@ author: court
 date: 2004-11-29 13:09:37+00:00
 draft: false
 title: I recently had a little
-type: post
 url: /blog/2004/11/29/i-recently-had-a-little/
 categories:
 - Culture

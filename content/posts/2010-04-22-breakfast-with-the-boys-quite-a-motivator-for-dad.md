@@ -3,7 +3,6 @@ author: court
 date: 2010-04-22 12:19:14+00:00
 draft: false
 title: Breakfast with the boys = Quite a motivator for Dad
-type: post
 url: /blog/2010/04/22/breakfast-with-the-boys-quite-a-motivator-for-dad/
 categories:
 - Family News

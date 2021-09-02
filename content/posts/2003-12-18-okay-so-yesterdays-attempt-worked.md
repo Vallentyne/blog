@@ -3,7 +3,6 @@ author: court
 date: 2003-12-18 08:11:47+00:00
 draft: false
 title: Okay, so yesterday's attempt worked.
-type: post
 url: /blog/2003/12/18/okay-so-yesterdays-attempt-worked/
 categories:
 - Family News

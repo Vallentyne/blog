@@ -3,7 +3,6 @@ author: court
 date: 2008-09-18 20:25:56+00:00
 draft: false
 title: PropertyPlus.ca
-type: post
 url: /blog/2008/09/18/propertyplusca/
 categories:
 - News

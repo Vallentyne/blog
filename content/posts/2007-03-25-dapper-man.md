@@ -3,7 +3,6 @@ author: court
 date: 2007-03-25 23:59:52+00:00
 draft: false
 title: Dapper Man
-type: post
 url: /blog/2007/03/25/dapper-man/
 categories:
 - Family News

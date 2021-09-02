@@ -3,7 +3,6 @@ author: court
 date: 2006-04-24 12:35:28+00:00
 draft: false
 title: Bob Dylan,  DJ
-type: post
 url: /blog/2006/04/24/bob-dylan-dj/
 categories:
 - Culture

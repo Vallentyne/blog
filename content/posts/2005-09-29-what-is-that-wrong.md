@@ -3,7 +3,6 @@ author: court
 date: 2005-09-29 12:10:33+00:00
 draft: false
 title: What, is that wrong?
-type: post
 url: /blog/2005/09/29/what-is-that-wrong/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2004-03-10 16:11:46+00:00
 draft: false
 title: Well, time sure flies when
-type: post
 url: /blog/2004/03/10/well-time-sure-flies-when/
 categories:
 - Family News

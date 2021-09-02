@@ -3,7 +3,6 @@ author: court
 date: 2007-09-24 17:29:05+00:00
 draft: false
 title: Teacher fired for not turning students into mindless bible-bots
-type: post
 url: /blog/2007/09/24/teacher-fired-for-not-turning-students-into-mindless-bible-bots/
 categories:
 - Culture

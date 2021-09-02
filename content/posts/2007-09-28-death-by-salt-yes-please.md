@@ -3,7 +3,6 @@ author: court
 date: 2007-09-28 16:24:51+00:00
 draft: false
 title: Death by salt?  Yes, please!
-type: post
 url: /blog/2007/09/28/death-by-salt-yes-please/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2004-05-10 14:12:43+00:00
 draft: false
 title: The previous post is completely
-type: post
 url: /blog/2004/05/10/the-previous-post-is-completely/
 categories:
 - Stupidity

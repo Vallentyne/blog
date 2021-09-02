@@ -3,7 +3,6 @@ author: court
 date: 2005-11-01 23:30:11+00:00
 draft: false
 title: Congratulations to Kyle and Rachel
-type: post
 url: /blog/2005/11/01/congratulations-to-kyle-and-rachel/
 categories:
 - Family News

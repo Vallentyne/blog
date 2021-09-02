@@ -3,7 +3,6 @@ author: court
 date: 2007-01-09 17:23:57+00:00
 draft: false
 title: Fantastic Frosty Frosting
-type: post
 url: /blog/2007/01/09/fantastic-frosty-frosting/
 categories:
 - Family News

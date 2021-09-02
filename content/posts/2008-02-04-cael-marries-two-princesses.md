@@ -3,7 +3,6 @@ author: court
 date: 2008-02-04 15:43:55+00:00
 draft: false
 title: Cael marries two princesses
-type: post
 url: /blog/2008/02/04/cael-marries-two-princesses/
 categories:
 - Family News

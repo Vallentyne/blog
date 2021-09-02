@@ -3,7 +3,6 @@ author: court
 date: 2005-05-09 12:51:34+00:00
 draft: false
 title: The Omnificent English Dictionary in Limerick Form
-type: post
 url: /blog/2005/05/09/the-omnificent-english-dictionary-in-limerick-form/
 categories:
 - Culture

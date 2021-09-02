@@ -3,7 +3,6 @@ author: court
 date: 2006-10-13 16:11:11+00:00
 draft: false
 title: 10 Foot Tall Dope Plants stump troops
-type: post
 url: /blog/2006/10/13/10-foot-tall-dope-plants-stump-troops/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2005-12-07 09:45:56+00:00
 draft: false
 title: I'm just doing my rock and roll duty.
-type: post
 url: /blog/2005/12/07/im-just-doing-my-rock-and-roll-duty/
 categories:
 - Tech

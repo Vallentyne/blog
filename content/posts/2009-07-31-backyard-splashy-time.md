@@ -3,7 +3,6 @@ author: court
 date: 2009-07-31 12:24:08+00:00
 draft: false
 title: Backyard Splashy Time
-type: post
 url: /blog/2009/07/31/backyard-splashy-time/
 categories:
 - Family News

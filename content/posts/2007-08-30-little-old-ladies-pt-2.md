@@ -3,7 +3,6 @@ author: court
 date: 2007-08-30 16:26:58+00:00
 draft: false
 title: Little old ladies, pt 2
-type: post
 url: /blog/2007/08/30/little-old-ladies-pt-2/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2005-01-28 14:31:22+00:00
 draft: false
 title: There's a 2000 ton pile
-type: post
 url: /blog/2005/01/28/theres-a-2000-ton-pile/
 categories:
 - News

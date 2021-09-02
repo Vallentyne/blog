@@ -3,7 +3,6 @@ author: court
 date: 2006-04-13 11:42:40+00:00
 draft: false
 title: Service Outage Resolved
-type: post
 url: /blog/2006/04/13/service-outage-resolved/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: Wilock
 date: 2006-01-30 16:12:20+00:00
 draft: false
 title: 'Re: Got fuel to burn, got roads to drive...'
-type: post
 url: /blog/2006/01/30/re-got-fuel-to-burn-got-roads-to-drive/
 categories:
 - Apocalypse Soon

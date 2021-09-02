@@ -3,7 +3,6 @@ author: court
 date: 2005-04-16 10:55:18+00:00
 draft: false
 title: Hulk's Blog
-type: post
 url: /blog/2005/04/16/hulks-blog/
 categories:
 - Culture

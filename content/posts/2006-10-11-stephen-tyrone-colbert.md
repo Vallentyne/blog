@@ -3,7 +3,6 @@ author: court
 date: 2006-10-11 01:41:56+00:00
 draft: false
 title: 'Stephen Tyrone Colbert '
-type: post
 url: /blog/2006/10/10/stephen-tyrone-colbert/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2006-02-28 11:51:26+00:00
 draft: false
 title: Note to Self
-type: post
 url: /blog/2006/02/28/note-to-self/
 categories:
 - Family News

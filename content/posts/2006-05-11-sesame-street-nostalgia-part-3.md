@@ -3,7 +3,6 @@ author: court
 date: 2006-05-11 12:12:49+00:00
 draft: false
 title: Sesame Street Nostalgia Part 3
-type: post
 url: /blog/2006/05/11/sesame-street-nostalgia-part-3/
 categories:
 - Video Diversions

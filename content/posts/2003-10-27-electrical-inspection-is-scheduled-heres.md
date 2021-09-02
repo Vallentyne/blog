@@ -3,7 +3,6 @@ author: court
 date: 2003-10-27 12:45:32+00:00
 draft: false
 title: Electrical inspection is scheduled, here's
-type: post
 url: /blog/2003/10/27/electrical-inspection-is-scheduled-heres/
 categories:
 - Family News

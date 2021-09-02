@@ -3,7 +3,6 @@ author: court
 date: 2005-10-06 12:40:28+00:00
 draft: false
 title: The Doors don't sell out, somehow.
-type: post
 url: /blog/2005/10/06/the-doors-dont-sell-out-somehow/
 categories:
 - Culture

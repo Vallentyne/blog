@@ -3,7 +3,6 @@ author: court
 date: 2006-02-22 13:12:55+00:00
 draft: false
 title: Time Wasters
-type: post
 url: /blog/2006/02/22/time-wasters/
 categories:
 - Tech

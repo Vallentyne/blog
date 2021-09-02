@@ -3,7 +3,6 @@ author: court
 date: 2006-01-12 14:18:44+00:00
 draft: false
 title: Thursdays
-type: post
 url: /blog/2006/01/12/thursdays/
 categories:
 - News

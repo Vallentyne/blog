@@ -3,7 +3,6 @@ author: court
 date: 2004-01-11 11:47:08+00:00
 draft: false
 title: Hello fellow Vallentynes and friends,
-type: post
 url: /blog/2004/01/11/hello-fellow-vallentynes-and-friends/
 categories:
 - Family News

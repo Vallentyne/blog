@@ -3,7 +3,6 @@ author: court
 date: 2009-08-31 17:45:35+00:00
 draft: false
 title: Marine Lloyd
-type: post
 url: /blog/2009/08/31/marine-lloyd/
 categories:
 - Llife with Lloyd

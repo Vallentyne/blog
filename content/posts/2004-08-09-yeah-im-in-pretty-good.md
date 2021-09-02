@@ -3,7 +3,6 @@ author: court
 date: 2004-08-09 15:52:56+00:00
 draft: false
 title: Yeah, I'm in pretty good
-type: post
 url: /blog/2004/08/09/yeah-im-in-pretty-good/
 categories:
 - Culture

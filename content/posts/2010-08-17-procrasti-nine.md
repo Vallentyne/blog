@@ -3,7 +3,6 @@ author: court
 date: 2010-08-17 13:36:42+00:00
 draft: false
 title: Procrasti-nine
-type: post
 url: /blog/2010/08/17/procrasti-nine/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-01-16 12:29:56+00:00
 draft: false
 title: Kids these days...
-type: post
 url: /blog/2006/01/16/kids-these-days/
 categories:
 - Culture

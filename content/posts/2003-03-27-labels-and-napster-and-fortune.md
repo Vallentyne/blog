@@ -3,7 +3,6 @@ author: court
 date: 2003-03-27 14:14:36+00:00
 draft: false
 title: Labels and napster and fortune
-type: post
 url: /blog/2003/03/27/labels-and-napster-and-fortune/
 categories:
 - Culture

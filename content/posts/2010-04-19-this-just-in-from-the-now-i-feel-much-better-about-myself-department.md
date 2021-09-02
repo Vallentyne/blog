@@ -3,7 +3,6 @@ author: court
 date: 2010-04-19 21:51:03+00:00
 draft: false
 title: 'This just in from the "Now I feel much better about myself" department:'
-type: post
 url: /blog/2010/04/19/this-just-in-from-the-now-i-feel-much-better-about-myself-department/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-04-26 16:03:00+00:00
 draft: false
 title: Canadian Artists Showing Promise
-type: post
 url: /blog/2006/04/26/canadian-artists-showing-promise/
 categories:
 - Culture

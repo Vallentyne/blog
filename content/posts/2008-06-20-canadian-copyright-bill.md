@@ -3,7 +3,6 @@ author: court
 date: 2008-06-20 13:24:10+00:00
 draft: false
 title: Canadian Copyright Bill
-type: post
 url: /blog/2008/06/20/canadian-copyright-bill/
 categories:
 - Stupidity

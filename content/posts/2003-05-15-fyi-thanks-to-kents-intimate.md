@@ -3,7 +3,6 @@ author: court
 date: 2003-05-15 10:53:31+00:00
 draft: false
 title: fyi, thanks to Kent's intimate
-type: post
 url: /blog/2003/05/15/fyi-thanks-to-kents-intimate/
 categories:
 - Culture

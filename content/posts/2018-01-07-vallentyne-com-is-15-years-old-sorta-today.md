@@ -3,7 +3,6 @@ author: court
 date: 2018-01-07 13:00:29+00:00
 draft: false
 title: Vallentyne.com is 15 years old (sorta) today!
-type: post
 url: /blog/2018/01/07/vallentyne-com-is-15-years-old-sorta-today/
 categories:
 - Tech

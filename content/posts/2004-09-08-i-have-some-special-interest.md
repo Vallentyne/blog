@@ -3,7 +3,6 @@ author: court
 date: 2004-09-08 13:56:32+00:00
 draft: false
 title: I have some special interest
-type: post
 url: /blog/2004/09/08/i-have-some-special-interest/
 categories:
 - Culture

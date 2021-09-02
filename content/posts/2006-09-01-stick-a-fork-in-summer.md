@@ -3,7 +3,6 @@ author: court
 date: 2006-09-01 17:36:24+00:00
 draft: false
 title: Stick a fork in Summer
-type: post
 url: /blog/2006/09/01/stick-a-fork-in-summer/
 categories:
 - Family News

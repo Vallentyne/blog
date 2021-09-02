@@ -3,7 +3,6 @@ author: court
 date: 2006-12-01 18:42:49+00:00
 draft: false
 title: Please give me back my lunch hour
-type: post
 url: /blog/2006/12/01/please-give-me-back-my-lunch-hour/
 categories:
 - Stupidity

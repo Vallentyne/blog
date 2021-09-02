@@ -3,7 +3,6 @@ author: court
 date: 2004-08-23 11:14:30+00:00
 draft: false
 title: Hey there everyone, I come
-type: post
 url: /blog/2004/08/23/hey-there-everyone-i-come/
 categories:
 - Family News

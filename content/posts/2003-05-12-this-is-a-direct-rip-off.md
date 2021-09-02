@@ -3,7 +3,6 @@ author: court
 date: 2003-05-12 10:51:15+00:00
 draft: false
 title: This is a direct rip-off
-type: post
 url: /blog/2003/05/12/this-is-a-direct-rip-off/
 categories:
 - Culture

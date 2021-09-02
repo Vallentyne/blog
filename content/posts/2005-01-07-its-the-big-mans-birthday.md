@@ -3,7 +3,6 @@ author: court
 date: 2005-01-07 10:40:35+00:00
 draft: false
 title: It's the big man's birthday
-type: post
 url: /blog/2005/01/07/its-the-big-mans-birthday/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: nikki
 date: 2008-09-15 19:12:28+00:00
 draft: false
 title: Happy Birthday Court!
-type: post
 url: /blog/2008/09/15/happy-birthday-court/
 categories:
 - Family News

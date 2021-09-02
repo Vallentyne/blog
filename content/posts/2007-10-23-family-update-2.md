@@ -3,7 +3,6 @@ author: court
 date: 2007-10-23 15:09:50+00:00
 draft: false
 title: Family Update
-type: post
 url: /blog/2007/10/23/family-update-2/
 categories:
 - Family News

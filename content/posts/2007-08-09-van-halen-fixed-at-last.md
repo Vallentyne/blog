@@ -3,7 +3,6 @@ author: court
 date: 2007-08-09 19:27:33+00:00
 draft: false
 title: Van Halen, fixed at last
-type: post
 url: /blog/2007/08/09/van-halen-fixed-at-last/
 categories:
 - Culture

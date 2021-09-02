@@ -3,7 +3,6 @@ author: court
 date: 2008-07-11 16:48:10+00:00
 draft: false
 title: iPhone lust increasing
-type: post
 url: /blog/2008/07/11/iphone-lust-increasing/
 categories:
 - News

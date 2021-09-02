@@ -3,7 +3,6 @@ author: court
 date: 2003-06-04 13:37:36+00:00
 draft: false
 title: Ok. Looks like the blog
-type: post
 url: /blog/2003/06/04/ok-looks-like-the-blog/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-04-30 15:54:04+00:00
 draft: false
 title: Swedish Rock Robot of DOOOM
-type: post
 url: /blog/2009/04/30/swedish-rock-robot-of-dooom/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: Wilock
 date: 2006-01-11 11:09:46+00:00
 draft: false
 title: 'Re: Final thoughts on this...'
-type: post
 url: /blog/2006/01/11/re-final-thoughts-on-this/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2004-07-15 13:16:24+00:00
 draft: false
 title: We made it. Better than
-type: post
 url: /blog/2004/07/15/we-made-it-better-than/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-08-31 11:01:41+00:00
 draft: false
 title: Whoa dude. Rawk on.
-type: post
 url: /blog/2005/08/31/whoa-dude-rawk-on/
 categories:
 - Stupidity

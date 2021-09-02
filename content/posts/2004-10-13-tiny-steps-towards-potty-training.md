@@ -3,7 +3,6 @@ author: court
 date: 2004-10-13 22:04:33+00:00
 draft: false
 title: Tiny steps towards potty training
-type: post
 url: /blog/2004/10/13/tiny-steps-towards-potty-training/
 categories:
 - Family News

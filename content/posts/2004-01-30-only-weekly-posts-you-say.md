@@ -3,7 +3,6 @@ author: court
 date: 2004-01-30 12:49:18+00:00
 draft: false
 title: Only weekly posts you say?
-type: post
 url: /blog/2004/01/30/only-weekly-posts-you-say/
 categories:
 - Family News

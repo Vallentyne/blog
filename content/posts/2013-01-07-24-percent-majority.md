@@ -3,7 +3,6 @@ author: court
 date: 2013-01-07 21:38:50+00:00
 draft: false
 title: 24 Percent Majority
-type: post
 url: /blog/2013/01/07/24-percent-majority/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-01-26 22:56:50+00:00
 draft: false
 title: Remember the lady who couldn't
-type: post
 url: /blog/2005/01/26/remember-the-lady-who-couldnt/
 categories:
 - News

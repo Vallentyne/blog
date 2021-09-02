@@ -3,7 +3,6 @@ author: court
 date: 2005-10-20 12:51:09+00:00
 draft: false
 title: Transparent Aluminum?  Yes, please.
-type: post
 url: /blog/2005/10/20/transparent-aluminum-yes-please/
 categories:
 - Tech

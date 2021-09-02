@@ -3,7 +3,6 @@ author: court
 date: 2003-06-11 12:32:15+00:00
 draft: false
 title: I can't figure out how
-type: post
 url: /blog/2003/06/11/i-cant-figure-out-how/
 categories:
 - Family News

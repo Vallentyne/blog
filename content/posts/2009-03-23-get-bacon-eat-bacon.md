@@ -3,7 +3,6 @@ author: court
 date: 2009-03-23 14:30:08+00:00
 draft: false
 title: Get bacon, eat bacon
-type: post
 url: /blog/2009/03/23/get-bacon-eat-bacon/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2003-05-21 09:56:26+00:00
 draft: false
 title: Yes, I admit the running
-type: post
 url: /blog/2003/05/21/yes-i-admit-the-running/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-02-17 12:08:37+00:00
 draft: false
 title: Tartan This, Laddie
-type: post
 url: /blog/2006/02/17/tartan-this-laddie/
 categories:
 - News

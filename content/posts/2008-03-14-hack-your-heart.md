@@ -3,7 +3,6 @@ author: court
 date: 2008-03-14 15:20:15+00:00
 draft: false
 title: Hack your heart
-type: post
 url: /blog/2008/03/14/hack-your-heart/
 categories:
 - News

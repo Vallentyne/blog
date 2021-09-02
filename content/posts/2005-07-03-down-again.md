@@ -3,7 +3,6 @@ author: court
 date: 2005-07-03 15:32:45+00:00
 draft: false
 title: Down again....
-type: post
 url: /blog/2005/07/03/down-again/
 categories:
 - News

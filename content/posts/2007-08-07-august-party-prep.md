@@ -3,7 +3,6 @@ author: court
 date: 2007-08-07 19:48:40+00:00
 draft: false
 title: August Party Prep
-type: post
 url: /blog/2007/08/07/august-party-prep/
 categories:
 - Family News

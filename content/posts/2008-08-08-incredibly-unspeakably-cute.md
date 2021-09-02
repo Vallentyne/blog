@@ -3,7 +3,6 @@ author: court
 date: 2008-08-08 01:26:51+00:00
 draft: false
 title: Incredibly, unspeakably cute
-type: post
 url: /blog/2008/08/07/incredibly-unspeakably-cute/
 categories:
 - Video Diversions

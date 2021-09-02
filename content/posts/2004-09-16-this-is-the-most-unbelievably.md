@@ -3,7 +3,6 @@ author: court
 date: 2004-09-16 13:39:33+00:00
 draft: false
 title: This is the most unbelievably
-type: post
 url: /blog/2004/09/16/this-is-the-most-unbelievably/
 categories:
 - News

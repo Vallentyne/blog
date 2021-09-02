@@ -3,7 +3,6 @@ author: court
 date: 2008-04-18 13:17:21+00:00
 draft: false
 title: Boxers or Briefs?
-type: post
 url: /blog/2008/04/18/boxers-or-briefs/
 categories:
 - Culture

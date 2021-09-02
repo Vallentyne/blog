@@ -3,7 +3,6 @@ author: court
 date: 2004-05-20 13:01:21+00:00
 draft: false
 title: Like any large corporation, Vallentyne.com
-type: post
 url: /blog/2004/05/20/like-any-large-corporation-vallentynecom/
 categories:
 - Family News

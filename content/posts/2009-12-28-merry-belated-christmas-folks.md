@@ -3,7 +3,6 @@ author: court
 date: 2009-12-28 01:31:02+00:00
 draft: false
 title: Merry Belated Christmas, Folks
-type: post
 url: /blog/2009/12/27/merry-belated-christmas-folks/
 categories:
 - Family News

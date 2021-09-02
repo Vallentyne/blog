@@ -3,7 +3,6 @@ author: court
 date: 2005-11-08 20:19:48+00:00
 draft: false
 title: Buck it, here's some links.
-type: post
 url: /blog/2005/11/08/buck-it-heres-some-links/
 categories:
 - News

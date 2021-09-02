@@ -3,7 +3,6 @@ author: court
 date: 2005-12-20 08:34:54+00:00
 draft: false
 title: Better Christmas light show
-type: post
 url: /blog/2005/12/20/better-christmas-light-show/
 categories:
 - Tech

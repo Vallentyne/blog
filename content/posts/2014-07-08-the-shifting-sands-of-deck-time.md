@@ -3,7 +3,6 @@ author: court
 date: 2014-07-08 20:07:38+00:00
 draft: false
 title: The shifting sands of (deck) time
-type: post
 url: /blog/2014/07/08/the-shifting-sands-of-deck-time/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2012-02-01 21:59:30+00:00
 draft: false
 title: Buzzing Death Robots
-type: post
 url: /blog/2012/02/01/buzzing-death-robots/
 categories:
 - Apocalypse Soon

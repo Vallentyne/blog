@@ -3,7 +3,6 @@ author: court
 date: 2006-05-24 14:57:45+00:00
 draft: false
 title: Myth of Superman
-type: post
 url: /blog/2006/05/24/myth-of-superman/
 categories:
 - Culture

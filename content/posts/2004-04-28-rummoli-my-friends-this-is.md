@@ -3,7 +3,6 @@ author: court
 date: 2004-04-28 10:55:03+00:00
 draft: false
 title: Rummoli. My friends, this is
-type: post
 url: /blog/2004/04/28/rummoli-my-friends-this-is/
 categories:
 - Culture

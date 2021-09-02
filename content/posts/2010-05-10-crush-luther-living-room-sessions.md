@@ -3,7 +3,6 @@ author: court
 date: 2010-05-10 18:40:38+00:00
 draft: false
 title: Crush Luther Living Room Sessions
-type: post
 url: /blog/2010/05/10/crush-luther-living-room-sessions/
 categories:
 - Culture

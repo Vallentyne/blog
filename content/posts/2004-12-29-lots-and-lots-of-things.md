@@ -3,7 +3,6 @@ author: court
 date: 2004-12-29 13:11:03+00:00
 draft: false
 title: Lots and lots of things
-type: post
 url: /blog/2004/12/29/lots-and-lots-of-things/
 categories:
 - Family News

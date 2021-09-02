@@ -3,7 +3,6 @@ author: court
 date: 2007-11-21 18:54:24+00:00
 draft: false
 title: Whit's Home Again
-type: post
 url: /blog/2007/11/21/whits-home-again/
 categories:
 - Family News

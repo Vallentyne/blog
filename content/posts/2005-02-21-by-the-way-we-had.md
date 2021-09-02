@@ -3,7 +3,6 @@ author: court
 date: 2005-02-21 16:16:00+00:00
 draft: false
 title: By the way, we had
-type: post
 url: /blog/2005/02/21/by-the-way-we-had/
 categories:
 - Tech

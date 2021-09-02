@@ -3,7 +3,6 @@ author: court
 date: 2007-01-26 17:23:17+00:00
 draft: false
 title: Weekend Tech
-type: post
 url: /blog/2007/01/26/weekend-tech/
 categories:
 - Tech

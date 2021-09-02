@@ -3,7 +3,6 @@ author: court
 date: 2010-01-27 12:55:04+00:00
 draft: false
 title: 'This just in: Ottawa Valley folks are fat and unhealthy'
-type: post
 url: /blog/2010/01/27/this-just-in-ottawa-valley-folks-are-fat-and-unhealthy/
 categories:
 - Stupidity

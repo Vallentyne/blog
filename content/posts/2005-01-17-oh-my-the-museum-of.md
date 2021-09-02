@@ -3,7 +3,6 @@ author: court
 date: 2005-01-17 22:37:30+00:00
 draft: false
 title: Oh my. The Museum of
-type: post
 url: /blog/2005/01/17/oh-my-the-museum-of/
 categories:
 - Culture

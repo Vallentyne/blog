@@ -3,7 +3,6 @@ author: court
 date: 2006-08-11 01:34:42+00:00
 draft: false
 title: Terrorism Shmerrorism
-type: post
 url: /blog/2006/08/11/terrorism-shmerrorism/
 categories:
 - News

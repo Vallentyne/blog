@@ -3,7 +3,6 @@ author: court
 date: 2007-06-21 17:04:44+00:00
 draft: false
 title: Viral Hamster
-type: post
 url: /blog/2007/06/21/viral-hamster/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2012-07-17 20:30:22+00:00
 draft: false
 title: Heat Ledger
-type: post
 url: /blog/2012/07/17/heat-ledger/
 categories:
 - Home Improvements

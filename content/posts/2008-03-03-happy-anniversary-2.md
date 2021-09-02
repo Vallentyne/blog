@@ -3,7 +3,6 @@ author: court
 date: 2008-03-03 15:18:59+00:00
 draft: false
 title: Happy Anniversary
-type: post
 url: /blog/2008/03/03/happy-anniversary-2/
 categories:
 - News

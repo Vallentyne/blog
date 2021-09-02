@@ -3,7 +3,6 @@ author: court
 date: 2009-09-04 12:45:43+00:00
 draft: false
 title: Johnnie Walker Stroll Through Time
-type: post
 url: /blog/2009/09/04/johnnie-walker-stroll-through-time/
 categories:
 - Video Diversions

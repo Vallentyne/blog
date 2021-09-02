@@ -3,7 +3,6 @@ author: court
 date: 2005-07-19 11:54:19+00:00
 draft: false
 title: Week of Living Quietly
-type: post
 url: /blog/2005/07/19/week-of-living-quietly/
 categories:
 - Family News

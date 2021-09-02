@@ -3,7 +3,6 @@ author: court
 date: 2003-09-24 12:15:17+00:00
 draft: false
 title: Ok, so I hope I
-type: post
 url: /blog/2003/09/24/ok-so-i-hope-i/
 categories:
 - News

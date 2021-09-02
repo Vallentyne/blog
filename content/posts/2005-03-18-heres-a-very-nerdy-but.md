@@ -3,7 +3,6 @@ author: court
 date: 2005-03-18 11:10:00+00:00
 draft: false
 title: Here's a very nerdy but
-type: post
 url: /blog/2005/03/18/heres-a-very-nerdy-but/
 categories:
 - News

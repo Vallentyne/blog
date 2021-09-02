@@ -3,7 +3,6 @@ author: court
 date: 2005-11-17 09:48:56+00:00
 draft: false
 title: Alright, who are these "scientists" anyway?
-type: post
 url: /blog/2005/11/17/alright-who-are-these-scientists-anyway/
 categories:
 - Stupidity

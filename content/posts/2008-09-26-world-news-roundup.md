@@ -3,7 +3,6 @@ author: court
 date: 2008-09-26 17:45:13+00:00
 draft: false
 title: World News Roundup
-type: post
 url: /blog/2008/09/26/world-news-roundup/
 categories:
 - News

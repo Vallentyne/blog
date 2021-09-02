@@ -3,7 +3,6 @@ author: court
 date: 2012-11-12 01:27:10+00:00
 draft: false
 title: St Bernard doesn't like stairs
-type: post
 url: /blog/2012/11/11/st-bernard-doesnt-like-stairs/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2006-09-21 19:32:03+00:00
 draft: false
 title: Early Mornings
-type: post
 url: /blog/2006/09/21/early-mornings/
 categories:
 - Family News

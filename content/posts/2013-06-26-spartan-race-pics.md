@@ -3,7 +3,6 @@ author: court
 date: 2013-06-26 14:41:03+00:00
 draft: false
 title: Spartan Race Pics
-type: post
 url: /blog/2013/06/26/spartan-race-pics/
 categories:
 - Running

@@ -3,7 +3,6 @@ author: court
 date: 2009-01-08 20:49:40+00:00
 draft: false
 title: Bus Strike - Again
-type: post
 url: /blog/2009/01/08/bus-strike-again/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2007-09-27 16:58:48+00:00
 draft: false
 title: Testing out a new theme today
-type: post
 url: /blog/2007/09/27/testing-out-a-new-theme-today/
 categories:
 - Tech

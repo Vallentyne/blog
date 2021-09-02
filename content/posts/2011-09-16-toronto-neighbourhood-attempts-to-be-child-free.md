@@ -3,7 +3,6 @@ author: court
 date: 2011-09-16 19:59:19+00:00
 draft: false
 title: Toronto Neighbourhood Attempts to be Child-Free
-type: post
 url: /blog/2011/09/16/toronto-neighbourhood-attempts-to-be-child-free/
 categories:
 - Apocalypse Soon

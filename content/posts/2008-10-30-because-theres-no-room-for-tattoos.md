@@ -3,7 +3,6 @@ author: court
 date: 2008-10-30 12:00:19+00:00
 draft: false
 title: Because there's no room for tattoos...
-type: post
 url: /blog/2008/10/30/because-theres-no-room-for-tattoos/
 categories:
 - News

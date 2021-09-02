@@ -3,7 +3,6 @@ author: court
 date: 2009-08-21 10:00:49+00:00
 draft: false
 title: CrappyTaxidermy.com is the best site on the Internet
-type: post
 url: /blog/2009/08/21/crappytaxidermy-com-is-the-best-site-on-the-internet/
 categories:
 - Culture

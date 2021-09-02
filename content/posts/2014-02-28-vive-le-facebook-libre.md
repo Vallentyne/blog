@@ -3,7 +3,6 @@ author: court
 date: 2014-02-28 18:11:08+00:00
 draft: false
 title: Vive le Facebook libre?
-type: post
 url: /blog/2014/02/28/vive-le-facebook-libre/
 categories:
 - Culture

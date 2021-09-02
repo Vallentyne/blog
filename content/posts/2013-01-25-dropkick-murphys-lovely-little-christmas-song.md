@@ -3,7 +3,6 @@ author: court
 date: 2013-01-25 20:28:57+00:00
 draft: false
 title: Dropkick Murphys' lovely little Christmas Song
-type: post
 url: /blog/2013/01/25/dropkick-murphys-lovely-little-christmas-song/
 categories:
 - Culture

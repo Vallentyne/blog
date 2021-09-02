@@ -3,7 +3,6 @@ author: court
 date: 2012-11-10 13:35:18+00:00
 draft: false
 title: Hootsuite Privacy Fail
-type: post
 url: /blog/2012/11/10/hootsuite-privacy-fail/
 categories:
 - News

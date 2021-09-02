@@ -3,7 +3,6 @@ author: court
 date: 2006-03-13 13:38:01+00:00
 draft: false
 title: Heart bypass?  I'll take two.
-type: post
 url: /blog/2006/03/13/heart-bypass-ill-take-two/
 categories:
 - Family News

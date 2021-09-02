@@ -3,7 +3,6 @@ author: court
 date: 2004-10-18 14:02:36+00:00
 draft: false
 title: Hey, you know what? We
-type: post
 url: /blog/2004/10/18/hey-you-know-what-we/
 categories:
 - Family News

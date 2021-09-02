@@ -3,7 +3,6 @@ author: court
 date: 2004-09-13 14:41:16+00:00
 draft: false
 title: The link was down when
-type: post
 url: /blog/2004/09/13/the-link-was-down-when/
 categories:
 - Tech

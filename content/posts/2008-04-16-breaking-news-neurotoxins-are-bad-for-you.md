@@ -3,7 +3,6 @@ author: court
 date: 2008-04-16 18:56:17+00:00
 draft: false
 title: 'Breaking News: Neurotoxins are bad for you'
-type: post
 url: /blog/2008/04/16/breaking-news-neurotoxins-are-bad-for-you/
 categories:
 - Culture

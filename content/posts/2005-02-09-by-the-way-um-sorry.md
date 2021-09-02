@@ -3,7 +3,6 @@ author: court
 date: 2005-02-09 16:20:57+00:00
 draft: false
 title: By the way, um, sorry
-type: post
 url: /blog/2005/02/09/by-the-way-um-sorry/
 categories:
 - Family News

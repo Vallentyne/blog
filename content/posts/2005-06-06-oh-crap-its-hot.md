@@ -3,7 +3,6 @@ author: court
 date: 2005-06-06 15:59:29+00:00
 draft: false
 title: Oh crap it's hot.
-type: post
 url: /blog/2005/06/06/oh-crap-its-hot/
 categories:
 - Family News

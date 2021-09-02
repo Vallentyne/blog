@@ -3,7 +3,6 @@ author: court
 date: 2003-03-06 18:53:08+00:00
 draft: false
 title: Random Rambling's.....you just opened a
-type: post
 url: /blog/2003/03/06/random-ramblingsyou-just-opened-a/
 categories:
 - Family News

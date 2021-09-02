@@ -3,7 +3,6 @@ author: court
 date: 2008-08-08 11:49:12+00:00
 draft: false
 title: Take the fun
-type: post
 url: /blog/2008/08/08/take-the-fun/
 categories:
 - Family News

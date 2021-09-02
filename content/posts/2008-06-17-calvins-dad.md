@@ -3,7 +3,6 @@ author: court
 date: 2008-06-17 19:53:12+00:00
 draft: false
 title: Calvin's Dad
-type: post
 url: /blog/2008/06/17/calvins-dad/
 categories:
 - Culture

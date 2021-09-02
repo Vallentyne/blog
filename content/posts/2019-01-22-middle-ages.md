@@ -3,7 +3,6 @@ author: court
 date: 2019-01-22 19:30:17+00:00
 draft: false
 title: Middle Ages
-type: post
 url: /blog/2019/01/22/middle-ages/
 categories:
 - Stupidity

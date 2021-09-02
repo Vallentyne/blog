@@ -3,7 +3,6 @@ author: court
 date: 2010-12-01 20:40:33+00:00
 draft: false
 title: LEGO, Star Wars, and Christmas
-type: post
 url: /blog/2010/12/01/lego-star-wars-and-christmas/
 categories:
 - Family News

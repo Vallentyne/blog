@@ -3,7 +3,6 @@ author: court
 date: 2003-06-02 11:08:30+00:00
 draft: false
 title: Speaking of out of date
-type: post
 url: /blog/2003/06/02/speaking-of-out-of-date/
 categories:
 - Family News

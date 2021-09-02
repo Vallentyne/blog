@@ -3,7 +3,6 @@ author: court
 date: 2014-03-21 22:34:06+00:00
 draft: false
 title: The Billy and Jimmy Show
-type: post
 url: /blog/2014/03/21/the-billy-and-jimmy-show/
 categories:
 - Video Diversions

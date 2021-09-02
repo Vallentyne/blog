@@ -3,7 +3,6 @@ author: court
 date: 2010-10-06 18:20:44+00:00
 draft: false
 title: First Choice
-type: post
 url: /blog/2010/10/06/first-choice/
 categories:
 - Family News

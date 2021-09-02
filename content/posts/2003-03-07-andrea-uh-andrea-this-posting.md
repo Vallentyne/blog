@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 11:40:48+00:00
 draft: false
 title: Andrea!... Uh, ANDREA???!?!?!?!?!?!?!?!? This posting
-type: post
 url: /blog/2003/03/07/andrea-uh-andrea-this-posting/
 categories:
 - Family News

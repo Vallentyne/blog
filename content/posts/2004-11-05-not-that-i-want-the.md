@@ -3,7 +3,6 @@ author: court
 date: 2004-11-05 13:26:32+00:00
 draft: false
 title: Not that I want the
-type: post
 url: /blog/2004/11/05/not-that-i-want-the/
 categories:
 - Culture

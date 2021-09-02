@@ -3,7 +3,6 @@ author: court
 date: 2007-01-18 17:43:24+00:00
 draft: false
 title: Skill Testing Question
-type: post
 url: /blog/2007/01/18/skill-testing-question/
 categories:
 - Culture

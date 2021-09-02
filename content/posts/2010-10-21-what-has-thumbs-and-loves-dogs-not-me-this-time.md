@@ -3,7 +3,6 @@ author: court
 date: 2010-10-21 00:53:11+00:00
 draft: false
 title: What has thumbs and loves dogs?  (Not me this time)
-type: post
 url: /blog/2010/10/20/what-has-thumbs-and-loves-dogs-not-me-this-time/
 categories:
 - News

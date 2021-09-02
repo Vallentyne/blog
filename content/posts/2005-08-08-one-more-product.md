@@ -3,7 +3,6 @@ author: court
 date: 2005-08-08 13:02:05+00:00
 draft: false
 title: One more product
-type: post
 url: /blog/2005/08/08/one-more-product/
 categories:
 - Tech

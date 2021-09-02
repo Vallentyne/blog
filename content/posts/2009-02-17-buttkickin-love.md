@@ -3,7 +3,6 @@ author: court
 date: 2009-02-17 13:28:12+00:00
 draft: false
 title: Buttkickin' Love
-type: post
 url: /blog/2009/02/17/buttkickin-love/
 categories:
 - Family News

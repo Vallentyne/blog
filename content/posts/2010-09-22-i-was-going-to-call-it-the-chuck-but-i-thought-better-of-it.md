@@ -3,7 +3,6 @@ author: court
 date: 2010-09-22 19:55:53+00:00
 draft: false
 title: I was going to call it "The Chuck", but I thought better of it...
-type: post
 url: /blog/2010/09/22/i-was-going-to-call-it-the-chuck-but-i-thought-better-of-it/
 categories:
 - Stupidity

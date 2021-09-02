@@ -3,7 +3,6 @@ author: court
 date: 2007-06-14 13:25:58+00:00
 draft: false
 title: The Eagle has landed...
-type: post
 url: /blog/2007/06/14/the-eagle-has-landed/
 categories:
 - Family News

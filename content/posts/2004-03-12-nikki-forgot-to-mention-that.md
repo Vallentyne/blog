@@ -3,7 +3,6 @@ author: court
 date: 2004-03-12 14:49:36+00:00
 draft: false
 title: Nikki forgot to mention that
-type: post
 url: /blog/2004/03/12/nikki-forgot-to-mention-that/
 categories:
 - Family News

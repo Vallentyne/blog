@@ -3,7 +3,6 @@ author: court
 date: 2006-04-19 11:45:40+00:00
 draft: false
 title: 'Video Round Up #3'
-type: post
 url: /blog/2006/04/19/video-round-up-3/
 categories:
 - Culture

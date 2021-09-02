@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 14:23:15+00:00
 draft: false
 title: Yes, I can't wait for
-type: post
 url: /blog/2003/03/19/yes-i-cant-wait-for/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2012-10-09 15:43:43+00:00
 draft: false
 title: Grocery Store Mission Impossible
-type: post
 url: /blog/2012/10/09/grocery-store-mission-impossible/
 categories:
 - Family News

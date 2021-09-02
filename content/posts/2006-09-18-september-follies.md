@@ -3,7 +3,6 @@ author: nikki
 date: 2006-09-18 18:11:09+00:00
 draft: false
 title: September Follies
-type: post
 url: /blog/2006/09/18/september-follies/
 categories:
 - Family News

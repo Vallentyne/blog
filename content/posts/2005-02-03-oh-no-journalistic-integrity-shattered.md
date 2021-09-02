@@ -3,7 +3,6 @@ author: court
 date: 2005-02-03 11:32:18+00:00
 draft: false
 title: OH NO! Journalistic integrity, shattered.
-type: post
 url: /blog/2005/02/03/oh-no-journalistic-integrity-shattered/
 categories:
 - News

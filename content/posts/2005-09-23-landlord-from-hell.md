@@ -3,7 +3,6 @@ author: court
 date: 2005-09-23 12:01:24+00:00
 draft: false
 title: Landlord from hell
-type: post
 url: /blog/2005/09/23/landlord-from-hell/
 categories:
 - Stupidity

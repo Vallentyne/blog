@@ -3,7 +3,6 @@ author: court
 date: 2006-08-15 14:24:14+00:00
 draft: false
 title: YouTube Be Down...
-type: post
 url: /blog/2006/08/15/youtube-be-down/
 categories:
 - Video Diversions

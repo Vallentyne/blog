@@ -3,7 +3,6 @@ author: court
 date: 2009-01-15 18:18:05+00:00
 draft: false
 title: Surgery Checklist
-type: post
 url: /blog/2009/01/15/surgery-checklist/
 categories:
 - News

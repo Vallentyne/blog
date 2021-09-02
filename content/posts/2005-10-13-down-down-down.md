@@ -3,7 +3,6 @@ author: court
 date: 2005-10-13 14:57:52+00:00
 draft: false
 title: Down down down.
-type: post
 url: /blog/2005/10/13/down-down-down/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2003-01-10 16:03:41+00:00
 draft: false
 title: Ok! This should prove more
-type: post
 url: /blog/2003/01/10/ok-this-should-prove-more/
 categories:
 - Family News

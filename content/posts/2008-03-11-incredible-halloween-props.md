@@ -3,7 +3,6 @@ author: court
 date: 2008-03-11 13:40:11+00:00
 draft: false
 title: Incredible Halloween props
-type: post
 url: /blog/2008/03/11/incredible-halloween-props/
 categories:
 - Culture

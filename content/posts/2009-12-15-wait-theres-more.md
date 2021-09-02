@@ -3,7 +3,6 @@ author: court
 date: 2009-12-15 20:11:44+00:00
 draft: false
 title: Wait!  There's More....
-type: post
 url: /blog/2009/12/15/wait-theres-more/
 categories:
 - Family News

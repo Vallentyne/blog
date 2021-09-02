@@ -3,7 +3,6 @@ author: court
 date: 2006-01-19 02:14:00+00:00
 draft: false
 title: Nerd Love Song
-type: post
 url: /blog/2006/01/19/nerd-love-song/
 categories:
 - Tech

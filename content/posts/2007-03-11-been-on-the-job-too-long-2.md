@@ -3,7 +3,6 @@ author: court
 date: 2007-03-11 23:04:36+00:00
 draft: false
 title: Been on the job too long
-type: post
 url: /blog/2007/03/11/been-on-the-job-too-long-2/
 categories:
 - Apocalypse Soon

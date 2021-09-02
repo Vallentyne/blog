@@ -3,7 +3,6 @@ author: court
 date: 2011-12-11 00:04:38+00:00
 draft: false
 title: Amazing Medicine
-type: post
 url: /blog/2011/12/10/amazing-medicine/
 categories:
 - Video Diversions

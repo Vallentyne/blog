@@ -3,7 +3,6 @@ author: court
 date: 2007-10-18 17:19:49+00:00
 draft: false
 title: Halloween Stuff
-type: post
 url: /blog/2007/10/18/halloween-stuff/
 categories:
 - Culture

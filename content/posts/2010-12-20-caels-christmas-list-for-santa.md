@@ -3,7 +3,6 @@ author: court
 date: 2010-12-20 17:19:58+00:00
 draft: false
 title: Cael's Christmas List for Santa
-type: post
 url: /blog/2010/12/20/caels-christmas-list-for-santa/
 categories:
 - Family News

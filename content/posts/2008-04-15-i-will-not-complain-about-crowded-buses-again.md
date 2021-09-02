@@ -3,7 +3,6 @@ author: court
 date: 2008-04-15 00:54:58+00:00
 draft: false
 title: I will not complain about crowded buses again
-type: post
 url: /blog/2008/04/14/i-will-not-complain-about-crowded-buses-again/
 categories:
 - Stupidity

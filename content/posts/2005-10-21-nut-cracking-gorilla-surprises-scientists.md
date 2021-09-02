@@ -3,7 +3,6 @@ author: court
 date: 2005-10-21 10:21:03+00:00
 draft: false
 title: Nut-cracking gorilla surprises scientists
-type: post
 url: /blog/2005/10/21/nut-cracking-gorilla-surprises-scientists/
 categories:
 - Stupidity

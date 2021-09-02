@@ -3,7 +3,6 @@ author: court
 date: 2003-09-19 12:16:13+00:00
 draft: false
 title: Hideyho folks, or should I
-type: post
 url: /blog/2003/09/19/hideyho-folks-or-should-i/
 categories:
 - Culture

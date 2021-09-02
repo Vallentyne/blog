@@ -3,7 +3,6 @@ author: court
 date: 2004-09-03 11:20:48+00:00
 draft: false
 title: Jordy came into work with
-type: post
 url: /blog/2004/09/03/jordy-came-into-work-with/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-04-19 12:13:11+00:00
 draft: false
 title: Armageddon, nerd-style
-type: post
 url: /blog/2005/04/19/armageddon-nerd-style/
 categories:
 - Apocalypse Soon

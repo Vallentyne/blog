@@ -3,7 +3,6 @@ author: court
 date: 2007-08-17 15:17:52+00:00
 draft: false
 title: Dog Day Morning
-type: post
 url: /blog/2007/08/17/dog-day-morning/
 categories:
 - Culture

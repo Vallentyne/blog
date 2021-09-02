@@ -3,7 +3,6 @@ author: court
 date: 2008-10-22 12:00:15+00:00
 draft: false
 title: Hallowindow
-type: post
 url: /blog/2008/10/22/hallowindow/
 categories:
 - Family News

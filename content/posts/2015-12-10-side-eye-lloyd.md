@@ -3,7 +3,6 @@ author: court
 date: 2015-12-10 02:48:01+00:00
 draft: false
 title: Side-eye Lloyd
-type: post
 url: /blog/2015/12/09/side-eye-lloyd/
 categories:
 - Llife with Lloyd

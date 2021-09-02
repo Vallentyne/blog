@@ -3,7 +3,6 @@ author: court
 date: 2011-12-25 16:25:22+00:00
 draft: false
 title: Merry Christmas, Folks
-type: post
 url: /blog/2011/12/25/merry-christmas-folks/
 categories:
 - Llife with Lloyd

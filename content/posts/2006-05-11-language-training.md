@@ -3,7 +3,6 @@ author: court
 date: 2006-05-11 09:10:35+00:00
 draft: false
 title: Language Training
-type: post
 url: /blog/2006/05/11/language-training/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-09-12 13:20:57+00:00
 draft: false
 title: They elected this guy...
-type: post
 url: /blog/2006/09/12/they-elected-this-guy/
 categories:
 - Culture

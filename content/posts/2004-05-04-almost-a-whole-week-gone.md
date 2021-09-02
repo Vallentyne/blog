@@ -3,7 +3,6 @@ author: court
 date: 2004-05-04 16:49:41+00:00
 draft: false
 title: Almost a whole week gone
-type: post
 url: /blog/2004/05/04/almost-a-whole-week-gone/
 categories:
 - Family News

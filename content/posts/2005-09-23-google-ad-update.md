@@ -3,7 +3,6 @@ author: court
 date: 2005-09-23 08:45:17+00:00
 draft: false
 title: Google Ad update
-type: post
 url: /blog/2005/09/23/google-ad-update/
 categories:
 - Tech

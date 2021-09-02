@@ -3,7 +3,6 @@ author: court
 date: 2008-04-08 16:18:02+00:00
 draft: false
 title: Victoria's Bitter indeed
-type: post
 url: /blog/2008/04/08/victorias-bitter-indeed/
 categories:
 - Apocalypse Soon

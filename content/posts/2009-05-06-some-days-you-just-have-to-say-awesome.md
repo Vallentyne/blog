@@ -3,7 +3,6 @@ author: nikki
 date: 2009-05-06 16:20:09+00:00
 draft: false
 title: Some days, you just have to say "Awesome!"
-type: post
 url: /blog/2009/05/06/some-days-you-just-have-to-say-awesome/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-02-23 19:05:19+00:00
 draft: false
 title: Mac Nerdery
-type: post
 url: /blog/2009/02/23/mac-nerdery/
 categories:
 - Tech

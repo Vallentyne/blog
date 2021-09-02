@@ -3,7 +3,6 @@ author: court
 date: 2004-10-06 21:36:30+00:00
 draft: false
 title: Well, to be blunt, this
-type: post
 url: /blog/2004/10/06/well-to-be-blunt-this/
 categories:
 - Tech

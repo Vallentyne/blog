@@ -3,7 +3,6 @@ author: court
 date: 2005-12-22 14:02:12+00:00
 draft: false
 title: Another quasi-sport
-type: post
 url: /blog/2005/12/22/another-quasi-sport/
 categories:
 - Culture

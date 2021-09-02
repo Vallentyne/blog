@@ -3,7 +3,6 @@ author: court
 date: 2004-12-30 11:27:46+00:00
 draft: false
 title: Those Texans have a problem.
-type: post
 url: /blog/2004/12/30/those-texans-have-a-problem/
 categories:
 - News

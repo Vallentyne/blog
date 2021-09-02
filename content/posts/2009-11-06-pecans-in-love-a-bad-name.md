@@ -3,7 +3,6 @@ author: court
 date: 2009-11-06 13:05:25+00:00
 draft: false
 title: Pecans in love, a bad name
-type: post
 url: /blog/2009/11/06/pecans-in-love-a-bad-name/
 categories:
 - VallenQuiz

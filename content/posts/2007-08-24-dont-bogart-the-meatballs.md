@@ -3,7 +3,6 @@ author: court
 date: 2007-08-24 15:57:22+00:00
 draft: false
 title: Don't Bogart the Meatballs
-type: post
 url: /blog/2007/08/24/dont-bogart-the-meatballs/
 categories:
 - News

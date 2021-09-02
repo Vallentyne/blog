@@ -3,7 +3,6 @@ author: court
 date: 2008-03-12 13:35:48+00:00
 draft: false
 title: The Iceman - Not the Top Gun kind
-type: post
 url: /blog/2008/03/12/the-iceman-not-the-top-gun-kind/
 categories:
 - News

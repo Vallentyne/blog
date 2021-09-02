@@ -3,7 +3,6 @@ author: court
 date: 2006-05-05 13:39:59+00:00
 draft: false
 title: A little spooky, a lot fun
-type: post
 url: /blog/2006/05/05/a-little-spooky-a-lot-fun/
 categories:
 - Video Diversions

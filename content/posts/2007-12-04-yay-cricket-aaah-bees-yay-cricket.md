@@ -3,7 +3,6 @@ author: court
 date: 2007-12-04 17:18:53+00:00
 draft: false
 title: Yay Cricket! AAAH Bees! Yay Cricket!
-type: post
 url: /blog/2007/12/04/yay-cricket-aaah-bees-yay-cricket/
 categories:
 - Culture

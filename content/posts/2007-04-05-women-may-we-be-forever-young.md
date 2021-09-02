@@ -3,7 +3,6 @@ author: nikki
 date: 2007-04-05 14:56:35+00:00
 draft: false
 title: Women... may we be forever young.
-type: post
 url: /blog/2007/04/05/women-may-we-be-forever-young/
 categories:
 - News

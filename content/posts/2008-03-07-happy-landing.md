@@ -3,7 +3,6 @@ author: court
 date: 2008-03-07 14:21:13+00:00
 draft: false
 title: Happy Landing
-type: post
 url: /blog/2008/03/07/happy-landing/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2004-12-07 11:03:22+00:00
 draft: false
 title: I saw this yesterday, and
-type: post
 url: /blog/2004/12/07/i-saw-this-yesterday-and/
 categories:
 - Apocalypse Soon

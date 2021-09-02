@@ -3,7 +3,6 @@ author: court
 date: 2006-04-04 10:33:22+00:00
 draft: false
 title: Sea Lions smarter than your average bear
-type: post
 url: /blog/2006/04/04/sea-lions-smarter-than-your-average-bear/
 categories:
 - Apocalypse Soon

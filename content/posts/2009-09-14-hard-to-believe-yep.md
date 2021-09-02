@@ -3,7 +3,6 @@ author: court
 date: 2009-09-14 14:02:42+00:00
 draft: false
 title: Hard to believe? Yep.
-type: post
 url: /blog/2009/09/14/hard-to-believe-yep/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-09-28 18:52:02+00:00
 draft: false
 title: Look, it's always after midnight, and my mogwai is hungry.
-type: post
 url: /blog/2009/09/28/look-its-always-after-midnight-and-my-mogwai-is-hungry/
 categories:
 - Culture

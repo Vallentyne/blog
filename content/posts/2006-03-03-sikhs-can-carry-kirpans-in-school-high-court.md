@@ -3,7 +3,6 @@ author: Wilock
 date: 2006-03-03 12:46:45+00:00
 draft: false
 title: 'Sikhs can carry kirpans in school: high court'
-type: post
 url: /blog/2006/03/03/sikhs-can-carry-kirpans-in-school-high-court/
 categories:
 - Culture

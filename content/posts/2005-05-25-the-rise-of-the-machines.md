@@ -3,7 +3,6 @@ author: court
 date: 2005-05-25 16:02:33+00:00
 draft: false
 title: The Rise of The Machines
-type: post
 url: /blog/2005/05/25/the-rise-of-the-machines/
 categories:
 - Apocalypse Soon

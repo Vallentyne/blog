@@ -3,7 +3,6 @@ author: court
 date: 2008-02-15 14:27:46+00:00
 draft: false
 title: Thermal Thief
-type: post
 url: /blog/2008/02/15/thermal-thief/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2014-04-28 19:08:20+00:00
 draft: false
 title: Beer-Related Airship loose in New Brunswick
-type: post
 url: /blog/2014/04/28/beer-related-airship-loose-in-new-brunswick/
 categories:
 - Culture

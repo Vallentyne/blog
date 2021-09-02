@@ -3,7 +3,6 @@ author: court
 date: 2007-06-18 16:43:00+00:00
 draft: false
 title: Cedar Cove Weekend
-type: post
 url: /blog/2007/06/18/cedar-cove-weekend/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2010-08-17 23:20:36+00:00
 draft: false
 title: Vacuuming is important
-type: post
 url: /blog/2010/08/17/vacuuming-is-important/
 categories:
 - Llife with Lloyd

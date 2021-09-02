@@ -3,7 +3,6 @@ author: court
 date: 2005-05-26 11:53:36+00:00
 draft: false
 title: Song Identification Karaoke
-type: post
 url: /blog/2005/05/26/song-identification-karaoke/
 categories:
 - Tech

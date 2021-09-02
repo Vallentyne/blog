@@ -3,7 +3,6 @@ author: court
 date: 2011-10-21 19:00:27+00:00
 draft: false
 title: Vallentyne Boys Septic Hilarity
-type: post
 url: /blog/2011/10/21/vallentyne-boys-septic-hilarity/
 categories:
 - Family News

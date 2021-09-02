@@ -3,7 +3,6 @@ author: court
 date: 2005-11-04 10:44:09+00:00
 draft: false
 title: Another Birthday Shout Out
-type: post
 url: /blog/2005/11/04/another-birthday-shout-out/
 categories:
 - Family News

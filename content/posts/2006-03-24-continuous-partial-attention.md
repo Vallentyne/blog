@@ -3,7 +3,6 @@ author: court
 date: 2006-03-24 10:19:58+00:00
 draft: false
 title: Continuous Partial Attention
-type: post
 url: /blog/2006/03/24/continuous-partial-attention/
 categories:
 - Tech

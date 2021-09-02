@@ -3,7 +3,6 @@ author: court
 date: 2004-09-10 15:41:26+00:00
 draft: false
 title: There are some new pictures
-type: post
 url: /blog/2004/09/10/there-are-some-new-pictures-2/
 categories:
 - Family News

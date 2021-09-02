@@ -3,7 +3,6 @@ author: court
 date: 2006-01-31 15:40:40+00:00
 draft: false
 title: Pissed off Octopus sends Pointdexters Packing
-type: post
 url: /blog/2006/01/31/pissed-off-octopus-sends-pointdexters-packing/
 categories:
 - Apocalypse Soon

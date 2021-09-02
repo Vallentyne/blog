@@ -3,7 +3,6 @@ author: court
 date: 2003-01-10 15:50:37+00:00
 draft: false
 title: Drat. Here we go again.
-type: post
 url: /blog/2003/01/10/drat-here-we-go-again/
 categories:
 - Tech

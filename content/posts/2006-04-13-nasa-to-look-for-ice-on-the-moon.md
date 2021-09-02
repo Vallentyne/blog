@@ -3,7 +3,6 @@ author: court
 date: 2006-04-13 11:24:35+00:00
 draft: false
 title: NASA To Look for Ice on the Moon
-type: post
 url: /blog/2006/04/13/nasa-to-look-for-ice-on-the-moon/
 categories:
 - News

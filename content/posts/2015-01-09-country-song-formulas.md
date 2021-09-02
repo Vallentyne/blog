@@ -3,7 +3,6 @@ author: court
 date: 2015-01-09 00:49:01+00:00
 draft: false
 title: Country Song Formulas
-type: post
 url: /blog/2015/01/08/country-song-formulas/
 categories:
 - Video Diversions

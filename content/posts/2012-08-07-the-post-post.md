@@ -3,7 +3,6 @@ author: court
 date: 2012-08-07 19:34:05+00:00
 draft: false
 title: The Post Post
-type: post
 url: /blog/2012/08/07/the-post-post/
 categories:
 - Home Improvements

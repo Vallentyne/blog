@@ -3,7 +3,6 @@ author: court
 date: 2010-04-18 22:35:44+00:00
 draft: false
 title: Even more dog-related bloggery
-type: post
 url: /blog/2010/04/18/even-more-dog-related-bloggery/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2006-05-08 09:52:38+00:00
 draft: false
 title: Updated Bodygrooming marketing
-type: post
 url: /blog/2006/05/08/updated-bodygrooming-marketing/
 categories:
 - Stupidity

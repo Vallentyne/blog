@@ -3,7 +3,6 @@ author: court
 date: 2005-05-11 12:30:00+00:00
 draft: false
 title: Cynik.ca Updates
-type: post
 url: /blog/2005/05/11/cynikca-updates/
 categories:
 - News

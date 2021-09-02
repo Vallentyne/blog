@@ -3,7 +3,6 @@ author: court
 date: 2003-03-07 09:16:27+00:00
 draft: false
 title: Just so that everybody gets
-type: post
 url: /blog/2003/03/07/just-so-that-everybody-gets/
 categories:
 - Family News

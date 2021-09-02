@@ -3,7 +3,6 @@ author: court
 date: 2010-04-23 17:13:51+00:00
 draft: false
 title: Exercise does not equal weight loss, but it does help keep it off
-type: post
 url: /blog/2010/04/23/exercise-does-not-equal-weight-loss-but-it-does-help-keep-it-off/
 categories:
 - Running

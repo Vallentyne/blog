@@ -3,7 +3,6 @@ author: court
 date: 2012-11-22 17:37:21+00:00
 draft: false
 title: A Monument to Laziness
-type: post
 url: /blog/2012/11/22/a-monument-to-laziness/
 categories:
 - News

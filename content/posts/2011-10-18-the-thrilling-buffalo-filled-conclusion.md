@@ -3,7 +3,6 @@ author: court
 date: 2011-10-18 17:40:19+00:00
 draft: false
 title: The Thrilling Buffalo-Filled Conclusion
-type: post
 url: /blog/2011/10/18/the-thrilling-buffalo-filled-conclusion/
 categories:
 - Culture

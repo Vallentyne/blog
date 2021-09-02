@@ -3,7 +3,6 @@ author: court
 date: 2007-08-27 18:49:27+00:00
 draft: false
 title: Lunar Eclipse
-type: post
 url: /blog/2007/08/27/lunar-eclipse/
 categories:
 - News

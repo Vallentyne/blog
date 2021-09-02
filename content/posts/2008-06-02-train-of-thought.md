@@ -3,7 +3,6 @@ author: court
 date: 2008-06-02 17:18:54+00:00
 draft: false
 title: Train of Thought
-type: post
 url: /blog/2008/06/02/train-of-thought/
 categories:
 - News

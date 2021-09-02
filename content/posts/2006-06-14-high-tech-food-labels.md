@@ -3,7 +3,6 @@ author: court
 date: 2006-06-14 10:40:17+00:00
 draft: false
 title: High Tech Food Labels
-type: post
 url: /blog/2006/06/14/high-tech-food-labels/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2007-11-19 17:11:16+00:00
 draft: false
 title: 8th Annual Vallentyne Christmas Party
-type: post
 url: /blog/2007/11/19/8th-annual-vallentyne-christmas-party/
 categories:
 - Family News

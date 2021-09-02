@@ -3,7 +3,6 @@ author: court
 date: 2004-06-02 11:40:38+00:00
 draft: false
 title: Hello there. You all know
-type: post
 url: /blog/2004/06/02/hello-there-you-all-know/
 categories:
 - Culture

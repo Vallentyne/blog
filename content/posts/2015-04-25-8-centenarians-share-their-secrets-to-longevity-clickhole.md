@@ -3,7 +3,6 @@ author: court
 date: 2015-04-25 03:44:30+00:00
 draft: false
 title: 8 Centenarians Share Their Secrets To Longevity | ClickHole
-type: post
 url: /blog/2015/04/24/8-centenarians-share-their-secrets-to-longevity-clickhole/
 categories:
 - News

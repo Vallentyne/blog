@@ -3,7 +3,6 @@ author: court
 date: 2007-02-09 20:15:03+00:00
 draft: false
 title: Spam names are better than real names
-type: post
 url: /blog/2007/02/09/spam-names-are-better-than-real-names/
 categories:
 - Stupidity

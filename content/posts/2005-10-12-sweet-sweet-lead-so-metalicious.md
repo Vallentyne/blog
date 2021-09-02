@@ -3,7 +3,6 @@ author: court
 date: 2005-10-12 11:54:31+00:00
 draft: false
 title: Sweet sweet lead, so metalicious
-type: post
 url: /blog/2005/10/12/sweet-sweet-lead-so-metalicious/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2007-06-28 15:25:19+00:00
 draft: false
 title: Zipline Fun
-type: post
 url: /blog/2007/06/28/zipline-fun/
 categories:
 - Family News

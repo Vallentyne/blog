@@ -3,7 +3,6 @@ author: court
 date: 2009-09-19 03:44:05+00:00
 draft: false
 title: Entrapment
-type: post
 url: /blog/2009/09/18/entrapment/
 categories:
 - Llife with Lloyd

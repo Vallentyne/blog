@@ -3,7 +3,6 @@ author: court
 date: 2005-01-10 13:05:51+00:00
 draft: false
 title: Thanks honey for the praise.
-type: post
 url: /blog/2005/01/10/thanks-honey-for-the-praise/
 categories:
 - Family News

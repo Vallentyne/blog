@@ -3,7 +3,6 @@ author: court
 date: 2006-06-08 12:30:54+00:00
 draft: false
 title: Giant Hornets, yes, but I call them "Sir"
-type: post
 url: /blog/2006/06/08/giant-hornets-yes-but-i-call-them-sir/
 categories:
 - Apocalypse Soon

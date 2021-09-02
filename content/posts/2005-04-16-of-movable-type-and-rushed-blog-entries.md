@@ -3,7 +3,6 @@ author: court
 date: 2005-04-16 10:14:11+00:00
 draft: false
 title: Of Movable Type and rushed blog entries
-type: post
 url: /blog/2005/04/16/of-movable-type-and-rushed-blog-entries/
 categories:
 - Family News

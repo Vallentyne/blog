@@ -3,7 +3,6 @@ author: court
 date: 2008-01-04 16:12:12+00:00
 draft: false
 title: On the further dumbening of the race
-type: post
 url: /blog/2008/01/04/on-the-further-dumbening-of-the-race/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2007-06-06 17:11:33+00:00
 draft: false
 title: Booze News
-type: post
 url: /blog/2007/06/06/booze-news/
 categories:
 - Culture

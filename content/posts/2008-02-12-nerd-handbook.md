@@ -3,7 +3,6 @@ author: court
 date: 2008-02-12 14:05:40+00:00
 draft: false
 title: Nerd Handbook
-type: post
 url: /blog/2008/02/12/nerd-handbook/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2010-06-14 23:33:00+00:00
 draft: false
 title: The Power of Time
-type: post
 url: /blog/2010/06/14/the-power-of-time/
 categories:
 - Culture

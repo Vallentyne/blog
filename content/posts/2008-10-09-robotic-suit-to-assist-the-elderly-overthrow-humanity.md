@@ -3,7 +3,6 @@ author: court
 date: 2008-10-09 12:00:28+00:00
 draft: false
 title: Robotic Suit to assist the elderly, overthrow humanity
-type: post
 url: /blog/2008/10/09/robotic-suit-to-assist-the-elderly-overthrow-humanity/
 categories:
 - Apocalypse Soon

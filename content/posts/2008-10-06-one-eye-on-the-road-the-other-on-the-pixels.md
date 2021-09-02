@@ -3,7 +3,6 @@ author: court
 date: 2008-10-06 20:39:24+00:00
 draft: false
 title: One eye on the road, the other on the pixels
-type: post
 url: /blog/2008/10/06/one-eye-on-the-road-the-other-on-the-pixels/
 categories:
 - News

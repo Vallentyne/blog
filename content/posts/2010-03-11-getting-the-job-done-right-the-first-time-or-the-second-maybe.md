@@ -3,7 +3,6 @@ author: court
 date: 2010-03-11 19:25:28+00:00
 draft: false
 title: Getting the job done right, the first time.  Or the second, maybe.
-type: post
 url: /blog/2010/03/11/getting-the-job-done-right-the-first-time-or-the-second-maybe/
 categories:
 - Stupidity

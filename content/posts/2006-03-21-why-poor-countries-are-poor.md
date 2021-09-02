@@ -3,7 +3,6 @@ author: court
 date: 2006-03-21 08:40:44+00:00
 draft: false
 title: Why Poor Countries are Poor
-type: post
 url: /blog/2006/03/21/why-poor-countries-are-poor/
 categories:
 - Culture

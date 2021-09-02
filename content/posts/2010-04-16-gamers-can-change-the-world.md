@@ -3,7 +3,6 @@ author: court
 date: 2010-04-16 18:37:50+00:00
 draft: false
 title: Gamers can change the world
-type: post
 url: /blog/2010/04/16/gamers-can-change-the-world/
 categories:
 - Video Diversions

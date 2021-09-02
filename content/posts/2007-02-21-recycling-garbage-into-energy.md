@@ -3,7 +3,6 @@ author: court
 date: 2007-02-21 02:29:21+00:00
 draft: false
 title: Recycling garbage into energy
-type: post
 url: /blog/2007/02/20/recycling-garbage-into-energy/
 categories:
 - Apocalypse Soon

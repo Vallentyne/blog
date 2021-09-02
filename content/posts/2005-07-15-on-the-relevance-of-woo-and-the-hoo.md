@@ -3,7 +3,6 @@ author: court
 date: 2005-07-15 15:57:38+00:00
 draft: false
 title: On the relevance of Woo and the Hoo
-type: post
 url: /blog/2005/07/15/on-the-relevance-of-woo-and-the-hoo/
 categories:
 - Culture

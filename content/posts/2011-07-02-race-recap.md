@@ -3,7 +3,6 @@ author: court
 date: 2011-07-02 15:26:16+00:00
 draft: false
 title: Race Recap
-type: post
 url: /blog/2011/07/02/race-recap/
 categories:
 - Running

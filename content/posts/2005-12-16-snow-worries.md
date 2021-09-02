@@ -3,7 +3,6 @@ author: court
 date: 2005-12-16 09:32:05+00:00
 draft: false
 title: Snow Worries
-type: post
 url: /blog/2005/12/16/snow-worries/
 categories:
 - Family News

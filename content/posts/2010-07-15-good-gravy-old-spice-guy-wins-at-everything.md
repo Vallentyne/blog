@@ -3,7 +3,6 @@ author: court
 date: 2010-07-15 15:54:15+00:00
 draft: false
 title: Good Gravy, Old Spice Guy Wins at Everything
-type: post
 url: /blog/2010/07/15/good-gravy-old-spice-guy-wins-at-everything/
 categories:
 - Culture

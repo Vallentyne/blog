@@ -3,7 +3,6 @@ author: court
 date: 2009-09-09 16:38:47+00:00
 draft: false
 title: Ok, one more running post
-type: post
 url: /blog/2009/09/09/ok-one-more-running-post/
 categories:
 - Running

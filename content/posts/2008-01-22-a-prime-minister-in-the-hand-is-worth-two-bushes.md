@@ -3,7 +3,6 @@ author: court
 date: 2008-01-22 15:58:18+00:00
 draft: false
 title: A Prime Minister in the Hand is Worth Two Bushes
-type: post
 url: /blog/2008/01/22/a-prime-minister-in-the-hand-is-worth-two-bushes/
 categories:
 - News

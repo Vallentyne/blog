@@ -3,7 +3,6 @@ author: court
 date: 2004-05-21 15:02:24+00:00
 draft: false
 title: Happy Birthday to Quinn. We
-type: post
 url: /blog/2004/05/21/happy-birthday-to-quinn-we/
 categories:
 - Family News

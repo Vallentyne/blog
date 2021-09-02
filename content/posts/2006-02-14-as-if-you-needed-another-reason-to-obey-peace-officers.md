@@ -3,7 +3,6 @@ author: court
 date: 2006-02-14 09:24:32+00:00
 draft: false
 title: As if you needed another reason to obey peace officers
-type: post
 url: /blog/2006/02/14/as-if-you-needed-another-reason-to-obey-peace-officers/
 categories:
 - News

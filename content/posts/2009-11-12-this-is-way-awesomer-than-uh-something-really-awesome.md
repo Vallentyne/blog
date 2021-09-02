@@ -3,7 +3,6 @@ author: court
 date: 2009-11-12 19:13:38+00:00
 draft: false
 title: This is way awesomer than, uh, something really awesome.
-type: post
 url: /blog/2009/11/12/this-is-way-awesomer-than-uh-something-really-awesome/
 categories:
 - Culture

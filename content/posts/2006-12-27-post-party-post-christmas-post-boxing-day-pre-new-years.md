@@ -3,7 +3,6 @@ author: court
 date: 2006-12-27 17:59:48+00:00
 draft: false
 title: Post Party, Post Christmas, Post Boxing Day, Pre New Years
-type: post
 url: /blog/2006/12/27/post-party-post-christmas-post-boxing-day-pre-new-years/
 categories:
 - Family News

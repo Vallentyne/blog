@@ -3,7 +3,6 @@ author: court
 date: 2003-06-06 12:47:18+00:00
 draft: false
 title: I whole-heartedly agree with Court
-type: post
 url: /blog/2003/06/06/i-whole-heartedly-agree-with-court/
 categories:
 - Family News

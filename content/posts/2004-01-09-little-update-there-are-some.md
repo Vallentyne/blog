@@ -3,7 +3,6 @@ author: court
 date: 2004-01-09 21:49:34+00:00
 draft: false
 title: Little update, there are some
-type: post
 url: /blog/2004/01/09/little-update-there-are-some/
 categories:
 - Family News

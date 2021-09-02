@@ -3,7 +3,6 @@ author: court
 date: 2014-01-08 17:19:18+00:00
 draft: false
 title: Belated Happy Birthday to Cael
-type: post
 url: /blog/2014/01/08/belated-happy-birthday-to-cael/
 categories:
 - Family News

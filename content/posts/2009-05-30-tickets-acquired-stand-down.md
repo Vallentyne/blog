@@ -3,7 +3,6 @@ author: court
 date: 2009-05-30 14:39:48+00:00
 draft: false
 title: Tickets Acquired, stand down!
-type: post
 url: /blog/2009/05/30/tickets-acquired-stand-down/
 categories:
 - Family News

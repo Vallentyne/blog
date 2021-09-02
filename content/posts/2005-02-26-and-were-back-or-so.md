@@ -3,7 +3,6 @@ author: court
 date: 2005-02-26 16:12:00+00:00
 draft: false
 title: '...And we''re back. Or so'
-type: post
 url: /blog/2005/02/26/and-were-back-or-so/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2009-01-16 12:00:39+00:00
 draft: false
 title: Bus Strike, Day too fricking many
-type: post
 url: /blog/2009/01/16/bus-strike-day-too-fricking-many/
 categories:
 - News

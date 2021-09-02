@@ -3,7 +3,6 @@ author: court
 date: 2004-02-25 11:36:02+00:00
 draft: false
 title: Well that was painful. Five
-type: post
 url: /blog/2004/02/25/well-that-was-painful-five/
 categories:
 - Family News

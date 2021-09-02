@@ -3,7 +3,6 @@ author: court
 date: 2016-01-11 15:32:54+00:00
 draft: false
 title: Old timer discovers Podcasts, shakes stick
-type: post
 url: /blog/2016/01/11/old-timer-discovers-podcasts-shakes-stick/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2007-02-17 14:45:34+00:00
 draft: false
 title: Ever had one of those days?
-type: post
 url: /blog/2007/02/17/ever-had-one-of-those-days/
 categories:
 - Family News

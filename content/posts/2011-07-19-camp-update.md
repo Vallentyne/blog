@@ -3,7 +3,6 @@ author: court
 date: 2011-07-19 13:58:19+00:00
 draft: false
 title: Camp Update
-type: post
 url: /blog/2011/07/19/camp-update/
 categories:
 - Family News

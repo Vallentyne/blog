@@ -3,7 +3,6 @@ author: court
 date: 2016-09-15 20:10:08+00:00
 draft: false
 title: The Grounds Cafe
-type: post
 url: /blog/2016/09/15/the-grounds-cafe/
 categories:
 - News

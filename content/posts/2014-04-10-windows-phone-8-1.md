@@ -3,7 +3,6 @@ author: court
 date: 2014-04-10 17:52:52+00:00
 draft: false
 title: Windows Phone 8.1
-type: post
 url: /blog/2014/04/10/windows-phone-8-1/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2016-12-22 14:10:02+00:00
 draft: false
 title: Statistically (and actually) Happy
-type: post
 url: /blog/2016/12/22/statistically-and-actually-happy/
 categories:
 - Culture

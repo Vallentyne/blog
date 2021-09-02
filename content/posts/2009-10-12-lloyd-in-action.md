@@ -3,7 +3,6 @@ author: court
 date: 2009-10-12 14:41:59+00:00
 draft: false
 title: Lloyd in Action
-type: post
 url: /blog/2009/10/12/lloyd-in-action/
 categories:
 - Llife with Lloyd

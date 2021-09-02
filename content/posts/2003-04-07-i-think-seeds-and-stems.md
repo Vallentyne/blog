@@ -3,7 +3,6 @@ author: court
 date: 2003-04-07 12:29:04+00:00
 draft: false
 title: I think "Seeds and Stems"
-type: post
 url: /blog/2003/04/07/i-think-seeds-and-stems/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2006-03-06 14:36:25+00:00
 draft: false
 title: New Note to Self
-type: post
 url: /blog/2006/03/06/new-note-to-self/
 categories:
 - Culture

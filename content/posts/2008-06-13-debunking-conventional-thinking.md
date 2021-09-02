@@ -3,7 +3,6 @@ author: court
 date: 2008-06-13 15:08:55+00:00
 draft: false
 title: Debunking Conventional Thinking
-type: post
 url: /blog/2008/06/13/debunking-conventional-thinking/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2010-08-13 16:14:06+00:00
 draft: false
 title: Huge heads not just good for smashing against things....
-type: post
 url: /blog/2010/08/13/huge-heads-not-just-good-for-smashing-against-things/
 categories:
 - Scientifica

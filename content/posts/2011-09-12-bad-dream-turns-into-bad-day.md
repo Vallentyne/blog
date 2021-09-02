@@ -3,7 +3,6 @@ author: court
 date: 2011-09-12 19:03:35+00:00
 draft: false
 title: Bad Dream Turns Into Bad Day
-type: post
 url: /blog/2011/09/12/bad-dream-turns-into-bad-day/
 categories:
 - News

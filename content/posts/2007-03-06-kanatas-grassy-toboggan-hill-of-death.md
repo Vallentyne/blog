@@ -3,7 +3,6 @@ author: court
 date: 2007-03-06 18:11:01+00:00
 draft: false
 title: Kanata's Grassy Toboggan Hill of Death
-type: post
 url: /blog/2007/03/06/kanatas-grassy-toboggan-hill-of-death/
 categories:
 - Family News

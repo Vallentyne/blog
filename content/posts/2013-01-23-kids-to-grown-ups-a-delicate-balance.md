@@ -3,7 +3,6 @@ author: nikki
 date: 2013-01-23 20:10:41+00:00
 draft: false
 title: Kids to Grown Ups - A Delicate Balance
-type: post
 url: /blog/2013/01/23/kids-to-grown-ups-a-delicate-balance/
 categories:
 - News

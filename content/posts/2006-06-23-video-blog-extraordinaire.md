@@ -3,7 +3,6 @@ author: court
 date: 2006-06-23 15:13:17+00:00
 draft: false
 title: Video Blog Extraordinaire
-type: post
 url: /blog/2006/06/23/video-blog-extraordinaire/
 categories:
 - Culture

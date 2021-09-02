@@ -3,7 +3,6 @@ author: court
 date: 2005-01-10 10:43:31+00:00
 draft: false
 title: Here's some proof that Nikki
-type: post
 url: /blog/2005/01/10/heres-some-proof-that-nikki/
 categories:
 - Family News

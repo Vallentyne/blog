@@ -3,7 +3,6 @@ author: court
 date: 2006-07-10 15:10:34+00:00
 draft: false
 title: I give up! Uncle, mercy, whatever.
-type: post
 url: /blog/2006/07/10/i-give-up-uncle-mercy-whatever/
 categories:
 - Family News

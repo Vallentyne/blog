@@ -3,7 +3,6 @@ author: court
 date: 2009-02-13 11:25:23+00:00
 draft: false
 title: Fit as a Fiddle
-type: post
 url: /blog/2009/02/13/fit-as-a-fiddle/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2009-12-16 12:00:23+00:00
 draft: false
 title: A Day in the Life....
-type: post
 url: /blog/2009/12/16/a-day-in-the-life/
 categories:
 - Tech

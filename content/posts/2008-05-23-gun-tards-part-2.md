@@ -3,7 +3,6 @@ author: court
 date: 2008-05-23 18:33:14+00:00
 draft: false
 title: Gun-tards, Part 2
-type: post
 url: /blog/2008/05/23/gun-tards-part-2/
 categories:
 - News

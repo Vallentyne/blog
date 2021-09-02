@@ -3,7 +3,6 @@ author: court
 date: 2005-11-21 15:30:50+00:00
 draft: false
 title: I'd like to see the Penn and Teller explanation for this one
-type: post
 url: /blog/2005/11/21/id-like-to-see-the-penn-and-teller-explanation-for-this-one/
 categories:
 - Culture

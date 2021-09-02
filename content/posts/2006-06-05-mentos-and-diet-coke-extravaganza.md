@@ -3,7 +3,6 @@ author: court
 date: 2006-06-05 15:41:30+00:00
 draft: false
 title: Mentos and Diet Coke Extravaganza
-type: post
 url: /blog/2006/06/05/mentos-and-diet-coke-extravaganza/
 categories:
 - Stupidity

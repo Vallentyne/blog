@@ -3,7 +3,6 @@ author: court
 date: 2004-09-13 13:53:06+00:00
 draft: false
 title: I'm at home today since
-type: post
 url: /blog/2004/09/13/im-at-home-today-since/
 categories:
 - Stupidity

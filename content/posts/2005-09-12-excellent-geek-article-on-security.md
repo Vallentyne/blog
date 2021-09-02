@@ -3,7 +3,6 @@ author: court
 date: 2005-09-12 23:04:08+00:00
 draft: false
 title: Excellent Geek Article on Security
-type: post
 url: /blog/2005/09/12/excellent-geek-article-on-security/
 categories:
 - Tech

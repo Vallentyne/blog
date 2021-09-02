@@ -3,7 +3,6 @@ author: court
 date: 2010-09-08 16:35:13+00:00
 draft: false
 title: How to alienate your neighbours
-type: post
 url: /blog/2010/09/08/how-to-alienate-your-neighbours/
 categories:
 - News

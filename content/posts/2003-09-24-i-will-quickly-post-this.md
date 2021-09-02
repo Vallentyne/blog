@@ -3,7 +3,6 @@ author: court
 date: 2003-09-24 23:11:30+00:00
 draft: false
 title: I will quickly post this
-type: post
 url: /blog/2003/09/24/i-will-quickly-post-this/
 categories:
 - Culture

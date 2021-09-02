@@ -3,7 +3,6 @@ author: court
 date: 2003-04-11 11:03:40+00:00
 draft: false
 title: Well, without compromising the poor
-type: post
 url: /blog/2003/04/11/well-without-compromising-the-poor/
 categories:
 - Family News

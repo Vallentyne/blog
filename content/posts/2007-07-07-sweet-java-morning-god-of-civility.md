@@ -3,7 +3,6 @@ author: court
 date: 2007-07-07 01:13:03+00:00
 draft: false
 title: Sweet Java, Morning God of Civility
-type: post
 url: /blog/2007/07/06/sweet-java-morning-god-of-civility/
 categories:
 - Culture

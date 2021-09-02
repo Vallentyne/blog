@@ -3,7 +3,6 @@ author: court
 date: 2014-08-14 14:26:07+00:00
 draft: false
 title: Football Update
-type: post
 url: /blog/2014/08/14/football-update/
 categories:
 - Are you ready for some football?

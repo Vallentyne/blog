@@ -3,7 +3,6 @@ author: court
 date: 2008-01-11 16:07:21+00:00
 draft: false
 title: Einsteins Try to Cash Dead Buddy's Cheque
-type: post
 url: /blog/2008/01/11/einsteins-try-to-cash-dead-buddys-cheque/
 categories:
 - News

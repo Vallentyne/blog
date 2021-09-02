@@ -3,7 +3,6 @@ author: court
 date: 2012-04-05 20:50:37+00:00
 draft: false
 title: The Anti-anti-bullying efforts by US Christian Right-wingers
-type: post
 url: /blog/2012/04/05/the-anti-anti-bullying-efforts-by-us-christian-right-wingers/
 categories:
 - Stupidity

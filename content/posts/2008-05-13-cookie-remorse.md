@@ -3,7 +3,6 @@ author: court
 date: 2008-05-13 13:03:46+00:00
 draft: false
 title: Cookie Remorse
-type: post
 url: /blog/2008/05/13/cookie-remorse/
 categories:
 - Culture

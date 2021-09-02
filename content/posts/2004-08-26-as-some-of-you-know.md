@@ -3,7 +3,6 @@ author: court
 date: 2004-08-26 14:51:51+00:00
 draft: false
 title: As some of you know
-type: post
 url: /blog/2004/08/26/as-some-of-you-know/
 categories:
 - Tech

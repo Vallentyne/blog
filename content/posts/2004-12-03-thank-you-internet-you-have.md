@@ -3,7 +3,6 @@ author: court
 date: 2004-12-03 13:27:50+00:00
 draft: false
 title: Thank you, Internet. You have
-type: post
 url: /blog/2004/12/03/thank-you-internet-you-have/
 categories:
 - Culture

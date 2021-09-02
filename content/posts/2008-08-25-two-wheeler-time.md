@@ -3,7 +3,6 @@ author: court
 date: 2008-08-25 16:44:52+00:00
 draft: false
 title: Two wheeler time
-type: post
 url: /blog/2008/08/25/two-wheeler-time/
 categories:
 - Family News

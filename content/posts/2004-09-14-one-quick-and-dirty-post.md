@@ -3,7 +3,6 @@ author: court
 date: 2004-09-14 15:59:30+00:00
 draft: false
 title: One quick (and dirty) post
-type: post
 url: /blog/2004/09/14/one-quick-and-dirty-post/
 categories:
 - Family News

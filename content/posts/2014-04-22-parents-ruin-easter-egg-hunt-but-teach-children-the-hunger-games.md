@@ -3,7 +3,6 @@ author: court
 date: 2014-04-22 19:30:21+00:00
 draft: false
 title: Parents ruin Easter Egg Hunt, but teach children the Hunger Games
-type: post
 url: /blog/2014/04/22/parents-ruin-easter-egg-hunt-but-teach-children-the-hunger-games/
 categories:
 - Stupidity

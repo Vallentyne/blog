@@ -3,7 +3,6 @@ author: nikki
 date: 2006-11-29 14:41:44+00:00
 draft: false
 title: The halls are decked and the boughs are hollied...
-type: post
 url: /blog/2006/11/29/the-halls-are-decked-and-the-boughs-are-hollied/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2004-06-24 12:12:26+00:00
 draft: false
 title: Ok, so who leaked Cael's
-type: post
 url: /blog/2004/06/24/ok-so-who-leaked-caels/
 categories:
 - News

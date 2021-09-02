@@ -3,7 +3,6 @@ author: court
 date: 2006-06-21 16:09:51+00:00
 draft: false
 title: Poodle Workout
-type: post
 url: /blog/2006/06/21/poodle-workout/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2005-07-07 22:43:42+00:00
 draft: false
 title: Correction
-type: post
 url: /blog/2005/07/07/correction/
 categories:
 - Family News

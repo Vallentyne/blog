@@ -3,7 +3,6 @@ author: court
 date: 2019-01-17 01:05:14+00:00
 draft: false
 title: Video of me at any given family dinner
-type: post
 url: /blog/2019/01/16/video-of-me-at-any-given-family-dinner/
 categories:
 - Video Diversions

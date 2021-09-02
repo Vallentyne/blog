@@ -3,7 +3,6 @@ author: court
 date: 2004-04-06 16:05:22+00:00
 draft: false
 title: I don't know what happened,
-type: post
 url: /blog/2004/04/06/i-dont-know-what-happened/
 categories:
 - Tech

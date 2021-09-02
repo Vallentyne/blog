@@ -3,7 +3,6 @@ author: court
 date: 2014-06-17 15:24:32+00:00
 draft: false
 title: Cael's Vacation Request
-type: post
 url: /blog/2014/06/17/caels-vacation-request/
 categories:
 - Family News

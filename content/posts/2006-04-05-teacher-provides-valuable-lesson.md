@@ -3,7 +3,6 @@ author: court
 date: 2006-04-05 14:07:20+00:00
 draft: false
 title: '"Teacher" Provides Valuable Lesson'
-type: post
 url: /blog/2006/04/05/teacher-provides-valuable-lesson/
 categories:
 - Stupidity

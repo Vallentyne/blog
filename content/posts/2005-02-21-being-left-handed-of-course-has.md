@@ -3,7 +3,6 @@ author: court
 date: 2005-02-21 16:16:04+00:00
 draft: false
 title: Being left-handed of course has
-type: post
 url: /blog/2005/02/21/being-left-handed-of-course-has/
 categories:
 - News

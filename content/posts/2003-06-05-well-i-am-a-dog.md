@@ -3,7 +3,6 @@ author: court
 date: 2003-06-05 14:42:10+00:00
 draft: false
 title: Well, I am a dog
-type: post
 url: /blog/2003/06/05/well-i-am-a-dog/
 categories:
 - Family News

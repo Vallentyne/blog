@@ -3,7 +3,6 @@ author: court
 date: 2005-09-14 16:43:58+00:00
 draft: false
 title: He comes, he eats, he leaves
-type: post
 url: /blog/2005/09/14/he-comes-he-eats-he-leaves/
 categories:
 - Family News

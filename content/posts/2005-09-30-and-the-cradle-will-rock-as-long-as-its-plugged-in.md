@@ -3,7 +3,6 @@ author: court
 date: 2005-09-30 14:20:57+00:00
 draft: false
 title: And the cradle will rock.  As long as it's plugged in.
-type: post
 url: /blog/2005/09/30/and-the-cradle-will-rock-as-long-as-its-plugged-in/
 categories:
 - Tech

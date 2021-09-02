@@ -3,7 +3,6 @@ author: court
 date: 2004-09-01 14:26:44+00:00
 draft: false
 title: On the family front things
-type: post
 url: /blog/2004/09/01/on-the-family-front-things/
 categories:
 - Family News

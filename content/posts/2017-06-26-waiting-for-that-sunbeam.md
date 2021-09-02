@@ -3,7 +3,6 @@ author: court
 date: 2017-06-26 16:41:51+00:00
 draft: false
 title: Waiting for that sunbeam
-type: post
 url: /blog/2017/06/26/waiting-for-that-sunbeam/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2004-05-25 11:18:32+00:00
 draft: false
 title: Here's a neat link, I
-type: post
 url: /blog/2004/05/25/heres-a-neat-link-i/
 categories:
 - Tech

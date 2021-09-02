@@ -3,7 +3,6 @@ author: court
 date: 2009-12-30 19:07:58+00:00
 draft: false
 title: Happy New Year!  (two days early for you regular folks)
-type: post
 url: /blog/2009/12/30/happy-new-year-two-days-early-for-you-regular-folks/
 categories:
 - Stupidity

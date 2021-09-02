@@ -3,7 +3,6 @@ author: court
 date: 2005-11-09 21:26:11+00:00
 draft: false
 title: Wheel of Fortune it ain't
-type: post
 url: /blog/2005/11/09/wheel-of-fortune-it-aint/
 categories:
 - Stupidity

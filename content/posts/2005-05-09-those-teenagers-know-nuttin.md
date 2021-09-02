@@ -3,7 +3,6 @@ author: court
 date: 2005-05-09 12:20:05+00:00
 draft: false
 title: Those teenagers know nuttin..
-type: post
 url: /blog/2005/05/09/those-teenagers-know-nuttin/
 categories:
 - News

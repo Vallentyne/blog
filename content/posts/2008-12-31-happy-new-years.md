@@ -3,7 +3,6 @@ author: court
 date: 2008-12-31 18:38:59+00:00
 draft: false
 title: Happy New Years
-type: post
 url: /blog/2008/12/31/happy-new-years/
 categories:
 - Apocalypse Soon

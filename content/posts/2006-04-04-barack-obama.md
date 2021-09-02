@@ -3,7 +3,6 @@ author: court
 date: 2006-04-04 11:21:15+00:00
 draft: false
 title: Barack Obama
-type: post
 url: /blog/2006/04/04/barack-obama/
 categories:
 - News

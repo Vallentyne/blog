@@ -3,7 +3,6 @@ author: court
 date: 2005-07-15 14:09:05+00:00
 draft: false
 title: The Vallentynes are Revolting!
-type: post
 url: /blog/2005/07/15/the-vallentynes-are-revolting/
 categories:
 - Family News

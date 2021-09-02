@@ -3,7 +3,6 @@ author: court
 date: 2006-05-16 16:07:54+00:00
 draft: false
 title: It really sucks at home
-type: post
 url: /blog/2006/05/16/it-really-sucks-at-home/
 categories:
 - Family News

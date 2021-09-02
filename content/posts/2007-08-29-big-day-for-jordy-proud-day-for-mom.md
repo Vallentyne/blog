@@ -3,7 +3,6 @@ author: nikki
 date: 2007-08-29 19:08:57+00:00
 draft: false
 title: Big Day for Jordy, Proud day for Mom...
-type: post
 url: /blog/2007/08/29/big-day-for-jordy-proud-day-for-mom/
 categories:
 - News

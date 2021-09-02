@@ -3,7 +3,6 @@ author: court
 date: 2004-10-08 13:05:14+00:00
 draft: false
 title: Friday links. William Shatner has
-type: post
 url: /blog/2004/10/08/friday-links-william-shatner-has/
 categories:
 - Culture

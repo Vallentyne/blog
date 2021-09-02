@@ -3,7 +3,6 @@ author: court
 date: 2003-09-26 10:06:39+00:00
 draft: false
 title: G-1 today, and things are
-type: post
 url: /blog/2003/09/26/g-1-today-and-things-are/
 categories:
 - Family News

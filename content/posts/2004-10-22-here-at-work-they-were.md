@@ -3,7 +3,6 @@ author: court
 date: 2004-10-22 13:59:09+00:00
 draft: false
 title: Here at work they were
-type: post
 url: /blog/2004/10/22/here-at-work-they-were/
 categories:
 - Family News

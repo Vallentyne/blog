@@ -3,7 +3,6 @@ author: court
 date: 2008-04-25 17:35:37+00:00
 draft: false
 title: More Rubber Truck Nuts
-type: post
 url: /blog/2008/04/25/more-rubber-truck-nuts/
 categories:
 - Stupidity

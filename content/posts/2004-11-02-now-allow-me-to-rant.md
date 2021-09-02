@@ -3,7 +3,6 @@ author: court
 date: 2004-11-02 21:52:16+00:00
 draft: false
 title: Now allow me to rant
-type: post
 url: /blog/2004/11/02/now-allow-me-to-rant/
 categories:
 - Tech

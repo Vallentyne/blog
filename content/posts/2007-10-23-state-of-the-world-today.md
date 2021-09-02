@@ -3,7 +3,6 @@ author: court
 date: 2007-10-23 16:32:56+00:00
 draft: false
 title: State of the World Today
-type: post
 url: /blog/2007/10/23/state-of-the-world-today/
 categories:
 - Apocalypse Soon

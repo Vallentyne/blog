@@ -3,7 +3,6 @@ author: court
 date: 2003-03-06 15:28:07+00:00
 draft: false
 title: Random Ramblings, eh? OK, here
-type: post
 url: /blog/2003/03/06/random-ramblings-eh-ok-here/
 categories:
 - Family News

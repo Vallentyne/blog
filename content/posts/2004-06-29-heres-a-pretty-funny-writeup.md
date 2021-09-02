@@ -3,7 +3,6 @@ author: court
 date: 2004-06-29 09:45:45+00:00
 draft: false
 title: Here's a pretty funny writeup
-type: post
 url: /blog/2004/06/29/heres-a-pretty-funny-writeup/
 categories:
 - Culture

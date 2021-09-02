@@ -3,7 +3,6 @@ author: court
 date: 2005-10-10 00:11:15+00:00
 draft: false
 title: I'm sticking with Bloglines
-type: post
 url: /blog/2005/10/10/im-sticking-with-bloglines/
 categories:
 - Tech

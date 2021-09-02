@@ -3,7 +3,6 @@ author: court
 date: 2007-08-27 13:26:37+00:00
 draft: false
 title: Connectivity problems
-type: post
 url: /blog/2007/08/27/connectivity-problems/
 categories:
 - Tech

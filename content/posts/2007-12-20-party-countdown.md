@@ -3,7 +3,6 @@ author: court
 date: 2007-12-20 13:10:42+00:00
 draft: false
 title: Party Countdown
-type: post
 url: /blog/2007/12/20/party-countdown/
 categories:
 - Family News

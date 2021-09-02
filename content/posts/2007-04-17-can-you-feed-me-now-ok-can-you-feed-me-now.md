@@ -3,7 +3,6 @@ author: court
 date: 2007-04-17 16:32:00+00:00
 draft: false
 title: Can you feed me now?  Ok. Can you feed me now?
-type: post
 url: /blog/2007/04/17/can-you-feed-me-now-ok-can-you-feed-me-now/
 categories:
 - Apocalypse Soon

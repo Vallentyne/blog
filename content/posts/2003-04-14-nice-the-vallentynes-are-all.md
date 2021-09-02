@@ -3,7 +3,6 @@ author: nikki
 date: 2003-04-14 16:29:45+00:00
 draft: false
 title: Nice. The Vallentynes are all
-type: post
 url: /blog/2003/04/14/nice-the-vallentynes-are-all/
 categories:
 - Family News

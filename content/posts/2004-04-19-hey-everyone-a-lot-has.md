@@ -3,7 +3,6 @@ author: court
 date: 2004-04-19 17:31:53+00:00
 draft: false
 title: Hey everyone, A lot has
-type: post
 url: /blog/2004/04/19/hey-everyone-a-lot-has/
 categories:
 - Family News

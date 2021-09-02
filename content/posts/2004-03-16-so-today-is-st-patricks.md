@@ -3,7 +3,6 @@ author: court
 date: 2004-03-16 14:15:49+00:00
 draft: false
 title: So today is St. Patrick's
-type: post
 url: /blog/2004/03/16/so-today-is-st-patricks/
 categories:
 - Family News

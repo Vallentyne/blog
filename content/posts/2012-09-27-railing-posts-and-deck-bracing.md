@@ -3,7 +3,6 @@ author: court
 date: 2012-09-27 18:53:13+00:00
 draft: false
 title: Railing posts and deck bracing
-type: post
 url: /blog/2012/09/27/railing-posts-and-deck-bracing/
 categories:
 - Home Improvements

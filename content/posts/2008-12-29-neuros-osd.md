@@ -3,7 +3,6 @@ author: court
 date: 2008-12-29 16:11:30+00:00
 draft: false
 title: Neuros OSD
-type: post
 url: /blog/2008/12/29/neuros-osd/
 categories:
 - Stupidity

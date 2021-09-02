@@ -3,7 +3,6 @@ author: court
 date: 2006-03-15 13:04:57+00:00
 draft: false
 title: Get Up Out of Bed, Ya Drunken Lazy Bastard
-type: post
 url: /blog/2006/03/15/get-up-out-of-bed-ya-drunken-lazy-bastard/
 categories:
 - News

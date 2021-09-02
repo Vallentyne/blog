@@ -3,7 +3,6 @@ author: court
 date: 2011-10-25 15:24:27+00:00
 draft: false
 title: You are as old as you think you might be, kinda
-type: post
 url: /blog/2011/10/25/you-are-as-old-as-you-think-you-might-be-kinda/
 categories:
 - Family News

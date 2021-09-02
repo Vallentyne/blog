@@ -3,7 +3,6 @@ author: court
 date: 2005-01-26 14:54:20+00:00
 draft: false
 title: Speaking of brainiac children, here's
-type: post
 url: /blog/2005/01/26/speaking-of-brainiac-children-heres/
 categories:
 - Culture

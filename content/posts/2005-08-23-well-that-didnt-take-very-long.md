@@ -3,7 +3,6 @@ author: court
 date: 2005-08-23 13:09:43+00:00
 draft: false
 title: Well, that didn't take very long.
-type: post
 url: /blog/2005/08/23/well-that-didnt-take-very-long/
 categories:
 - Tech

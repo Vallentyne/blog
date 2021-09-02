@@ -3,7 +3,6 @@ author: court
 date: 2008-05-14 20:06:18+00:00
 draft: false
 title: The horror, the horror
-type: post
 url: /blog/2008/05/14/the-horror-the-horror/
 categories:
 - News

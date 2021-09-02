@@ -3,7 +3,6 @@ author: court
 date: 2003-09-22 16:16:24+00:00
 draft: false
 title: As a quick aside, this
-type: post
 url: /blog/2003/09/22/as-a-quick-aside-this/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2009-11-24 14:01:50+00:00
 draft: false
 title: Environmental Impact of Pet Ownership
-type: post
 url: /blog/2009/11/24/environmental-impact-of-pet-ownership/
 categories:
 - Llife with Lloyd

@@ -3,7 +3,6 @@ author: court
 date: 2003-04-07 09:55:10+00:00
 draft: false
 title: A quick note this morning.
-type: post
 url: /blog/2003/04/07/a-quick-note-this-morning/
 categories:
 - Family News

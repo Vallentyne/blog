@@ -3,7 +3,6 @@ author: court
 date: 2004-09-10 14:25:01+00:00
 draft: false
 title: First off, I would like
-type: post
 url: /blog/2004/09/10/first-off-i-would-like/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-08-24 02:34:18+00:00
 draft: false
 title: A little run this evening
-type: post
 url: /blog/2009/08/23/a-little-run-this-evening/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2008-02-06 14:44:13+00:00
 draft: false
 title: He Ain't Heavy, He's Cheaper
-type: post
 url: /blog/2008/02/06/he-aint-heavy-hes-cheaper/
 categories:
 - Culture

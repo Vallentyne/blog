@@ -3,7 +3,6 @@ author: court
 date: 2010-11-11 16:45:11+00:00
 draft: false
 title: Nervous laughter
-type: post
 url: /blog/2010/11/11/nervous-laughter/
 categories:
 - Video Diversions

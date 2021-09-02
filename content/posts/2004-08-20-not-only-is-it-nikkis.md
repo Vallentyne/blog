@@ -3,7 +3,6 @@ author: court
 date: 2004-08-20 15:11:06+00:00
 draft: false
 title: Not only is it Nikki's
-type: post
 url: /blog/2004/08/20/not-only-is-it-nikkis/
 categories:
 - Family News

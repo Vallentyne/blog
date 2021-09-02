@@ -3,7 +3,6 @@ author: court
 date: 2006-06-06 09:20:28+00:00
 draft: false
 title: Funny Bastards
-type: post
 url: /blog/2006/06/06/funny-bastards/
 categories:
 - Culture

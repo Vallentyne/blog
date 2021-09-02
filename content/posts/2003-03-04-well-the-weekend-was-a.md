@@ -3,7 +3,6 @@ author: court
 date: 2003-03-04 12:31:55+00:00
 draft: false
 title: Well. The weekend was a
-type: post
 url: /blog/2003/03/04/well-the-weekend-was-a/
 categories:
 - Family News

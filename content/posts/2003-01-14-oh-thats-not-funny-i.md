@@ -3,7 +3,6 @@ author: court
 date: 2003-01-14 09:44:26+00:00
 draft: false
 title: Oh, that's not funny. I
-type: post
 url: /blog/2003/01/14/oh-thats-not-funny-i/
 categories:
 - Family News

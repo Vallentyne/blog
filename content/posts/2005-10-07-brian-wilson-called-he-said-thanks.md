@@ -3,7 +3,6 @@ author: court
 date: 2005-10-07 14:06:12+00:00
 draft: false
 title: Brian Wilson called, he said thanks.
-type: post
 url: /blog/2005/10/07/brian-wilson-called-he-said-thanks/
 categories:
 - News

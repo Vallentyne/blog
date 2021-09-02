@@ -3,7 +3,6 @@ author: court
 date: 2012-04-19 20:18:09+00:00
 draft: false
 title: Minneapolis teens decide to not drink the Catholic Kool-aid
-type: post
 url: /blog/2012/04/19/minneapolis-teens-decide-to-not-drink-the-catholic-kool-aid/
 categories:
 - Apocalypse Soon

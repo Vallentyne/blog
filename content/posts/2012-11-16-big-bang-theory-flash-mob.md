@@ -3,7 +3,6 @@ author: court
 date: 2012-11-16 20:07:12+00:00
 draft: false
 title: Big Bang Theory Flash Mob
-type: post
 url: /blog/2012/11/16/big-bang-theory-flash-mob/
 categories:
 - Culture

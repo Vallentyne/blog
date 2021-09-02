@@ -3,7 +3,6 @@ author: court
 date: 2008-10-17 15:14:25+00:00
 draft: false
 title: Short Story Terrorism
-type: post
 url: /blog/2008/10/17/short-story-terrorism/
 categories:
 - Apocalypse Soon

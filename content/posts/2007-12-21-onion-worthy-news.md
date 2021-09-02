@@ -3,7 +3,6 @@ author: court
 date: 2007-12-21 14:40:03+00:00
 draft: false
 title: Onion-worthy news
-type: post
 url: /blog/2007/12/21/onion-worthy-news/
 categories:
 - News

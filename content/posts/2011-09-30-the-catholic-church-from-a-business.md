@@ -3,7 +3,6 @@ author: court
 date: 2011-09-30 20:41:25+00:00
 draft: false
 title: The Catholic Church from a Business Perspective
-type: post
 url: /blog/2011/09/30/the-catholic-church-from-a-business/
 categories:
 - News

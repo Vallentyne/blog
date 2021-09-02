@@ -3,7 +3,6 @@ author: court
 date: 2005-09-30 11:55:13+00:00
 draft: false
 title: Turncoat Scientists produce rodent super soldier
-type: post
 url: /blog/2005/09/30/turncoat-scientists-produce-rodent-super-soldier/
 categories:
 - Apocalypse Soon

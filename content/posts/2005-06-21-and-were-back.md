@@ -3,7 +3,6 @@ author: court
 date: 2005-06-21 10:03:27+00:00
 draft: false
 title: '....and we''re back.'
-type: post
 url: /blog/2005/06/21/and-were-back/
 categories:
 - Family News

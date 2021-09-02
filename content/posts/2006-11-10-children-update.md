@@ -3,7 +3,6 @@ author: court
 date: 2006-11-10 15:49:56+00:00
 draft: false
 title: Children Update
-type: post
 url: /blog/2006/11/10/children-update/
 categories:
 - Family News

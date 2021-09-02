@@ -3,7 +3,6 @@ author: court
 date: 2005-06-13 16:51:33+00:00
 draft: false
 title: Fascinating feline plot against humanity
-type: post
 url: /blog/2005/06/13/fascinating-feline-plot-against-humanity/
 categories:
 - Apocalypse Soon

@@ -3,7 +3,6 @@ author: court
 date: 2008-09-23 20:38:31+00:00
 draft: false
 title: Punishment
-type: post
 url: /blog/2008/09/23/punishment/
 categories:
 - Stupidity

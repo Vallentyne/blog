@@ -3,7 +3,6 @@ author: court
 date: 2007-10-16 18:22:04+00:00
 draft: false
 title: Online All The Time
-type: post
 url: /blog/2007/10/16/online-all-the-time/
 categories:
 - Culture

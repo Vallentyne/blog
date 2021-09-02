@@ -3,7 +3,6 @@ author: court
 date: 2008-01-23 13:10:35+00:00
 draft: false
 title: Time Management
-type: post
 url: /blog/2008/01/23/time-management/
 categories:
 - Family News

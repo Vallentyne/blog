@@ -3,7 +3,6 @@ author: court
 date: 2008-12-09 21:10:05+00:00
 draft: false
 title: Monkey Gitmo
-type: post
 url: /blog/2008/12/09/monkey-gitmo/
 categories:
 - Security Theatre

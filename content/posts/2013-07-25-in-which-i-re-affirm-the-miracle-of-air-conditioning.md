@@ -3,7 +3,6 @@ author: court
 date: 2013-07-25 17:40:16+00:00
 draft: false
 title: In which I re-affirm the miracle of air conditioning
-type: post
 url: /blog/2013/07/25/in-which-i-re-affirm-the-miracle-of-air-conditioning/
 categories:
 - Family News

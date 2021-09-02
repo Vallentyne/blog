@@ -3,7 +3,6 @@ author: court
 date: 2008-02-29 14:19:31+00:00
 draft: false
 title: Snake eats dog, family does nothing
-type: post
 url: /blog/2008/02/29/snake-eats-dog-family-does-nothing/
 categories:
 - News

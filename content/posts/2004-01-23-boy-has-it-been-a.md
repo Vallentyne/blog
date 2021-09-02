@@ -3,7 +3,6 @@ author: court
 date: 2004-01-23 12:40:28+00:00
 draft: false
 title: Boy has it been a
-type: post
 url: /blog/2004/01/23/boy-has-it-been-a/
 categories:
 - Stupidity

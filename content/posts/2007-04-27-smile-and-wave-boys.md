@@ -3,7 +3,6 @@ author: court
 date: 2007-04-27 21:04:45+00:00
 draft: false
 title: Smile and Wave, boys
-type: post
 url: /blog/2007/04/27/smile-and-wave-boys/
 categories:
 - Apocalypse Soon

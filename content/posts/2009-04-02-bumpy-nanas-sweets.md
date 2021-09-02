@@ -3,7 +3,6 @@ author: court
 date: 2009-04-02 14:57:58+00:00
 draft: false
 title: Bumpy Nana's Sweets
-type: post
 url: /blog/2009/04/02/bumpy-nanas-sweets/
 categories:
 - Family News

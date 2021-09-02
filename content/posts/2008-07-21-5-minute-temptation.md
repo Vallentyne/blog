@@ -3,7 +3,6 @@ author: court
 date: 2008-07-21 18:07:26+00:00
 draft: false
 title: 5 Minute Temptation
-type: post
 url: /blog/2008/07/21/5-minute-temptation/
 categories:
 - Culture

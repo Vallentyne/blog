@@ -3,7 +3,6 @@ author: court
 date: 2005-06-15 09:44:25+00:00
 draft: false
 title: Grown-up Babies
-type: post
 url: /blog/2005/06/15/grown-up-babies/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2006-06-15 13:16:02+00:00
 draft: false
 title: Mother Nature wins one
-type: post
 url: /blog/2006/06/15/mother-nature-wins-one/
 categories:
 - Apocalypse Soon

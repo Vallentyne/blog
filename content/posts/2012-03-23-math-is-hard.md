@@ -3,7 +3,6 @@ author: court
 date: 2012-03-23 19:58:04+00:00
 draft: false
 title: Math is hard
-type: post
 url: /blog/2012/03/23/math-is-hard/
 categories:
 - Stupidity

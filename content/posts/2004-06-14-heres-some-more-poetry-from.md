@@ -3,7 +3,6 @@ author: court
 date: 2004-06-14 12:44:54+00:00
 draft: false
 title: Here's some more poetry from
-type: post
 url: /blog/2004/06/14/heres-some-more-poetry-from/
 categories:
 - Family News

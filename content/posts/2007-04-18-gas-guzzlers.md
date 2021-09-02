@@ -3,7 +3,6 @@ author: court
 date: 2007-04-18 20:28:20+00:00
 draft: false
 title: Gas guzzlers
-type: post
 url: /blog/2007/04/18/gas-guzzlers/
 categories:
 - Apocalypse Soon

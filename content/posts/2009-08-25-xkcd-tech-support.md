@@ -3,7 +3,6 @@ author: court
 date: 2009-08-25 13:58:16+00:00
 draft: false
 title: xkcd - Tech Support
-type: post
 url: /blog/2009/08/25/xkcd-tech-support/
 categories:
 - Tech

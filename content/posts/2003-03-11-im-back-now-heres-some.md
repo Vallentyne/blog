@@ -3,7 +3,6 @@ author: court
 date: 2003-03-11 09:47:21+00:00
 draft: false
 title: I'm back. Now here's some
-type: post
 url: /blog/2003/03/11/im-back-now-heres-some/
 categories:
 - Family News

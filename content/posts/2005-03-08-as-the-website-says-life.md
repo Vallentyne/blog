@@ -3,7 +3,6 @@ author: court
 date: 2005-03-08 12:46:00+00:00
 draft: false
 title: As the website says "Life
-type: post
 url: /blog/2005/03/08/as-the-website-says-life/
 categories:
 - Stupidity

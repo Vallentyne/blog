@@ -3,7 +3,6 @@ author: court
 date: 2004-09-17 10:51:17+00:00
 draft: false
 title: Well today I bring good
-type: post
 url: /blog/2004/09/17/well-today-i-bring-good/
 categories:
 - News

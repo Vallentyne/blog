@@ -3,7 +3,6 @@ author: court
 date: 2003-04-16 16:34:07+00:00
 draft: false
 title: Thanks for the invite Alison.
-type: post
 url: /blog/2003/04/16/thanks-for-the-invite-alison/
 categories:
 - Family News

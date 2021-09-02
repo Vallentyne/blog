@@ -3,7 +3,6 @@ author: court
 date: 2006-07-17 08:36:51+00:00
 draft: false
 title: Random Video Round Up
-type: post
 url: /blog/2006/07/17/random-video-round-up/
 categories:
 - Video Diversions

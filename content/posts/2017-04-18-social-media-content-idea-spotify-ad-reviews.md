@@ -3,7 +3,6 @@ author: court
 date: 2017-04-18 15:01:51+00:00
 draft: false
 title: 'Social Media Content Idea: Spotify Ad Reviews'
-type: post
 url: /blog/2017/04/18/social-media-content-idea-spotify-ad-reviews/
 categories:
 - Culture

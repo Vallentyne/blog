@@ -3,7 +3,6 @@ author: court
 date: 2005-10-26 22:08:02+00:00
 draft: false
 title: A slight obstacle to a regular posting schedule
-type: post
 url: /blog/2005/10/26/a-slight-obstacle-to-a-regular-posting-schedule/
 categories:
 - Tech

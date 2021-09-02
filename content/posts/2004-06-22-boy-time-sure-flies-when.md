@@ -3,7 +3,6 @@ author: court
 date: 2004-06-22 16:00:57+00:00
 draft: false
 title: Boy, time sure flies when
-type: post
 url: /blog/2004/06/22/boy-time-sure-flies-when/
 categories:
 - Family News

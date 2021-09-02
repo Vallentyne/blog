@@ -3,7 +3,6 @@ author: court
 date: 2009-07-11 20:36:52+00:00
 draft: false
 title: Another day, another blog template
-type: post
 url: /blog/2009/07/11/another-day-another-blog-template/
 categories:
 - Tech

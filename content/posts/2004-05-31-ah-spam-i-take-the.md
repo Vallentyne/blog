@@ -3,7 +3,6 @@ author: court
 date: 2004-05-31 14:13:00+00:00
 draft: false
 title: Ah, spam. I take the
-type: post
 url: /blog/2004/05/31/ah-spam-i-take-the/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2012-05-10 23:11:15+00:00
 draft: false
 title: Bear Conga Line?  Yes.
-type: post
 url: /blog/2012/05/10/bear-conga-line-yes/
 categories:
 - News

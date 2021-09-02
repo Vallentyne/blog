@@ -3,7 +3,6 @@ author: court
 date: 2006-05-19 12:33:54+00:00
 draft: false
 title: Movie Trailers Remixed
-type: post
 url: /blog/2006/05/19/movie-trailers-remixed/
 categories:
 - Video Diversions

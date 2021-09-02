@@ -3,7 +3,6 @@ author: nikki
 date: 2003-03-05 21:28:40+00:00
 draft: false
 title: Well well well... it would
-type: post
 url: /blog/2003/03/05/well-well-well-it-would/
 categories:
 - Family News

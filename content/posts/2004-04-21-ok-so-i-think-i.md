@@ -3,7 +3,6 @@ author: court
 date: 2004-04-21 15:47:32+00:00
 draft: false
 title: Ok, so I think I
-type: post
 url: /blog/2004/04/21/ok-so-i-think-i/
 categories:
 - Stupidity

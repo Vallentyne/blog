@@ -3,7 +3,6 @@ author: court
 date: 2008-02-29 00:52:05+00:00
 draft: false
 title: No post today.
-type: post
 url: /blog/2008/02/28/no-post-today/
 categories:
 - Tech

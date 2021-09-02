@@ -3,7 +3,6 @@ author: court
 date: 2009-01-05 19:18:57+00:00
 draft: false
 title: Nikki's Job
-type: post
 url: /blog/2009/01/05/nikkis-job/
 categories:
 - Family News

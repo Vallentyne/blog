@@ -3,7 +3,6 @@ author: court
 date: 2007-01-03 21:01:31+00:00
 draft: false
 title: First Post of the New Year
-type: post
 url: /blog/2007/01/03/first-post-of-the-new-year/
 categories:
 - Family News

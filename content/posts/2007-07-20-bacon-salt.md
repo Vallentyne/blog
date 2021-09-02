@@ -3,7 +3,6 @@ author: court
 date: 2007-07-20 16:04:05+00:00
 draft: false
 title: Bacon Salt
-type: post
 url: /blog/2007/07/20/bacon-salt/
 categories:
 - Culture

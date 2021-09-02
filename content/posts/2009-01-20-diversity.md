@@ -3,7 +3,6 @@ author: nikki
 date: 2009-01-20 20:30:22+00:00
 draft: false
 title: Diversity
-type: post
 url: /blog/2009/01/20/diversity/
 categories:
 - Family News

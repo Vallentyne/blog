@@ -3,7 +3,6 @@ author: court
 date: 2017-12-20 13:05:18+00:00
 draft: false
 title: A short story
-type: post
 url: /blog/2017/12/20/a-short-story/
 categories:
 - Llife with Lloyd

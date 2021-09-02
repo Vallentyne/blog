@@ -3,7 +3,6 @@ author: court
 date: 2004-09-29 15:12:49+00:00
 draft: false
 title: It's been two weeks since
-type: post
 url: /blog/2004/09/29/its-been-two-weeks-since/
 categories:
 - Family News

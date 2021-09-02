@@ -3,7 +3,6 @@ author: court
 date: 2009-03-28 21:47:07+00:00
 draft: false
 title: Get Bacon, Eat Bacon, Take a Bacon Shower
-type: post
 url: /blog/2009/03/28/get-bacon-eat-bacon-take-a-bacon-shower/
 categories:
 - Culture

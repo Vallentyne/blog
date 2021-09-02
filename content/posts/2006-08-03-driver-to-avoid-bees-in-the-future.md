@@ -3,7 +3,6 @@ author: court
 date: 2006-08-03 13:15:43+00:00
 draft: false
 title: Driver to avoid bees in the future
-type: post
 url: /blog/2006/08/03/driver-to-avoid-bees-in-the-future/
 categories:
 - Stupidity

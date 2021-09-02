@@ -3,7 +3,6 @@ author: court
 date: 2007-02-02 17:37:44+00:00
 draft: false
 title: He's got wood.
-type: post
 url: /blog/2007/02/02/hes-got-wood/
 categories:
 - News

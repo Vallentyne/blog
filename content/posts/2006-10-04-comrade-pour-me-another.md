@@ -3,7 +3,6 @@ author: court
 date: 2006-10-04 15:53:10+00:00
 draft: false
 title: Comrade, pour me another
-type: post
 url: /blog/2006/10/04/comrade-pour-me-another/
 categories:
 - Culture

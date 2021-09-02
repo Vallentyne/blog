@@ -3,7 +3,6 @@ author: court
 date: 2015-10-28 13:18:38+00:00
 draft: false
 title: Windows 10 Calculator for Life's Important Questions
-type: post
 url: /blog/2015/10/28/windows-10-calculator-for-lifes-important-questions/
 categories:
 - Tech

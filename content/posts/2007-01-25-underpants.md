@@ -3,7 +3,6 @@ author: court
 date: 2007-01-25 02:59:55+00:00
 draft: false
 title: Underpants
-type: post
 url: /blog/2007/01/24/underpants/
 categories:
 - Stupidity

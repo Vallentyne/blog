@@ -3,7 +3,6 @@ author: court
 date: 2007-05-25 17:19:56+00:00
 draft: false
 title: More Kid Stuff
-type: post
 url: /blog/2007/05/25/more-kid-stuff/
 categories:
 - News

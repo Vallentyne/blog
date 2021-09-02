@@ -3,7 +3,6 @@ author: court
 date: 2004-09-20 15:48:26+00:00
 draft: false
 title: Well dare I say, I
-type: post
 url: /blog/2004/09/20/well-dare-i-say-i/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2004-09-08 13:00:19+00:00
 draft: false
 title: First post after the long
-type: post
 url: /blog/2004/09/08/first-post-after-the-long/
 categories:
 - Family News

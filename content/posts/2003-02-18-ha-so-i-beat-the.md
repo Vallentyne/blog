@@ -3,7 +3,6 @@ author: court
 date: 2003-02-18 15:03:22+00:00
 draft: false
 title: Ha! So. I beat the
-type: post
 url: /blog/2003/02/18/ha-so-i-beat-the/
 categories:
 - Family News

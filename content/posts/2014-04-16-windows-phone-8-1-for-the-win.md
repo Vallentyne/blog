@@ -3,7 +3,6 @@ author: court
 date: 2014-04-16 15:36:29+00:00
 draft: false
 title: Windows Phone 8.1 for the win...
-type: post
 url: /blog/2014/04/16/windows-phone-8-1-for-the-win/
 categories:
 - Tech

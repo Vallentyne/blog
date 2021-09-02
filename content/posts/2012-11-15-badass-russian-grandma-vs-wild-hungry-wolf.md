@@ -3,7 +3,6 @@ author: court
 date: 2012-11-15 20:18:09+00:00
 draft: false
 title: Badass Russian Grandma vs Wild Hungry Wolf
-type: post
 url: /blog/2012/11/15/badass-russian-grandma-vs-wild-hungry-wolf/
 categories:
 - News

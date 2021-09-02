@@ -3,7 +3,6 @@ author: nikki
 date: 2009-02-19 15:29:44+00:00
 draft: false
 title: I Spy With My Little Eye
-type: post
 url: /blog/2009/02/19/i-spy-with-my-little-eye/
 categories:
 - Family News

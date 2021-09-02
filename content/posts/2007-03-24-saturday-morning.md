@@ -3,7 +3,6 @@ author: court
 date: 2007-03-24 12:00:40+00:00
 draft: false
 title: Saturday Morning
-type: post
 url: /blog/2007/03/24/saturday-morning/
 categories:
 - Family News

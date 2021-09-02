@@ -3,7 +3,6 @@ author: court
 date: 2004-04-01 08:48:18+00:00
 draft: false
 title: Let me share something with
-type: post
 url: /blog/2004/04/01/let-me-share-something-with/
 categories:
 - Family News

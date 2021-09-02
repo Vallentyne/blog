@@ -3,7 +3,6 @@ author: court
 date: 2005-09-12 22:55:37+00:00
 draft: false
 title: Man this guy really needs a new job
-type: post
 url: /blog/2005/09/12/man-this-guy-really-needs-a-new-job/
 categories:
 - News

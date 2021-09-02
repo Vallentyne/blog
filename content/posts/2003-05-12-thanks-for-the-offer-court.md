@@ -3,7 +3,6 @@ author: court
 date: 2003-05-12 15:42:04+00:00
 draft: false
 title: Thanks for the offer, Court,
-type: post
 url: /blog/2003/05/12/thanks-for-the-offer-court/
 categories:
 - Family News

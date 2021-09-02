@@ -3,7 +3,6 @@ author: court
 date: 2005-07-11 21:17:26+00:00
 draft: false
 title: Assorted stupid time wasters
-type: post
 url: /blog/2005/07/11/assorted-stupid-time-wasters/
 categories:
 - Culture

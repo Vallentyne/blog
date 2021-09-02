@@ -3,7 +3,6 @@ author: court
 date: 2008-12-22 18:43:42+00:00
 draft: false
 title: Post Party Post
-type: post
 url: /blog/2008/12/22/post-party-post-2/
 categories:
 - Family News

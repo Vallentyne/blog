@@ -3,7 +3,6 @@ author: court
 date: 2015-10-30 19:25:25+00:00
 draft: false
 title: Sometimes you sleep so hard, your nose slides off your face
-type: post
 url: /blog/2015/10/30/sometimes-you-sleep-so-hard-your-nose-slides-off-your-face/
 categories:
 - Llife with Lloyd

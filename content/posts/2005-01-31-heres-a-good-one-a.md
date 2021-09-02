@@ -3,7 +3,6 @@ author: court
 date: 2005-01-31 13:39:25+00:00
 draft: false
 title: Here's a good one. A
-type: post
 url: /blog/2005/01/31/heres-a-good-one-a/
 categories:
 - News

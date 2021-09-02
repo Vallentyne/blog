@@ -3,7 +3,6 @@ author: court
 date: 2004-12-06 16:16:48+00:00
 draft: false
 title: Remember when I posted about
-type: post
 url: /blog/2004/12/06/remember-when-i-posted-about/
 categories:
 - Tech

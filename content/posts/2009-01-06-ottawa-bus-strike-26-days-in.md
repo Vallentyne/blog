@@ -3,7 +3,6 @@ author: court
 date: 2009-01-06 18:29:57+00:00
 draft: false
 title: Ottawa Bus Strike-26 Days In
-type: post
 url: /blog/2009/01/06/ottawa-bus-strike-26-days-in/
 categories:
 - News

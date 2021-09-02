@@ -3,7 +3,6 @@ author: court
 date: 2008-10-20 17:14:38+00:00
 draft: false
 title: Financial Crisis
-type: post
 url: /blog/2008/10/20/financial-crisis/
 categories:
 - Apocalypse Soon

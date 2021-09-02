@@ -3,7 +3,6 @@ author: court
 date: 2003-03-12 10:37:14+00:00
 draft: false
 title: Well! Well! Well! It sounds
-type: post
 url: /blog/2003/03/12/well-well-well-it-sounds/
 categories:
 - Family News

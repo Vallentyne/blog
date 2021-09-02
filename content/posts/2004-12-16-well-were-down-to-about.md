@@ -3,7 +3,6 @@ author: court
 date: 2004-12-16 15:24:13+00:00
 draft: false
 title: Well, we're down to about
-type: post
 url: /blog/2004/12/16/well-were-down-to-about/
 categories:
 - Family News

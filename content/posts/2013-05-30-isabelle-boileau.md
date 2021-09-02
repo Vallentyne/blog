@@ -3,7 +3,6 @@ author: court
 date: 2013-05-30 17:06:08+00:00
 draft: false
 title: Isabelle Boileau
-type: post
 url: /blog/2013/05/30/isabelle-boileau/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2004-01-06 08:31:45+00:00
 draft: false
 title: Hey everyone! How goes everything?
-type: post
 url: /blog/2004/01/06/hey-everyone-how-goes-everything/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: nikki
 date: 2009-03-17 15:42:52+00:00
 draft: false
 title: I love you forever...
-type: post
 url: /blog/2009/03/17/i-love-you-forever/
 categories:
 - Family News

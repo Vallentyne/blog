@@ -3,7 +3,6 @@ author: court
 date: 2008-09-16 17:34:43+00:00
 draft: false
 title: Apologuise
-type: post
 url: /blog/2008/09/16/apologuise/
 categories:
 - Word of the day

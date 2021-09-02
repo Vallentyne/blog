@@ -3,7 +3,6 @@ author: court
 date: 2006-07-04 14:25:29+00:00
 draft: false
 title: Somebody needs a hug
-type: post
 url: /blog/2006/07/04/somebody-needs-a-hug/
 categories:
 - Stupidity

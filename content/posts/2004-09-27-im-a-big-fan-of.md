@@ -3,7 +3,6 @@ author: court
 date: 2004-09-27 21:15:04+00:00
 draft: false
 title: I'm a big fan of
-type: post
 url: /blog/2004/09/27/im-a-big-fan-of/
 categories:
 - News

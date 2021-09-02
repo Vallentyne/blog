@@ -3,7 +3,6 @@ author: court
 date: 2006-09-29 17:22:12+00:00
 draft: false
 title: Bloglines Update
-type: post
 url: /blog/2006/09/29/bloglines-update/
 categories:
 - Tech

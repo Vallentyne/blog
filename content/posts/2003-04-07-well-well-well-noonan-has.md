@@ -3,7 +3,6 @@ author: court
 date: 2003-04-07 10:12:37+00:00
 draft: false
 title: Well, well well. Noonan has
-type: post
 url: /blog/2003/04/07/well-well-well-noonan-has/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2012-10-18 18:30:44+00:00
 draft: false
 title: Awesome Museum Ads
-type: post
 url: /blog/2012/10/18/awesome-museum-ads/
 categories:
 - Scientifica

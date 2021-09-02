@@ -3,7 +3,6 @@ author: court
 date: 2004-03-03 11:27:07+00:00
 draft: false
 title: Hey everybody! I don't often
-type: post
 url: /blog/2004/03/03/hey-everybody-i-dont-often/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2003-04-07 09:59:04+00:00
 draft: false
 title: I posted this on Noonans
-type: post
 url: /blog/2003/04/07/i-posted-this-on-noonans/
 categories:
 - News

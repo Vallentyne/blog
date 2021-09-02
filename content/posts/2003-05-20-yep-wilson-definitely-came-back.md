@@ -3,7 +3,6 @@ author: court
 date: 2003-05-20 11:51:37+00:00
 draft: false
 title: Yep, Wilson definitely came back
-type: post
 url: /blog/2003/05/20/yep-wilson-definitely-came-back/
 categories:
 - Family News

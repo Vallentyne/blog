@@ -3,7 +3,6 @@ author: nikki
 date: 2009-09-15 13:57:19+00:00
 draft: false
 title: A Big Shout Out To The Birthday Boy
-type: post
 url: /blog/2009/09/15/a-big-shout-out-to-the-birthday-boy/
 categories:
 - News

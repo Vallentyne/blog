@@ -3,7 +3,6 @@ author: court
 date: 2015-01-06 16:16:31+00:00
 draft: false
 title: St. Bernards are subtle creatures
-type: post
 url: /blog/2015/01/06/st-bernards-are-subtle-creatures/
 categories:
 - Llife with Lloyd

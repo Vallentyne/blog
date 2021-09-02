@@ -3,7 +3,6 @@ author: court
 date: 2005-05-02 23:10:18+00:00
 draft: false
 title: And finally
-type: post
 url: /blog/2005/05/02/and-finally/
 categories:
 - Culture

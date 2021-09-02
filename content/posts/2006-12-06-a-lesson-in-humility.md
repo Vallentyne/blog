@@ -3,7 +3,6 @@ author: nikki
 date: 2006-12-06 19:46:05+00:00
 draft: false
 title: A lesson in humility...
-type: post
 url: /blog/2006/12/06/a-lesson-in-humility/
 categories:
 - Family News

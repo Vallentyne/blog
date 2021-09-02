@@ -3,7 +3,6 @@ author: court
 date: 2003-04-15 12:29:46+00:00
 draft: false
 title: Minor outage at Vallentyne.com thanks
-type: post
 url: /blog/2003/04/15/minor-outage-at-vallentynecom-thanks/
 categories:
 - Family News

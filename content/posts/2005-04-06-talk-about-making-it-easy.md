@@ -3,7 +3,6 @@ author: court
 date: 2005-04-06 12:28:00+00:00
 draft: false
 title: Talk about making it easy
-type: post
 url: /blog/2005/04/06/talk-about-making-it-easy/
 categories:
 - News

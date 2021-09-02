@@ -3,7 +3,6 @@ author: court
 date: 2006-06-15 10:59:35+00:00
 draft: false
 title: Hi-Ho Daddyo
-type: post
 url: /blog/2006/06/15/hi-ho-daddyo/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2007-05-16 18:01:55+00:00
 draft: false
 title: More Underwater Terrors
-type: post
 url: /blog/2007/05/16/more-underwater-terrors/
 categories:
 - Apocalypse Soon

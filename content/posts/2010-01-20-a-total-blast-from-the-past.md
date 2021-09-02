@@ -3,7 +3,6 @@ author: nikki
 date: 2010-01-20 18:22:46+00:00
 draft: false
 title: A Total Blast From the Past....
-type: post
 url: /blog/2010/01/20/a-total-blast-from-the-past/
 categories:
 - Family News

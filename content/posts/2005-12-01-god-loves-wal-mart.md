@@ -3,7 +3,6 @@ author: court
 date: 2005-12-01 15:17:26+00:00
 draft: false
 title: God Loves Wal-Mart?
-type: post
 url: /blog/2005/12/01/god-loves-wal-mart/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2008-03-10 13:13:41+00:00
 draft: false
 title: More Music Industry Advice
-type: post
 url: /blog/2008/03/10/more-music-industry-advice/
 categories:
 - Culture

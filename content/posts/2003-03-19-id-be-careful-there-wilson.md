@@ -3,7 +3,6 @@ author: court
 date: 2003-03-19 16:23:10+00:00
 draft: false
 title: I'd be careful there Wilson.
-type: post
 url: /blog/2003/03/19/id-be-careful-there-wilson/
 categories:
 - Family News

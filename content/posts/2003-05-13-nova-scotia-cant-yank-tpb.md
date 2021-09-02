@@ -3,7 +3,6 @@ author: court
 date: 2003-05-13 10:52:16+00:00
 draft: false
 title: Nova Scotia can't yank TPB.
-type: post
 url: /blog/2003/05/13/nova-scotia-cant-yank-tpb/
 categories:
 - Family News

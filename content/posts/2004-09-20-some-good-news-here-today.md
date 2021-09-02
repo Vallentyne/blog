@@ -3,7 +3,6 @@ author: court
 date: 2004-09-20 11:06:11+00:00
 draft: false
 title: Some good news here today,
-type: post
 url: /blog/2004/09/20/some-good-news-here-today/
 categories:
 - Culture

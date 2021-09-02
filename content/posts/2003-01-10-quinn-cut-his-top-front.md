@@ -3,7 +3,6 @@ author: court
 date: 2003-01-10 16:17:56+00:00
 draft: false
 title: Quinn cut his top, front,
-type: post
 url: /blog/2003/01/10/quinn-cut-his-top-front/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2012-11-14 20:50:07+00:00
 draft: false
 title: Restaurant Review makes me want to meet the author
-type: post
 url: /blog/2012/11/14/restaurant-review-makes-me-want-to-meet-the-author/
 categories:
 - Culture

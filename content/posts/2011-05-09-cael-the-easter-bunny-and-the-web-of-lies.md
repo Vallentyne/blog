@@ -3,7 +3,6 @@ author: court
 date: 2011-05-09 14:00:56+00:00
 draft: false
 title: Cael, the Easter Bunny, and the web of lies
-type: post
 url: /blog/2011/05/09/cael-the-easter-bunny-and-the-web-of-lies/
 categories:
 - Family News

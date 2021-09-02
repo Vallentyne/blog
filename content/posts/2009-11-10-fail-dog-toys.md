@@ -3,7 +3,6 @@ author: court
 date: 2009-11-10 12:23:59+00:00
 draft: false
 title: 'Fail: Dog toys'
-type: post
 url: /blog/2009/11/10/fail-dog-toys/
 categories:
 - Llife with Lloyd

@@ -3,7 +3,6 @@ author: court
 date: 2004-07-23 12:50:31+00:00
 draft: false
 title: 'Some updates: Denise and Victor'
-type: post
 url: /blog/2004/07/23/some-updates-denise-and-victor/
 categories:
 - Family News

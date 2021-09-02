@@ -3,7 +3,6 @@ author: court
 date: 2005-06-21 13:08:02+00:00
 draft: false
 title: Mother Nature's a crafty one, but it pays to work for her
-type: post
 url: /blog/2005/06/21/mother-natures-a-crafty-one-but-it-pays-to-work-for-her/
 categories:
 - Apocalypse Soon

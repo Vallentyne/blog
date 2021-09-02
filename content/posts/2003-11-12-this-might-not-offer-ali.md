@@ -3,7 +3,6 @@ author: court
 date: 2003-11-12 12:20:28+00:00
 draft: false
 title: This might not offer Ali
-type: post
 url: /blog/2003/11/12/this-might-not-offer-ali/
 categories:
 - Culture

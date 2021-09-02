@@ -3,7 +3,6 @@ author: court
 date: 2008-10-13 12:00:01+00:00
 draft: false
 title: Ok, anybody with a bigger gun than mine, raise your hand?  Both of them...
-type: post
 url: /blog/2008/10/13/ok-anybody-with-a-bigger-gun-than-mine-raise-your-hand-both-of-them/
 categories:
 - Apocalypse Soon

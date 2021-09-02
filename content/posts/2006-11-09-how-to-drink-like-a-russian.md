@@ -3,7 +3,6 @@ author: court
 date: 2006-11-09 15:21:45+00:00
 draft: false
 title: How to Drink Like a Russian
-type: post
 url: /blog/2006/11/09/how-to-drink-like-a-russian/
 categories:
 - Culture

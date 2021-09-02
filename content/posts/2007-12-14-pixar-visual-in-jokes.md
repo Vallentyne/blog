@@ -3,7 +3,6 @@ author: court
 date: 2007-12-14 17:18:22+00:00
 draft: false
 title: Pixar Visual In-Jokes
-type: post
 url: /blog/2007/12/14/pixar-visual-in-jokes/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2003-02-12 11:58:56+00:00
 draft: false
 title: So, the boy is sick.
-type: post
 url: /blog/2003/02/12/so-the-boy-is-sick/
 categories:
 - Family News

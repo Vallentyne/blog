@@ -3,7 +3,6 @@ author: court
 date: 2018-03-24 15:34:06+00:00
 draft: false
 title: Dog Party Mix
-type: post
 url: /blog/2018/03/24/dog-party-mix/
 categories:
 - Llife with Lloyd

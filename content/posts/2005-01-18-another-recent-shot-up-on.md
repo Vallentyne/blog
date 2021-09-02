@@ -3,7 +3,6 @@ author: court
 date: 2005-01-18 15:15:27+00:00
 draft: false
 title: Another recent shot up on
-type: post
 url: /blog/2005/01/18/another-recent-shot-up-on/
 categories:
 - Family News

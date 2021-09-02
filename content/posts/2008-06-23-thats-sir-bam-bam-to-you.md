@@ -3,7 +3,6 @@ author: court
 date: 2008-06-23 17:15:58+00:00
 draft: false
 title: That's Sir Bam Bam to you
-type: post
 url: /blog/2008/06/23/thats-sir-bam-bam-to-you/
 categories:
 - Family News

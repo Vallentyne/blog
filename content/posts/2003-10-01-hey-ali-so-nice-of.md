@@ -3,7 +3,6 @@ author: court
 date: 2003-10-01 10:15:58+00:00
 draft: false
 title: Hey Ali, so nice of
-type: post
 url: /blog/2003/10/01/hey-ali-so-nice-of/
 categories:
 - Family News

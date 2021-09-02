@@ -3,7 +3,6 @@ author: court
 date: 2009-03-30 13:20:55+00:00
 draft: false
 title: Whither Peter Fredette?
-type: post
 url: /blog/2009/03/30/whither-peter-fredette/
 categories:
 - Culture

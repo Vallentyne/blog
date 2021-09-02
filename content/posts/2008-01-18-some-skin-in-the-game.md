@@ -3,7 +3,6 @@ author: court
 date: 2008-01-18 16:18:17+00:00
 draft: false
 title: Some skin in the game
-type: post
 url: /blog/2008/01/18/some-skin-in-the-game/
 categories:
 - Culture

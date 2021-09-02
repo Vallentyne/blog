@@ -3,7 +3,6 @@ author: court
 date: 2019-01-11 00:46:26+00:00
 draft: false
 title: Speed Post
-type: post
 url: /blog/2019/01/10/speed-post/
 categories:
 - News

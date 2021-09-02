@@ -3,7 +3,6 @@ author: court
 date: 2005-10-04 10:30:27+00:00
 draft: false
 title: Ziploc announces new Big Bags, suitable for human remains
-type: post
 url: /blog/2005/10/04/ziploc-announces-new-big-bags-suitable-for-human-remains/
 categories:
 - News

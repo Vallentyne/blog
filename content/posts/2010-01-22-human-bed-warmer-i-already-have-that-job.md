@@ -3,7 +3,6 @@ author: court
 date: 2010-01-22 20:39:22+00:00
 draft: false
 title: Human bed-warmer? I already have that job...
-type: post
 url: /blog/2010/01/22/human-bed-warmer-i-already-have-that-job/
 categories:
 - News

@@ -3,7 +3,6 @@ author: court
 date: 2010-08-30 16:32:36+00:00
 draft: false
 title: Working From Home
-type: post
 url: /blog/2010/08/30/working-from-home-2/
 categories:
 - Culture

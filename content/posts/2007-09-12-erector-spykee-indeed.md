@@ -3,7 +3,6 @@ author: court
 date: 2007-09-12 17:23:28+00:00
 draft: false
 title: Erector Spykee, indeed
-type: post
 url: /blog/2007/09/12/erector-spykee-indeed/
 categories:
 - Culture

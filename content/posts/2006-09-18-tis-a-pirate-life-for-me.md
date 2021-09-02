@@ -3,7 +3,6 @@ author: court
 date: 2006-09-18 19:21:34+00:00
 draft: false
 title: '''Tis a Pirate life for me'
-type: post
 url: /blog/2006/09/18/tis-a-pirate-life-for-me/
 categories:
 - Culture

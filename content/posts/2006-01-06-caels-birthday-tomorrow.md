@@ -3,7 +3,6 @@ author: court
 date: 2006-01-06 12:10:07+00:00
 draft: false
 title: Cael's Birthday Tomorrow
-type: post
 url: /blog/2006/01/06/caels-birthday-tomorrow/
 categories:
 - Family News

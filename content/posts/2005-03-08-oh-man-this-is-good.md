@@ -3,7 +3,6 @@ author: court
 date: 2005-03-08 12:36:00+00:00
 draft: false
 title: Oh man, this is good
-type: post
 url: /blog/2005/03/08/oh-man-this-is-good/
 categories:
 - Culture

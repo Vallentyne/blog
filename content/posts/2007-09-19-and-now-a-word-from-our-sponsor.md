@@ -3,7 +3,6 @@ author: court
 date: 2007-09-19 14:51:39+00:00
 draft: false
 title: And now a word from our sponsor...
-type: post
 url: /blog/2007/09/19/and-now-a-word-from-our-sponsor/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-07-25 12:55:24+00:00
 draft: false
 title: Somebody fingered this guy, and he's in jail
-type: post
 url: /blog/2005/07/25/somebody-fingered-this-guy-and-hes-in-jail/
 categories:
 - Culture

@@ -3,7 +3,6 @@ author: court
 date: 2005-03-24 11:39:00+00:00
 draft: false
 title: Ah, food, it seems like
-type: post
 url: /blog/2005/03/24/ah-food-it-seems-like/
 categories:
 - Stupidity

@@ -3,7 +3,6 @@ author: court
 date: 2009-10-27 18:40:00+00:00
 draft: false
 title: 'Mostly Just Dust to Dust: A Pillow Eulogy'
-type: post
 url: /blog/2009/10/27/mostly-just-dust-to-dust-a-pillow-eulogy/
 categories:
 - Family News

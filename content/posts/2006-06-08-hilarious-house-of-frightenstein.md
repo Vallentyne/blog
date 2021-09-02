@@ -3,7 +3,6 @@ author: court
 date: 2006-06-08 08:45:57+00:00
 draft: false
 title: Hilarious House of Frightenstein
-type: post
 url: /blog/2006/06/08/hilarious-house-of-frightenstein/
 categories:
 - Culture

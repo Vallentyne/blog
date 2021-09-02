@@ -3,7 +3,6 @@ author: court
 date: 2015-09-25 12:15:40+00:00
 draft: false
 title: Words I wish I would finally stop typing
-type: post
 url: /blog/2015/09/25/words-i-wish-i-would-finally-stop-typing/
 categories:
 - Stupidity

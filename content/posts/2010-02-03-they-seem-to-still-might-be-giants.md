@@ -3,7 +3,6 @@ author: court
 date: 2010-02-03 17:55:02+00:00
 draft: false
 title: They Seem to Still Might Be Giants
-type: post
 url: /blog/2010/02/03/they-seem-to-still-might-be-giants/
 categories:
 - Scientifica

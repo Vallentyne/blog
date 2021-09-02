@@ -3,7 +3,6 @@ author: nikki
 date: 2007-04-04 03:15:06+00:00
 draft: false
 title: God's Night Lights...
-type: post
 url: /blog/2007/04/03/gods-night-lights/
 categories:
 - Family News

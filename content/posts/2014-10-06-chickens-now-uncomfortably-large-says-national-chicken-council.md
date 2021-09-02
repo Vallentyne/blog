@@ -3,7 +3,6 @@ author: court
 date: 2014-10-06 18:59:34+00:00
 draft: false
 title: Chickens now uncomfortably large, says National Chicken Council
-type: post
 url: /blog/2014/10/06/chickens-now-uncomfortably-large-says-national-chicken-council/
 categories:
 - Apocalypse Soon

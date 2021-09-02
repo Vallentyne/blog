@@ -3,7 +3,6 @@ author: court
 date: 2013-01-22 15:51:19+00:00
 draft: false
 title: Order up!  Dinner and Love, hold the onions
-type: post
 url: /blog/2013/01/22/order-up-dinner-and-love-hold-the-onions/
 categories:
 - Family News

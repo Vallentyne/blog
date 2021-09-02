@@ -3,7 +3,6 @@ author: court
 date: 2004-05-13 10:40:38+00:00
 draft: false
 title: If you think about it,
-type: post
 url: /blog/2004/05/13/if-you-think-about-it/
 categories:
 - Family News

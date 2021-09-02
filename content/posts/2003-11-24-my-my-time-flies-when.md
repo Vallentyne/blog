@@ -3,7 +3,6 @@ author: court
 date: 2003-11-24 14:08:35+00:00
 draft: false
 title: My my, time flies when
-type: post
 url: /blog/2003/11/24/my-my-time-flies-when/
 categories:
 - Culture

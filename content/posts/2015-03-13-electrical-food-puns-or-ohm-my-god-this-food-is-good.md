@@ -3,7 +3,6 @@ author: court
 date: 2015-03-13 01:15:26+00:00
 draft: false
 title: Electrical food puns, or ohm my god this food is good
-type: post
 url: /blog/2015/03/12/electrical-food-puns-or-ohm-my-god-this-food-is-good/
 categories:
 - Family News

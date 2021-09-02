@@ -3,7 +3,6 @@ author: court
 date: 2014-02-13 01:58:42+00:00
 draft: false
 title: Rob Ford Pants
-type: post
 url: /blog/2014/02/12/rob-ford-pants/
 categories:
 - Culture

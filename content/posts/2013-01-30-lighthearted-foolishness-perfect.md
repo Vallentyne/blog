@@ -3,7 +3,6 @@ author: court
 date: 2013-01-30 13:16:36+00:00
 draft: false
 title: Lighthearted Foolishness?  Perfect.
-type: post
 url: /blog/2013/01/30/lighthearted-foolishness-perfect/
 categories:
 - Culture

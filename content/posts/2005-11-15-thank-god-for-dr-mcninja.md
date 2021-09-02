@@ -3,7 +3,6 @@ author: court
 date: 2005-11-15 13:01:16+00:00
 draft: false
 title: Thank God for Dr. McNinja
-type: post
 url: /blog/2005/11/15/thank-god-for-dr-mcninja/
 categories:
 - Culture

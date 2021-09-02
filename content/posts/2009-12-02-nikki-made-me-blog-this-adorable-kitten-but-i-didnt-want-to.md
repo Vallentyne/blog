@@ -3,7 +3,6 @@ author: court
 date: 2009-12-02 03:07:11+00:00
 draft: false
 title: Nikki made me blog this adorable kitten, but I didn't want to...
-type: post
 url: /blog/2009/12/01/nikki-made-me-blog-this-adorable-kitten-but-i-didnt-want-to/
 categories:
 - Video Diversions

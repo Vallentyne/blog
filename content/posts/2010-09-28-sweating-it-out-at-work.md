@@ -3,7 +3,6 @@ author: court
 date: 2010-09-28 19:02:47+00:00
 draft: false
 title: Sweating it out at work
-type: post
 url: /blog/2010/09/28/sweating-it-out-at-work/
 categories:
 - Running

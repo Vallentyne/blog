@@ -3,7 +3,6 @@ author: court
 date: 2005-07-27 14:08:42+00:00
 draft: false
 title: Robocoaster
-type: post
 url: /blog/2005/07/27/robocoaster/
 categories:
 - Tech

@@ -3,7 +3,6 @@ author: court
 date: 2003-09-23 13:42:44+00:00
 draft: false
 title: In the basement renovation business,
-type: post
 url: /blog/2003/09/23/in-the-basement-renovation-business/
 categories:
 - Family News

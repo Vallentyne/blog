@@ -3,7 +3,6 @@ author: court
 date: 2004-03-22 16:49:02+00:00
 draft: false
 title: So, Cindy is now a
-type: post
 url: /blog/2004/03/22/so-cindy-is-now-a/
 categories:
 - Family News

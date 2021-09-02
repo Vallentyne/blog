@@ -3,7 +3,6 @@ author: court
 date: 2012-11-24 16:22:11+00:00
 draft: false
 title: 38 Seconds with Gustavo Whatsisname
-type: post
 url: /blog/2012/11/24/38-seconds-with-gustavo-whatsisname/
 categories:
 - Video Diversions

@@ -3,7 +3,6 @@ author: court
 date: 2003-03-10 12:11:35+00:00
 draft: false
 title: As far as skating is
-type: post
 url: /blog/2003/03/10/as-far-as-skating-is/
 categories:
 - Family News

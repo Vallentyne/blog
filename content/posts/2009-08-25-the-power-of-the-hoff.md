@@ -3,7 +3,6 @@ author: court
 date: 2009-08-25 18:44:02+00:00
 draft: false
 title: Never underestimate the power of the 'Hoff
-type: post
 url: /blog/2009/08/25/the-power-of-the-hoff/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2015-04-23 12:51:53+00:00
 draft: false
 title: Lloyd Lloathes Vents
-type: post
 url: /blog/2015/04/23/lloyd-lloathes-vents/
 categories:
 - Llife with Lloyd

@@ -3,7 +3,6 @@ author: court
 date: 2007-01-26 14:02:53+00:00
 draft: false
 title: Wife saves husband's life
-type: post
 url: /blog/2007/01/26/wife-saves-husbands-life/
 categories:
 - News

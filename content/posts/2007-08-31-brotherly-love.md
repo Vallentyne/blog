@@ -3,7 +3,6 @@ author: nikki
 date: 2007-08-31 19:42:27+00:00
 draft: false
 title: Brotherly Love...
-type: post
 url: /blog/2007/08/31/brotherly-love/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2009-04-01 11:51:35+00:00
 draft: false
 title: Happy Birthday Mom!
-type: post
 url: /blog/2009/04/01/happy-birthday-mom-2/
 categories:
 - Family News

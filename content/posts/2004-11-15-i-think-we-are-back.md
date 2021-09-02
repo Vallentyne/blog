@@ -3,7 +3,6 @@ author: court
 date: 2004-11-15 22:16:39+00:00
 draft: false
 title: I think we are back
-type: post
 url: /blog/2004/11/15/i-think-we-are-back/
 categories:
 - Family News

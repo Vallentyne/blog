@@ -3,7 +3,6 @@ author: court
 date: 2004-09-15 13:59:15+00:00
 draft: false
 title: HAPPY BIRTHDAY TO YOU, I
-type: post
 url: /blog/2004/09/15/happy-birthday-to-you-i/
 categories:
 - Family News

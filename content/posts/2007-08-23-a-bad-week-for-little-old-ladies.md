@@ -3,7 +3,6 @@ author: court
 date: 2007-08-23 17:45:02+00:00
 draft: false
 title: A bad week for little old ladies
-type: post
 url: /blog/2007/08/23/a-bad-week-for-little-old-ladies/
 categories:
 - News

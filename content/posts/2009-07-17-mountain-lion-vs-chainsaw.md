@@ -3,7 +3,6 @@ author: court
 date: 2009-07-17 12:49:38+00:00
 draft: false
 title: Mountain Lion vs Chainsaw
-type: post
 url: /blog/2009/07/17/mountain-lion-vs-chainsaw/
 categories:
 - News

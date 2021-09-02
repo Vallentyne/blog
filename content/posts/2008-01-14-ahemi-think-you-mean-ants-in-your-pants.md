@@ -3,7 +3,6 @@ author: nikki
 date: 2008-01-14 19:35:03+00:00
 draft: false
 title: Ahem...I think you mean "Ants In Your Pants".
-type: post
 url: /blog/2008/01/14/ahemi-think-you-mean-ants-in-your-pants/
 categories:
 - Family News

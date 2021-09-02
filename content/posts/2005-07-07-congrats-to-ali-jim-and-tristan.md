@@ -3,7 +3,6 @@ author: court
 date: 2005-07-07 22:48:22+00:00
 draft: false
 title: Congrats to Ali, Jim and Tristan!
-type: post
 url: /blog/2005/07/07/congrats-to-ali-jim-and-tristan/
 categories:
 - Family News

@@ -3,7 +3,6 @@ author: court
 date: 2005-08-16 16:14:01+00:00
 draft: false
 title: Sons of the earth
-type: post
 url: /blog/2005/08/16/sons-of-the-earth/
 categories:
 - Stupidity

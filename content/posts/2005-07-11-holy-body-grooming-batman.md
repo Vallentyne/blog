@@ -3,7 +3,6 @@ author: court
 date: 2005-07-11 22:21:03+00:00
 draft: false
 title: Holy body grooming batman!
-type: post
 url: /blog/2005/07/11/holy-body-grooming-batman/
 categories:
 - Stupidity

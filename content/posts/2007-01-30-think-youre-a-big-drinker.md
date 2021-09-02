@@ -3,7 +3,6 @@ author: court
 date: 2007-01-30 15:08:45+00:00
 draft: false
 title: Think you're a big drinker?
-type: post
 url: /blog/2007/01/30/think-youre-a-big-drinker/
 categories:
 - Culture
