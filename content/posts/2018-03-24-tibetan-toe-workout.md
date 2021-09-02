@@ -14,5 +14,6 @@ tags:
 Nikki learned this from an eight-toed Tibetan monk last Tuesday. Terrific workout, really targets the tarsals.
 
 
+{{< youtube W7746dL267Q >}}
 
-![300](https://youtu.be/W7746dL267Q)
+

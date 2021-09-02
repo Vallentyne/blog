@@ -1,8 +1,8 @@
 ---
-author: court
+author: Court
 date: 2020-01-07 14:16:00+00:00
 draft: false
-title: Happy 16th to this little fella.
+title: "Happy 16th to this little fella."
 type: post
 url: /blog/2020/01/07/happy-16th-to-this-little-fella/
 categories:

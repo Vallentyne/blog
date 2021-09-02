@@ -158,9 +158,9 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "https://github.com/Vallentyne"
+        GitHub = "Vallentyne"
         Linkedin = ""
-        Twitter = "https://twitter.com/_court"
+        Twitter = "_court"
         Instagram = ""
         Facebook = ""
         Telegram = ""
@@ -221,9 +221,7 @@ enableEmoji = true
         Bilibili = ""
         Email = "court@vallentyne.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+
 
   [languages.zh-cn]
     weight = 2
