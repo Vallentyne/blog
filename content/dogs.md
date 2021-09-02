@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Dogs"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2021-09-02T12:20:25-04:00
+lastmod: 2021-09-02T12:20:25-04:00
 draft: true
 author: ""
 authorLink: ""
@@ -24,5 +24,8 @@ math:
 lightgallery: false
 license: ""
 ---
+
+you won't believe it.
+
 
 <!--more-->
