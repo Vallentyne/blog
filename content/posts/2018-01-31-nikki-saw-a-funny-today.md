@@ -12,4 +12,8 @@ tags:
 
 Presented without comment.....
 
-[embed]https://youtu.be/i8vzo4hmj2U[/embed]
+![](/blog/wp-content/uploads/2018/01/niklaugh.png)
+
+{{< youtube i8vzo4hmj2U >}}
+
+

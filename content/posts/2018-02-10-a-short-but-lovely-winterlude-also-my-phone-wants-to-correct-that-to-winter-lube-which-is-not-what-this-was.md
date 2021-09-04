@@ -9,7 +9,7 @@ categories:
 - News
 ---
 
-![](http://www.vallentyne.com/blog/wp-content/uploads/2018/02/image_539997339200852.jpg)
+![](/blog/wp-content/uploads/2018/02/image_539997339200852-1024x769.jpg)
   
   
 

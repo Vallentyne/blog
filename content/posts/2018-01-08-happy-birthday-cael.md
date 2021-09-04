@@ -10,7 +10,7 @@ categories:
 
 This cool dude is 14 years old today....
 
-![](/blog/wp-content/uploads/2018/01/img_0017-1.jpg)
+![](/blog/wp-content/uploads/2018/01/img_0017.jpg)
 
 
 Stay cool man, you make me laugh every day.
