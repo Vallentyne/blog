@@ -1,7 +1,7 @@
 ---
 title: "Static vallentyne"
 date: 2021-09-03T09:10:58-04:00
-draft: true
+draft: false
 author: "Court"
 
 ---
